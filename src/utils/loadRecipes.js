@@ -1,5 +1,5 @@
 // 静的ビルド用のレシピデータ取得ロジック
-// 本番運用時はViteのimport.meta.globでrecipies配下をまとめてimportするのが推奨
+// 本番運用時はViteのimport.meta.globでrecipes配下をまとめてimportするのが推奨
 
 
 // data.jsonのsteps(string[])やingredients(string[])をrecipe([{ingredient, operation}])形式に変換
@@ -26,11 +26,11 @@ function convertToRecipeFormat(data) {
 }
 
 export async function loadRecipes() {
-    const modules = import.meta.glob('../../recipies/*/data.json', { eager: true });
-    const imageModules = import.meta.glob('../../recipies/*/image.png', { eager: true, as: 'url' });
+    const modules = import.meta.glob('../../recipes/*/data.json', { eager: true });
+    const imageModules = import.meta.glob('../../recipes/*/image.png', { eager: true, as: 'url' });
     const recipes = Object.entries(modules).map(([path, mod]) => {
         const id = path.split('/').slice(-2, -1)[0];
-        const imagePath = `../../recipies/${id}/image.png`;
+        const imagePath = `../../recipes/${id}/image.png`;
         const data = mod.default || mod;
         const converted = convertToRecipeFormat(data);
         return {
@@ -52,8 +52,8 @@ export async function loadRecipes() {
 
 
 // import.meta.globで全件取得し、idでフィルタする方式に統一
-const modules = import.meta.glob('../../recipies/*/data.json', { eager: true });
-const imageModules = import.meta.glob('../../recipies/*/image.png', { eager: true, as: 'url' });
+const modules = import.meta.glob('../../recipes/*/data.json', { eager: true });
+const imageModules = import.meta.glob('../../recipes/*/image.png', { eager: true, as: 'url' });
 
 export async function loadRecipeById(id) {
     // パスの一部にidが含まれるものを探す
