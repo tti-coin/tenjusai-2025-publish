@@ -1,0 +1,68 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "そば",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "そば",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "えび",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "いちご",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "こめ",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "パン",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "しょうゆ",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "しょうゆ",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "たこ",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "ばなな",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "さかな",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "こめ",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "たこ",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "こめ",
+            "operation": "蒸す"
+        }
+    ],
+    "job_id": "26ed6495-3455-432b-a4c7-6c22d39c28e7",
+    "created_at": "2025-06-06T14:28:06.429180",
+    "started_at": "2025-06-06T14:28:06.429640",
+    "title": "たこ飯",
+    "comment": "新しいアイデアでおいしい料理が完成しました！",
+    "image_url": "/api/results/26ed6495-3455-432b-a4c7-6c22d39c28e7/image.png",
+    "finished_at": "2025-06-06T14:28:26.591093"
+}
