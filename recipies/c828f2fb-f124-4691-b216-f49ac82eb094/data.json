@@ -1,0 +1,16 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "そば",
+            "operation": "焼く"
+        }
+    ],
+    "job_id": "c828f2fb-f124-4691-b216-f49ac82eb094",
+    "created_at": "2025-06-06T07:18:44.828148",
+    "started_at": "2025-06-06T07:18:44.830867",
+    "title": "焼きそば",
+    "comment": "香ばしくて美味しい一品です。",
+    "image_url": "/api/results/c828f2fb-f124-4691-b216-f49ac82eb094/image.png",
+    "finished_at": "2025-06-06T07:19:08.557746"
+}
