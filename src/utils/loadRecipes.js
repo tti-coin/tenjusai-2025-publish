@@ -39,6 +39,13 @@ export async function loadRecipes() {
             image: imageModules[imagePath],
         };
     });
+    // finished_at（ISO8601文字列やタイムスタンプ）で降順ソート（新しい順）
+    recipes.sort((a, b) => {
+        if (!a.finished_at && !b.finished_at) return 0;
+        if (!a.finished_at) return 1;
+        if (!b.finished_at) return -1;
+        return new Date(b.finished_at) - new Date(a.finished_at);
+    });
     return recipes;
 }
 

@@ -1,15 +1,14 @@
-
 <template>
-  <div class="recipe-list-view">
-    <h2>みんなの料理</h2>
-    <div class="recipe-list">
-      <div v-for="recipe in recipes" :key="recipe.id" class="recipe-item" @click="goToDetail(recipe.id)">
-        <img v-if="recipe.image" :src="recipe.image" alt="サムネイル" class="thumbnail" />
-        <div class="title">{{ recipe.title || 'タイトル未設定' }}</div>
-      </div>
+    <div class="recipe-list-view">
+        <h2>みんなの料理</h2>
+        <div class="recipe-list">
+            <div v-for="recipe in recipes" :key="recipe.id" class="recipe-item" @click="goToDetail(recipe.id)">
+                <img v-if="recipe.image" :src="recipe.image" alt="サムネイル" class="thumbnail" />
+                <div class="title">{{ recipe.title || 'タイトル未設定' }}</div>
+            </div>
+        </div>
+        <!-- フッター削除 -->
     </div>
-    <!-- フッター削除 -->
-  </div>
 </template>
 
 <script>
@@ -18,21 +17,21 @@ import { ref, onMounted } from 'vue';
 import { useRouter } from 'vue-router';
 
 export default {
-  name: 'RecipeListView',
-  setup() {
-    const recipes = ref([]);
-    const router = useRouter();
-    onMounted(async () => {
-      recipes.value = await loadRecipes();
-    });
-    const goToDetail = (id) => {
-      router.push(`/recipe/${id}`);
-    };
-    const goToTop = () => {
-      router.push('/');
-    };
-    return { recipes, goToDetail, goToTop };
-  },
+    name: 'RecipeListView',
+    setup() {
+        const recipes = ref([]);
+        const router = useRouter();
+        onMounted(async () => {
+            recipes.value = await loadRecipes();
+        });
+        const goToDetail = (id) => {
+            router.push(`/recipe/${id}`);
+        };
+        const goToTop = () => {
+            router.push('/');
+        };
+        return { recipes, goToDetail, goToTop };
+    },
 };
 </script>
 
@@ -126,6 +125,7 @@ export default {
     color: #a34c00;
     transition: background 0.2s;
 }
+
 .list-btn:hover {
     background: #ffd699;
 }
