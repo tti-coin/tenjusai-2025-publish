@@ -23,7 +23,7 @@
 
 - 静的ページのビルド・デプロイはGitHub Actions（.github/workflows/deploy.yml）で自動化されています。
 - Viteの `base` 設定は `/tenjusai-2025-publish/` です。
-- `recipies/` ディレクトリの構造やファイル名はtenjusai-2025本体の仕様に準拠してください。
+- `recipes/` ディレクトリの構造やファイル名はtenjusai-2025本体の仕様に準拠してください。
 - 公開用の静的ファイルは `dist/` ディレクトリに出力されます。
 - GitHub Pagesの「Source」は「GitHub Actions」に設定してください。
 
