@@ -1,0 +1,36 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "さとう",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "さかな",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "いちご",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "ばなな",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "パン",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "そば",
+            "operation": "切る"
+        }
+    ],
+    "job_id": "b43cdb4b-838e-4ad5-8dfc-13527e86003e",
+    "created_at": "2025-06-06T15:21:55.621927",
+    "started_at": "2025-06-06T15:21:55.623647",
+    "title": "蒸しパンのさかな",
+    "comment": "ユニークな組み合わせで楽しい味わい",
+    "image_url": "/api/results/b43cdb4b-838e-4ad5-8dfc-13527e86003e/image.png",
+    "finished_at": "2025-06-06T15:22:29.207568"
+}
