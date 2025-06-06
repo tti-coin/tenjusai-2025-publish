@@ -1,0 +1,16 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "こめ",
+            "operation": "焼く"
+        }
+    ],
+    "job_id": "09e1c7cf-7a85-4f26-8d7c-793c8184503f",
+    "created_at": "2025-06-06T07:14:23.290513",
+    "started_at": "2025-06-06T07:14:23.292905",
+    "title": "焼きおこめ",
+    "comment": "香ばしい香りが食欲をそそります",
+    "image_url": "/api/results/09e1c7cf-7a85-4f26-8d7c-793c8184503f/image.png",
+    "finished_at": "2025-06-06T07:14:46.603073"
+}
