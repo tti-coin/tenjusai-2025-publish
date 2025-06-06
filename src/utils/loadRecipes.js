@@ -1,0 +1,63 @@
+// 静的ビルド用のレシピデータ取得ロジック
+// 本番運用時はViteのimport.meta.globでrecipies配下をまとめてimportするのが推奨
+
+
+// data.jsonのsteps(string[])やingredients(string[])をrecipe([{ingredient, operation}])形式に変換
+function convertToRecipeFormat(data) {
+    // 旧データ形式: ingredients, steps, comment, title
+    // 新データ形式: recipe([{ingredient, operation}]), comment, title
+    if (Array.isArray(data.recipe)) {
+        return data;
+    }
+    // 仮: steps = ["たまごを割る", "フライパンで焼く"] のような場合
+    const recipe = (data.steps || []).map(step => {
+        // 「を」で分割し ingredient/operation を推定
+        const m = step.match(/(.+?)を(.+)/);
+        if (m) {
+            return { ingredient: m[1].trim(), operation: m[2].trim() };
+        } else {
+            return { ingredient: step, operation: '' };
+        }
+    });
+    return {
+        ...data,
+        recipe,
+    };
+}
+
+export async function loadRecipes() {
+    const modules = import.meta.glob('../../recipies/*/data.json', { eager: true });
+    const imageModules = import.meta.glob('../../recipies/*/image.png', { eager: true, as: 'url' });
+    const recipes = Object.entries(modules).map(([path, mod]) => {
+        const id = path.split('/').slice(-2, -1)[0];
+        const imagePath = `../../recipies/${id}/image.png`;
+        const data = mod.default || mod;
+        const converted = convertToRecipeFormat(data);
+        return {
+            id,
+            ...converted,
+            image: imageModules[imagePath],
+        };
+    });
+    return recipes;
+}
+
+
+
+// import.meta.globで全件取得し、idでフィルタする方式に統一
+const modules = import.meta.glob('../../recipies/*/data.json', { eager: true });
+const imageModules = import.meta.glob('../../recipies/*/image.png', { eager: true, as: 'url' });
+
+export async function loadRecipeById(id) {
+    // パスの一部にidが含まれるものを探す
+    const key = Object.keys(modules).find(path => path.includes(`/${id}/data.json`));
+    const imageKey = Object.keys(imageModules).find(path => path.includes(`/${id}/image.png`));
+    if (!key) return null;
+    const data = modules[key].default || modules[key];
+    const converted = convertToRecipeFormat(data);
+    return {
+        id,
+        ...converted,
+        image: imageModules[imageKey],
+    };
+}
