@@ -6,7 +6,7 @@
 
 ## 特徴
 
-- 料理データ（レシピ・画像）は `recipies/` ディレクトリに保存されます。
+- 料理データ（レシピ・画像）は `recipes/` ディレクトリに保存されます。
 - tenjusai-2025 のバックエンドが新しい料理データを自動でこのリポジトリにPushします。
 - GitHub ActionsによるCD（継続的デプロイ）が設定されており、Pushされるたびに自動で静的ページがビルド・公開されます。
 - 公開ページは [https://tti-coin.github.io/tenjusai-2025-publish/](https://tti-coin.github.io/tenjusai-2025-publish/) で閲覧できます。
