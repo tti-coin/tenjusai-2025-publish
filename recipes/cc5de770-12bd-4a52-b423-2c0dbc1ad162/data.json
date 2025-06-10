@@ -1,0 +1,28 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "パン",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "さかな",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "さかな",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "りんご",
+            "operation": "すりおろす"
+        }
+    ],
+    "job_id": "cc5de770-12bd-4a52-b423-2c0dbc1ad162",
+    "created_at": "2025-06-10T14:49:51.923820",
+    "started_at": "2025-06-10T14:49:51.924417",
+    "title": "蒸しパンとりんごのすりおろし",
+    "comment": "新鮮な魚とりんごの爽やかな組み合わせです",
+    "image_url": "/api/results/cc5de770-12bd-4a52-b423-2c0dbc1ad162/image.png",
+    "finished_at": "2025-06-10T14:50:06.338385"
+}
