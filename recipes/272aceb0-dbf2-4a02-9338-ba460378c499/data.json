@@ -1,0 +1,60 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "ばなな",
+            "operation": "すりおろす"
+        },
+        {
+            "ingredient": "とりにく",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "さとう",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "パン",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "とりにく",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "りんご",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "ぎゅうにく",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "りんご",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "そば",
+            "operation": "すりおろす"
+        },
+        {
+            "ingredient": "さかな",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "さかな",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "こめ",
+            "operation": "焼く"
+        }
+    ],
+    "job_id": "272aceb0-dbf2-4a02-9338-ba460378c499",
+    "created_at": "2025-06-10T14:27:34.849559",
+    "started_at": "2025-06-10T14:27:34.850010",
+    "title": "バナナとりにくの焼きそば",
+    "comment": "バナナとりにくの焼きそばはヘルシーで美味しい料理です。",
+    "image_url": "/api/results/272aceb0-dbf2-4a02-9338-ba460378c499/image.png",
+    "finished_at": "2025-06-10T14:28:58.178978"
+}
