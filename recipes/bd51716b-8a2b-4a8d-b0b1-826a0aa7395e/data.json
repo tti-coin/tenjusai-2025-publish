@@ -1,0 +1,56 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "うどん",
+            "operation": "蒸す"
+        },
+        {
+            "ingredient": "しょうゆ",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "しょうゆ",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "ばなな",
+            "operation": "すりおろす"
+        },
+        {
+            "ingredient": "とりにく",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "ばなな",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "マヨネーズ",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "ぶたにく",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "りんご",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "たこ",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "うどん",
+            "operation": "切る"
+        }
+    ],
+    "job_id": "bd51716b-8a2b-4a8d-b0b1-826a0aa7395e",
+    "created_at": "2025-06-10T14:32:47.946791",
+    "started_at": "2025-06-10T14:32:47.947219",
+    "title": "創作料理",
+    "comment": "異国の風味が楽しめる一品です。",
+    "image_url": "/api/results/bd51716b-8a2b-4a8d-b0b1-826a0aa7395e/image.png",
+    "finished_at": "2025-06-10T14:33:06.220581"
+}
