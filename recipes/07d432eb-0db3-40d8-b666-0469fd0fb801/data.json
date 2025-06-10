@@ -1,0 +1,40 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "ぎゅうにく",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "こめ",
+            "operation": "すりおろす"
+        },
+        {
+            "ingredient": "ばなな",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "たこ",
+            "operation": "すりおろす"
+        },
+        {
+            "ingredient": "さかな",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "うどん",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "ばなな",
+            "operation": "切る"
+        }
+    ],
+    "job_id": "07d432eb-0db3-40d8-b666-0469fd0fb801",
+    "created_at": "2025-06-10T14:43:42.220430",
+    "started_at": "2025-06-10T14:43:42.220863",
+    "title": "ぎゅうにくの炒め物",
+    "comment": "肉と野菜の相性が抜群です！",
+    "image_url": "/api/results/07d432eb-0db3-40d8-b666-0469fd0fb801/image.png",
+    "finished_at": "2025-06-10T14:44:56.356376"
+}
