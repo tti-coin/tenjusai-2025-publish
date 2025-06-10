@@ -1,0 +1,72 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "しょうゆ",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "さとう",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "パン",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "りんご",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "たこ",
+            "operation": "すりおろす"
+        },
+        {
+            "ingredient": "パン",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "パン",
+            "operation": "すりおろす"
+        },
+        {
+            "ingredient": "とりにく",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "そば",
+            "operation": "煮る"
+        },
+        {
+            "ingredient": "こめ",
+            "operation": "すりおろす"
+        },
+        {
+            "ingredient": "いちご",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "ばなな",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "ぶたにく",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "マヨネーズ",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "たこ",
+            "operation": "すりおろす"
+        }
+    ],
+    "job_id": "da5fff43-68ea-4a94-b117-971aa4558da4",
+    "created_at": "2025-06-10T14:40:28.122869",
+    "started_at": "2025-06-10T14:40:28.123254",
+    "title": "たこの煮込み",
+    "comment": "しょうゆとさとうの絶妙な組み合わせがたこによく合う一品です。",
+    "image_url": "/api/results/da5fff43-68ea-4a94-b117-971aa4558da4/image.png",
+    "finished_at": "2025-06-10T14:40:56.276429"
+}
