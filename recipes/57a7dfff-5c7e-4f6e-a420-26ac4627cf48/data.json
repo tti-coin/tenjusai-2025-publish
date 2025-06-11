@@ -1,0 +1,20 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "こめ",
+            "operation": "つぶす"
+        },
+        {
+            "ingredient": "うどん",
+            "operation": "すりおろす"
+        }
+    ],
+    "job_id": "57a7dfff-5c7e-4f6e-a420-26ac4627cf48",
+    "created_at": "2025-06-11T03:49:05.215179",
+    "started_at": "2025-06-11T03:49:05.217410",
+    "title": "こめとうどんの和風ペースト",
+    "comment": "素朴ながらも風味豊かな一品です",
+    "image_url": "/api/results/57a7dfff-5c7e-4f6e-a420-26ac4627cf48/image.png",
+    "finished_at": "2025-06-11T03:49:27.489171"
+}
