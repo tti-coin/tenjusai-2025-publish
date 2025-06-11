@@ -1,0 +1,28 @@
+{
+    "status": "done",
+    "recipe": [
+        {
+            "ingredient": "うどん",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "そば",
+            "operation": "切る"
+        },
+        {
+            "ingredient": "パン",
+            "operation": "焼く"
+        },
+        {
+            "ingredient": "こめ",
+            "operation": "煮る"
+        }
+    ],
+    "job_id": "1535ecd9-0a58-4b4e-86c1-fd34dc4acda1",
+    "created_at": "2025-06-11T04:42:25.606420",
+    "started_at": "2025-06-11T04:42:25.609821",
+    "title": "炭火で香ばしく焼かれた日本の味わい",
+    "comment": "焼きうどんと焼きパンの組み合わせは絶品です",
+    "image_url": "/api/results/1535ecd9-0a58-4b4e-86c1-fd34dc4acda1/image.png",
+    "finished_at": "2025-06-11T04:42:51.603491"
+}
