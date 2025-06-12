@@ -7,7 +7,7 @@
             <ul class="recipe-list">
                 <li v-for="recipe in recipes" :key="recipe.job_id" class="recipe-item" @click="goDetail(recipe.job_id)">
                     <div class="recipe-thumb">
-                        <img :src="`/recipes/${recipe.job_id}/image.png`" alt="recipe image" />
+                        <img :src="recipe.image" alt="recipe image" />
                     </div>
                     <div class="recipe-title">{{ recipe.title }}</div>
                     <div class="recipe-comment">{{ recipe.comment }}</div>
