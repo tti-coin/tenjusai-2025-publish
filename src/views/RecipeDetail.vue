@@ -53,7 +53,7 @@ export default {
                 if (!recipeData) throw new Error('レシピが見つかりません');
                 title.value = recipeData.title || '';
                 comment.value = recipeData.comment || '';
-                imageUrl.value = `/recipes/${route.params.id}/image.png`;
+                imageUrl.value = recipeData.image;
                 recipe.value = recipeData.recipe || [];
             } catch (e) {
                 error.value = e.message;
