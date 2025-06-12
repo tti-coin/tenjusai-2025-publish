@@ -1,0 +1,52 @@
+{
+    "status": "running",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "3aeb8124-ca00-4408-aa8e-369190b97a97",
+    "created_at": "2025-06-12T07:01:32.912159",
+    "started_at": "2025-06-12T07:01:32.914978",
+    "title": "いちごとたこの蒸し煮",
+    "comment": "いちごとたこの組み合わせが意外な美味しさ"
+}
