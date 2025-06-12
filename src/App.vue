@@ -1,17 +1,24 @@
 <template>
-    <router-view />
+    <div id="app">
+        <router-view />
+    </div>
 </template>
 
-<script>
-export default {
-    name: 'App',
-};
+<script setup>
+// ルーティング対応App.vue
 </script>
 
 <style>
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    /* text-align: center; */
+    /* margin-top: 40px; */
+}
+
 body {
-    font-family: 'Noto Sans JP', sans-serif;
-    background: #f8f8f8;
+    background: #fce9d8;
     margin: 0;
+    padding: 0;
+    max-height: 100dvh;
 }
 </style>
