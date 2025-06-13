@@ -1,0 +1,47 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ぶたにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "ffcbc33a-5542-418e-a29e-c0700a4c2a45",
+    "created_at": "2025-06-13T05:52:19.799559",
+    "started_at": "2025-06-13T05:52:19.801825",
+    "title": "しょうゆ焼きぶたと炒めこめ",
+    "comment": "しょうゆの風味が美味しさを引き立てます",
+    "finished_at": "2025-06-13T05:52:44.620788"
+}
