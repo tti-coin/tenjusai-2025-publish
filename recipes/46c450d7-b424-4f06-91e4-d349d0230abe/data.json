@@ -1,0 +1,214 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            }
+        ]
+    ],
+    "job_id": "46c450d7-b424-4f06-91e4-d349d0230abe",
+    "created_at": "2025-06-19T12:17:55.555365",
+    "started_at": "2025-06-19T12:17:55.556068",
+    "title": "マヨネーズご飯",
+    "comment": "まるでマヨネーズの王様！たっぷりとかかったマヨネーズがご飯と相性抜群で、一度食べるとやみつきになること間違いなしです。食べると幸せな気持ちになれる、究極のご飯料理です！",
+    "image_prompt": "ご飯の上にたっぷりとマヨネーズをかけ、濃厚でクリーミーなマヨネーズがご飯に絡みつく様子を表現してください。マヨネーズが光り輝き、食欲をそそる一品としてイメージしてください。",
+    "finished_at": "2025-06-19T12:18:12.385818"
+}
