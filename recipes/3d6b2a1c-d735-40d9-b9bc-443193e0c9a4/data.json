@@ -1,0 +1,104 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "3d6b2a1c-d735-40d9-b9bc-443193e0c9a4",
+    "created_at": "2025-06-19T06:57:51.236389",
+    "started_at": "2025-06-19T06:57:51.239171",
+    "title": "ピーマンとほうれん草の和え物",
+    "comment": "ピーマンの辛さとほうれん草の優しい味が絶妙にマッチした、ヘルシーで美味しい一品です。温める工程を丁寧に行うことで、香り豊かな一皿に仕上がります。ぜひお試しあれ！",
+    "image_prompt": "すりおろしたピーマンと焼いたほうれん草を和え、照りが出るまでしっかり温めた後、盛り付ける様子。ピーマンの鮮やかな緑とほうれん草の深い緑が美しく調和した料理が完成する様子を表現してください。",
+    "finished_at": "2025-06-19T06:58:22.573480"
+}
