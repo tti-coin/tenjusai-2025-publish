@@ -1,0 +1,96 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "解凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごぼう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "8fca49de-0e2c-4836-b4e3-6b47841af5ff",
+    "created_at": "2025-06-19T05:10:11.213144",
+    "started_at": "2025-06-19T05:10:11.213929",
+    "title": "Cheesy Mushroom and Pear Stuffed Gobo with Sake Sauce",
+    "comment": "ほのかなピーナッツの風味とチーズのコクが絶妙にマッチした、ユニークでおいしい一品です。特に、洋なしとごぼうの組み合わせは絶品！料理と一緒に楽しむさけもお忘れなく。",
+    "image_prompt": "Preheat the oven and prepare a baking dish. Thaw the frozen peanuts and gently warm the enoki mushrooms in a skillet. Wrap each pear in prosciutto slices. Steam the burdock root until tender. Pour a generous amount of cheese over the stuffed vegetables and bake until golden brown. Serve with a side of sake sauce for a delicious twist.",
+    "finished_at": "2025-06-19T05:10:44.168795"
+}
