@@ -1,0 +1,138 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "解凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "551aff55-573f-4c2b-8523-98e73aa299ec",
+    "created_at": "2025-06-19T06:55:36.510906",
+    "started_at": "2025-06-19T06:55:36.514624",
+    "title": "オレンジもちのなっとうサラダ",
+    "comment": "色鮮やかな見た目と、和洋折衷なユニークな組み合わせが楽しい一品。オレンジの爽やかさとピーナッツの食感が絶妙にマッチして、食べるのが楽しみなサラダです。冷凍したピーナッツのアクセントが絶品！",
+    "image_prompt": "もちをふんわりとした食感に仕上げ、香ばしく炒めたフォーと一緒に、鮮やかなオレンジの輪切りを彩り良く盛り付けます。ごま油の風味としその爽やかな味わいが絶妙にマッチし、冷凍したピーナッツの食感がアクセントになります。のりとなっとうで和風のアレンジを加え、最後に香ばしいピーナッツをかけて完成です。",
+    "finished_at": "2025-06-19T06:56:17.072844"
+}
