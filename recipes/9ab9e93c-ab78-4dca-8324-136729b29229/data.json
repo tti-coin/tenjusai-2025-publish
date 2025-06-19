@@ -1,0 +1,96 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "春菊"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "春菊"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ]
+    ],
+    "job_id": "9ab9e93c-ab78-4dca-8324-136729b29229",
+    "created_at": "2025-06-19T05:14:17.633538",
+    "started_at": "2025-06-19T05:14:17.636516",
+    "title": "春菊といちごのロマネスコサラダ",
+    "comment": "いちごの意外な使い方に驚くこと間違いなし！豚肉の冷凍は斬新なアイデアで、食感も楽しめます。ロマネスコのゆで加減がポイントで、見た目にも華やかな一品に仕上がります。",
+    "image_prompt": "冷凍された豚肉からジューシーな肉汁が溢れる一皿。春菊が鮮やかに盛り付けられ、いちごの甘酸っぱさがアクセントとなっています。ズッキーニの食感とロマネスコの風味が絶妙にマッチしたサラダです。",
+    "finished_at": "2025-06-19T05:14:51.051614"
+}
