@@ -1,0 +1,82 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "1dba9f78-84d9-4e0e-b31d-89aa57b2262d",
+    "created_at": "2025-06-19T05:07:23.111635",
+    "started_at": "2025-06-19T05:07:23.112429",
+    "title": "かにとえびのサラダ",
+    "comment": "かにとえびを使ったサラダは、見た目も華やかで食欲をそそります。新鮮な食材を使うことで、爽やかな味わいが楽しめる一品です。ぜひ試してみてください！",
+    "image_prompt": "Imagine a refreshing salad with crab, shrimp, and oranges beautifully arranged on a plate, garnished with bonito flakes. The vibrant colors and fresh ingredients create a visually appealing dish that is sure to whet your appetite.",
+    "finished_at": "2025-06-19T05:07:52.196544"
+}
