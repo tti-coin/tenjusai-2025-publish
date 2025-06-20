@@ -187,7 +187,7 @@ export default {
     bottom: 0;
     z-index: 10;
     background: #fff;
-    padding: 16px 0 24px 0;
+    padding: 8px 0 8px 0;
     display: flex;
     justify-content: center;
     gap: 12px;
