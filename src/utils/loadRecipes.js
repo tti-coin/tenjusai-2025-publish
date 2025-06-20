@@ -28,6 +28,7 @@ function convertToRecipeFormat(data) {
 export async function loadRecipes() {
     const modules = import.meta.glob('../../recipes/*/data.json', { eager: true });
     const imageModules = import.meta.glob('../../recipes/*/image.png', { eager: true, as: 'url' });
+    const imageThumbnailModules = import.meta.glob('../../recipes/*/image_thumbnail.png', { eager: true, as: 'url' });
     const recipes = Object.entries(modules).map(([path, mod]) => {
         const id = path.split('/').slice(-2, -1)[0];
         const imagePath = `../../recipes/${id}/image.png`;
@@ -37,6 +38,7 @@ export async function loadRecipes() {
             id,
             ...converted,
             image: imageModules[imagePath],
+            image_thumbnail: imageThumbnailModules[imagePath],
         };
     });
     // finished_at（ISO8601文字列やタイムスタンプ）で降順ソート（新しい順）
