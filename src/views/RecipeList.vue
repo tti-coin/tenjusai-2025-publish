@@ -33,6 +33,8 @@ export default {
         function formatDate(dateStr) {
             if (!dateStr) return '';
             const d = new Date(dateStr);
+            // JSTに変換して表示
+            d.setHours(d.getHours() + 9);
             return d.toLocaleString('ja-JP', { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
         }
         const goDetail = (id) => {
