@@ -32,13 +32,14 @@ export async function loadRecipes() {
     const recipes = Object.entries(modules).map(([path, mod]) => {
         const id = path.split('/').slice(-2, -1)[0];
         const imagePath = `../../recipes/${id}/image.png`;
+        const imageThumbnailPath = `../../recipes/${id}/image_thumbnail.png`;
         const data = mod.default || mod;
         const converted = convertToRecipeFormat(data);
         return {
             id,
             ...converted,
             image: imageModules[imagePath],
-            image_thumbnail: imageThumbnailModules[imagePath],
+            image_thumbnail: imageThumbnailModules[imageThumbnailPath],
         };
     });
     // finished_at（ISO8601文字列やタイムスタンプ）で降順ソート（新しい順）
