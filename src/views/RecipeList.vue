@@ -119,6 +119,18 @@ h2 {
     color: #555;
     font-size: 1rem;
     margin-bottom: 4px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+    width: 100%;
+    margin: 0 0 4px 0;
+    max-height: 6.4em;
+    -webkit-mask-image: linear-gradient(180deg, #000 80%, transparent 100%);
+    mask-image: linear-gradient(180deg, #000 80%, transparent 100%);
 }
 
 .recipe-thumb {
@@ -135,7 +147,8 @@ h2 {
 .recipe-date {
     color: #888;
     font-size: 0.9rem;
-    margin-top: 2px;
+    margin-top: auto;
+    align-self: flex-end;
 }
 
 .loading {
