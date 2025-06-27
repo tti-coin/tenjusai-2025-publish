@@ -70,15 +70,18 @@ h2 {
     width: 100%;
 }
 
+
 .recipe-list {
     display: grid;
     width: 90%;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 24px 18px;
     list-style: none;
     padding: 0 0;
     margin: 0 auto;
-    justify-items: center;
+    justify-items: stretch;
+    align-items: stretch;
+    grid-auto-rows: 1fr;
 }
 
 .recipe-item {
@@ -94,6 +97,12 @@ h2 {
     gap: 6px;
     align-items: flex-start;
     min-width: 0;
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+    justify-content: flex-start;
+    overflow: hidden;
+    max-height: 400px;
 }
 
 .recipe-item:hover {
