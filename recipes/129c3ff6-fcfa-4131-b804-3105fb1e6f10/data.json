@@ -1,0 +1,118 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きしめん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ]
+    ],
+    "job_id": "129c3ff6-fcfa-4131-b804-3105fb1e6f10",
+    "created_at": "2025-07-03T07:11:41.618163",
+    "started_at": "2025-07-03T07:11:41.620287",
+    "title": "冷やしマスカットときしめんのサラダ",
+    "comment": "夏にぴったりの爽やかなサラダ！みかんとマスカットの組み合わせが絶妙で、見た目も華やか。冷凍トマトとキャベツはひんやりとした食感が楽しいので、冷やしサラダの新定番になりそうですね。",
+    "image_prompt": "ゆでたみかんと冷やしたマスカットを彩りよく盛り付け、混ぜたたまごと一緒にえびをトッピング。きしめんを割って添え、豆腐で包んだトマトとキャベツを冷凍してサラダにアクセントを加える。",
+    "finished_at": "2025-07-03T07:12:18.106866"
+}
