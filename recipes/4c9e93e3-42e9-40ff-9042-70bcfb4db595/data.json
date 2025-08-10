@@ -1,0 +1,138 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "あゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ]
+    ],
+    "job_id": "4c9e93e3-42e9-40ff-9042-70bcfb4db595",
+    "created_at": "2025-08-10T15:54:24.614721",
+    "started_at": "2025-08-10T15:54:24.615329",
+    "title": "海山ミックスの和風味噌カレー",
+    "comment": "山の恵みと海の幸が一皿に詰まった、豪快で楽しげなメニューです。手順の「溶かす」「すりおろす」は調理表現がユニークなので、実際は加熱してほぐす・ペースト状にするなど食感を活かす方法に置き換えると安心です。見た目のインパクトが強いので、盛り付けをきれいにすると驚きと美味しさでウケが良くなります。",
+    "image_prompt": "深めの陶器の丼に盛られた、和洋折衷の豪華な一皿。艶のある味噌カレーソースがごはんにたっぷりとかかり、カレー粉の黄金色と味噌の深い茶色が混ざり合って湯気を立てている。ほくほくの黄金色さつまいもは大ぶりの角切りで、表面にほんのり焼き色がつき、なすは皮の濃い紫色と種の柔らかい断面が見えるようにざっくりちぎって散らしてある。ほぐした鶏肉と白く繊維状の蟹の身がソースに溶け込むように馴染み、燻製の香りが漂うスライス状のビーフジャーキーがアクセントとして上にのる。香ばしく焼かれた鮎が丼の縁に寄り掛かり、うなぎのなめらかなペーストが光沢のあるソースに細くかけられている。刻みねぎ、白ごま、きざみ海苔、レモンのくし切りを添え、木のテーブル上で自然光が当たる温かい演出。高解像度のフォトリアルな質感で、湯気と光沢、素材ごとのテクスチャーが際立つ描写を希望。",
+    "finished_at": "2025-08-10T15:55:01.599325"
+}
