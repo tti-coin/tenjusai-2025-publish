@@ -1,0 +1,138 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "解凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "3ffef6e3-1d0a-428a-b0fa-42a90cbd82dc",
+    "created_at": "2025-08-10T15:58:28.672411",
+    "started_at": "2025-08-10T15:58:28.673007",
+    "title": "温冷コントラストのにらと帆立のアンサンブル",
+    "comment": "温かい帆立とごま油風味のにらが香ばしく、冷やしたさつまいもとアスパラの食感コントラストが楽しい一皿です。凍ったかつおぶしのキラリとした演出で見た目に遊び心があり、思わず写真を撮りたくなります。唯一の注意点は凍った鰹節が予想外に冷たいので、食感のギャップを楽しむ余裕を忘れずにどうぞ。",
+    "image_prompt": "白い浅めのセラミックプレートに盛られた一皿。中央にはごま油で香ばしく炒めて粗くつぶした緑色のにらが艶よく盛られ、その隣に湯気の立つ照りのある煮帆立が数個並ぶ。帆立は薄い出汁の照りがあり、表面に黄金色の焦げ目とジューシーな断面が見える。冷やして薄くスライスした紫色のさつまいもが扇状に広がり、対照的に冷やしたシャキッとした緑のアスパラガスが斜め切りで添えられている。ソーセージは一口大に混ぜ込まれ、所々に温かみのある茶色の焼き色が見える。半解凍してとろりとした卵はクリーミーなソースのようにそっと添えられ、凍ったかつおぶしは薄い氷の結晶のようにキラキラと散らされている。全体に白ごまを振り、仕上げにごま油の光沢が全体を包む。暖色の柔らかいサイドライティングで質感と温度差が際立ち、接写で食感のコントラストと光沢が鮮明に伝わるように描写してください。",
+    "finished_at": "2025-08-10T15:59:05.292611"
+}
