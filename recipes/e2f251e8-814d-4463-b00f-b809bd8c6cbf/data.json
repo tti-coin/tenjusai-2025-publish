@@ -1,0 +1,152 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "e2f251e8-814d-4463-b00f-b809bd8c6cbf",
+    "created_at": "2025-09-01T07:10:51.131547",
+    "started_at": "2025-09-01T07:10:51.134848",
+    "title": "揚げヨーグルトと芽キャベツの奇想プレート",
+    "comment": "大胆な組み合わせで見た目の驚きは抜群、食感の対比も楽しめます。揚げたヨーグルトの外はカリッと中はとろり、焼いた酢のソースとさくらんぼの酸味が意外に好相性です。調理中は熱いヨーグルトと酸の扱いに注意してください、まさに実験台のような一皿で笑いが起きるでしょう。",
+    "image_prompt": "大きめの白い陶器皿に盛られた一皿をクローズアップ。中心には黄金色にカリッと揚がったヨーグルトの丸いフリットがあり、切った芽キャベツの緑の断面が周囲に散らされている。スプラウトが軽やかに全体を覆い、酸味の強い酢を焼いてとろりとキャラメリゼした濃い琥珀色のソースがフリットと野菜に艶を与えている。さくらんぼの赤い果実がソースと一緒に軽く注がれ、光沢のある液体が滴る様子が鮮烈。ごまは粗く“ちぎった”ように見える小片や粉が散り、にんじんはぎゅっと握って作られた濃いオレンジのリボン状またはクネクネした形が添えられている。砂糖がふんわりと白く一点にのり、薄切りにしたパンが隣に置かれ、なすの艶やかな紫が盛り付けの端を引き締めている。温かさを感じさせる湯気と自然光の柔らかいサイドライティング、浅い被写界深度で背景はぼかし、高解像度で質感（カリカリの表面、クリーミーな中身、ジューシーなさくらんぼ、つやのある酢のソース、ざらつく砂糖とごま）を詳細に描写してください。",
+    "finished_at": "2025-09-01T07:11:46.575493"
+}
