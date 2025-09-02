@@ -12,8 +12,8 @@
                     <h3 class="section_title">作り方</h3>
                     <ul class="recipe_steps">
                         <li v-for="(step, idx) in recipe" :key="idx">
-                            <span>{{ idx + 1 }}.</span>
-                            <span>{{(Array.isArray(step) ? step : step.step)?.map(item => item.value).join(' ')
+                            <span>{{ idx + 1 }}. </span>
+                            <span>{{(Array.isArray(step) ? step : step.step)?.map(item => item.value).join('')
                                 }}</span>
                         </li>
                     </ul>
