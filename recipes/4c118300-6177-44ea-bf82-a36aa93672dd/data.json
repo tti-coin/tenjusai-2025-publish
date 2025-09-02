@@ -1,0 +1,124 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "わかめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うどん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ]
+    ],
+    "job_id": "4c118300-6177-44ea-bf82-a36aa93672dd",
+    "created_at": "2025-09-02T03:43:54.976425",
+    "started_at": "2025-09-02T03:43:54.979221",
+    "title": "海の林檎うどん盛り",
+    "comment": "海の塩気と焼きりんごの甘さ、蒸しきくらげのコリコリ感が一皿で楽しめるユニークな一品です。パンを煮てもちもちにすることでうどんと意外な相性が生まれ、牛乳でまろやかなスープに仕上がるのがポイント。見た目の奇妙さは愛嬌、勇気を出して箸を入れれば新しい味の発見が待っています。",
+    "image_prompt": "白い磁器の深めの器に、牛乳で淡く白濁したスープが広がり、その上に艶やかな茹でうどんを山状にのせる。和えたわかめは鮮やかな緑の小山となり、焼きりんごはキャラメリゼされた薄切りが香ばしく並ぶ。蒸したきくらげは黒光りしてコリッとした食感を示し、煮たパンはふんわりと崩れる塊がスープに浮かぶ。しいたけの薄切りを上から散らし、こんぶは小さく手で握ったおにぎり風に器の縁に配置する。全体に白ごまと刻みねぎを散らし、湯気が立ち上る温かい雰囲気。柔らかい自然光、ややクローズアップ気味で45度上方から撮影したフォトリアルな食べ物写真。テクスチャーの対比（とろりとしたスープ、もちもちのパンとうどん、シャキッとしたわかめ、コリッとしたきくらげ）がはっきり見えるようディテールを強調する。",
+    "finished_at": "2025-09-02T03:44:56.812565"
+}
