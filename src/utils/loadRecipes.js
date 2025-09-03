@@ -41,7 +41,9 @@ export async function loadRecipes() {
             image: imageModules[imagePath],
             image_thumbnail: imageThumbnailModules[imageThumbnailPath],
         };
-    });
+    })
+    // statusが'done'のもののみ抽出
+    .filter(recipe => recipe.status === 'done');
     // finished_at（ISO8601文字列やタイムスタンプ）で降順ソート（新しい順）
     recipes.sort((a, b) => {
         if (!a.finished_at && !b.finished_at) return 0;
