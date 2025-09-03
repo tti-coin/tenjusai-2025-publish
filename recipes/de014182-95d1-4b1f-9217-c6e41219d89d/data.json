@@ -1,0 +1,138 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごぼう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ]
+    ],
+    "job_id": "de014182-95d1-4b1f-9217-c6e41219d89d",
+    "created_at": "2025-09-03T05:04:27.041943",
+    "started_at": "2025-09-03T05:04:27.043264",
+    "title": "春菊と牛肉の彩りミックス",
+    "comment": "色のコントラストが豊かで写真映え抜群、見た目からワクワクする一皿です。牛乳と柑橘、ポン酢を組み合わせる際は温度やタイミングに注意して分離が起きないように気をつけてください。コチュジャンの辛味とポン酢の酸味のバランスを少しずつ調整すれば、まるでおいしい化学実験のような楽しい味わいになりますよ。",
+    "image_prompt": "切った春菊の緑の葉がふんわりと敷かれ、その上に蒸して鮮やかな緑に仕上がったほうれん草が並ぶ。ちぎったオクラの断面がヌメリを残して光り、ごぼうは薄切りにして冷やされシャキッとした食感を演出。中央に表面を軽く焼いた牛肉のスライスが重ねられ、淡いクリーム色の牛乳ベースのソースが器周りにやさしくかかる。デコポン（オレンジ色の柑橘）は小房に分けて軽く味付けされ、鮮やかなオレンジの点在が見た目を引き締める。赤いコチュジャンは艶のあるペースト状で美しいドロップに盛り付けられ、煮詰めてとろみのついたポン酢は照りのある薄いグレイビーのように全体にかかっている。白ごまや刻みネギを散らし、暖かい自然光の下、木製のテーブルに置かれた浅めの陶器皿で、色と質感のコントラストが際立つ近接ショット。食欲をそそるように湯気や艶を強調し、シャローな被写界深度でフォーカスを牛肉と鮮やかな具材に合わせる。",
+    "finished_at": "2025-09-03T05:05:31.802860"
+}
