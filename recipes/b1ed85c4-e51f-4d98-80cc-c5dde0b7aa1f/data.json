@@ -1,0 +1,96 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ]
+    ],
+    "job_id": "b1ed85c4-e51f-4d98-80cc-c5dde0b7aa1f",
+    "created_at": "2025-09-03T05:27:07.346392",
+    "started_at": "2025-09-03T05:27:07.349523",
+    "title": "ちぎりごはん",
+    "comment": "手でちぎるだけの潔さが斬新で、米の粒感と温もりがダイレクトに伝わる一皿です。調理器具不要で誰でもできるのが魅力、素朴なのにどこかアーティスティック。ただし熱々のごはんはやけどや衛生に注意してください。",
+    "image_prompt": "湯気の立つ炊きたての白ごはんを手で不揃いにちぎって盛り付けたクローズアップ写真。粒が部分的にまとまり、ひとつひとつの塊に指の跡や凹凸が残るテクスチャーが見える。艶やかでしっとりとした米の表面に柔らかな横光が当たり、温かさとほぐれた食感が伝わる描写。素朴な陶器の小鉢に盛られ、木目のテーブルの上で浅い被写界深度により背景が美しくボケる。蒸気、白米の陰影、ふんわりとしたフォーカスで“ちぎられたごはん”の素朴な美しさと食欲をそそる質感を強調した一枚。",
+    "finished_at": "2025-09-03T05:27:55.485689"
+}
