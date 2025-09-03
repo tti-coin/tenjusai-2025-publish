@@ -1,0 +1,152 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "らっきょう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "fc00d029-6ac3-4767-9ab9-4c04b6c98d96",
+    "created_at": "2025-09-03T05:32:40.294248",
+    "started_at": "2025-09-03T05:32:40.297538",
+    "title": "昆布とレンコンのトロピカル混ぜヌードル",
+    "comment": "和の旨味（昆布）とトロピカルな甘酸っぱさ（パイナップル・洋なし）が同居する大胆な一皿で、見た目の驚きと味の冒険心が楽しいです。ポン酢でさっぱりまとめ、みずなの苦味とレンコンのシャキシャキ感が全体を引き締めてくれます。ヨーグルトをゆでると食感が変わるので驚くかもしれませんが、それもこの料理の個性、笑って受け止めてください！",
+    "image_prompt": "深めの陶器のボウルに盛られた一皿を、温かみのある自然光で撮影。底に透明感のあるフォーと白っぽいビーフンが軽く絡んで敷かれ、その上にちぎったレンコンの薄片がランダムに散りばめられている。みずなの緑が中央でふんわりと盛られ、割ったパイナップルの半身が艶やかな黄色でボウルの縁に添えられ、横に薄く切った洋なしの白みがかった果肉が並ぶ。つぶした昆布の細かな茶色いフレークが全体に振りかけられ、ところどころに結び目のように見えるらっきょうがアクセントになっている。ポン酢を割って作った淡い琥珀色のタレが表面に光る液体の層を作り、ゆでたヨーグルトが小さな白いぽってりとした塊として点在している。湯気が立ち上る様子と、つやのあるドレッシングの滴がボウルの縁を濡らすディテールを描写し、木製のスプーンか箸が寄り添うテーブルセッティングで、色と食感の対比が際立つ一枚。",
+    "finished_at": "2025-09-03T05:33:35.021003"
+}
