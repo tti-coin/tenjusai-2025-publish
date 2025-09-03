@@ -61,7 +61,6 @@ export default {
     padding: 32px 0 80px 0;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 h2 {
@@ -74,13 +73,13 @@ h2 {
 .recipe-list {
     display: grid;
     width: 90%;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-template-columns: repeat(auto-fit, 260px);
     gap: 24px 18px;
     list-style: none;
     padding: 0 0;
     margin: 0 auto;
-    justify-items: stretch;
-    align-items: stretch;
+    justify-items: start;
+    align-items: start;
     grid-auto-rows: 1fr;
 }
 
