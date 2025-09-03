@@ -1,0 +1,96 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ]
+    ],
+    "job_id": "0fd73336-aacd-4c11-aac8-ffb524057035",
+    "created_at": "2025-09-03T05:25:17.747840",
+    "started_at": "2025-09-03T05:25:17.750114",
+    "title": "バナナ納豆とダチョウ卵の和え物",
+    "comment": "異素材の組み合わせが意外と個性的なハーモニーを生み、視覚的にも楽しい一皿です。ダチョウの卵をすりおろすことで繊細な食感が加わり、冷凍ピーナッツのパリッとしたアクセントが良い対比になります。蒸したマヨネーズや冷凍食材の扱いには注意してくださいね、冒険心あふれるあなたにぴったりの実験料理です。",
+    "image_prompt": "Close-up of an unusual but artfully plated bowl: mashed banana pieces gently folded with sticky natto strings, topped with very fine, snow-like grated ostrich egg shavings and delicate green ribbons of grated Brussels sprouts. A glossy, slightly steamed mayonnaise sauce forms a warm, silky veil over part of the mixture, creating soft steam wisps and a subtle sheen. Frosted, ice-crystal coated frozen peanuts are scattered as crunchy, chilly accents, catching the light. Garnish with microgreens and a light sprinkle of toasted sesame seeds and cracked black pepper. Natural window light, shallow depth of field, 45-degree angle, high-resolution, appetizing color contrast between pale egg, creamy banana, bright green sprouts and frosty peanuts, styled on a warm wooden table with a rustic ceramic bowl.",
+    "finished_at": "2025-09-03T05:26:08.483255"
+}
