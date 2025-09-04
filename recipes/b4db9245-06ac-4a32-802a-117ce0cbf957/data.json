@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バルサミコ酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "解凍する"
+            }
+        ]
+    ],
+    "job_id": "b4db9245-06ac-4a32-802a-117ce0cbf957",
+    "created_at": "2025-09-04T06:56:36.853036",
+    "estimated_duration": 60000,
+    "started_at": "2025-09-04T06:56:36.853889",
+    "title": "鯖とマスカットのバルサミコサラダ",
+    "comment": "塩気のある鯖と甘いマスカットの対比が楽しい一皿で、焼きブロッコリーの香ばしさが全体を引き締めます。ポン酢とバルサミコの酸味を乳化させたドレッシングが味のまとまりを作っていて、見た目以上にバランスが良いのが嬉しいポイントです。生クリームと“解凍”した牛乳を使う演出は遊び心満点なので、食べる前にしっかり馴染ませてからどうぞ（冷凍牛乳は事前に完全に解凍して）。",
+    "image_prompt": "木製の大皿に盛られた創作サラダをクローズアップで。香ばしく焼かれた鯖の切り身は皮目がこんがりと黄金色で、ほぐれた白身が照りを帯びている。そばには焼き目のついたブロッコリーの小房、割って粗く裂いた緑ピーマンの裂片、半分に切った瑞々しい緑のマスカットが散りばめられている。全体にポン酢とバルサミコ酢を合わせた濃厚で艶のあるドレッシングを細い線で軽く引き、ところどころに小さなミルクベースのクリーミーなドット（解凍して滑らかにした牛乳を使った乳化ソース）と、ふわっと立てた生クリームの小さな山がアクセントとして添えられている。温かみのある自然光、柔らかい影、木目の背景、上品でモダンな盛り付け、鮮やかな緑と琥珀色のコントラストが強調された美味しそうな表現で。",
+    "finished_at": "2025-09-04T06:57:28.951188"
+}
