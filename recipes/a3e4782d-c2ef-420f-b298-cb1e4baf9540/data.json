@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "そうめん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ]
+    ],
+    "job_id": "a3e4782d-c2ef-420f-b298-cb1e4baf9540",
+    "created_at": "2025-09-04T06:51:04.932916",
+    "estimated_duration": 52705,
+    "started_at": "2025-09-04T06:51:04.936869",
+    "title": "さくらんぼと揚げ唐辛子のそうめんボウル",
+    "comment": "見た目のインパクト抜群、甘酸っぱいさくらんぼとピリッとした揚げとうがらしのコントラストがクセになります。きくらげのコリコリ感とつるっとしたそうめん、ほくほくのとうもろこしが合わさって食感の楽しさが豊富です。すりおろした麺の粉や揚げとうがらしの油は飛びやすいので調理中は注意してくださいね、驚きの一皿ですが写真映えは保証します！",
+    "image_prompt": "浅めの陶器の器に盛られた一皿、白く細いそうめんをベースに、ところどころにちぎったフォーの幅広でやや不揃いなリボン状の麺が混ざっている。表面にはすりおろした中華麺の粉が薄く雪のように降りかかり、ゆでた黄黄金色のとうもろこしの粒が散りばめられている。中央に光沢のある黒褐色のきくらげが山状にのせられ、鮮やかな赤い揚げとうがらしがパリッとした食感を添えて点在。さらに艶のある緑色の炒めしそが香り豊かに添えられ、つやつやのさくらんぼが宝石のように散らされている。45度のやや斜め上からのクローズアップ、柔らかい自然光で温かみを出し、浅い被写界深度で中央の具材を際立たせた高解像度写真。食感の対比と色のコントラストを強調し、料理の不思議さと美味しそうな雰囲気を同時に伝えるビジュアルを目指す。",
+    "finished_at": "2025-09-04T06:51:56.596773"
+}
