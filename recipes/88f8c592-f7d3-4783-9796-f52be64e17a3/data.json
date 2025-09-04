@@ -1,0 +1,153 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ]
+    ],
+    "job_id": "88f8c592-f7d3-4783-9796-f52be64e17a3",
+    "created_at": "2025-09-04T06:30:38.892871",
+    "estimated_duration": 46332,
+    "started_at": "2025-09-04T06:30:38.896263",
+    "title": "レモン風味のフライドチーズとエノキのマスカット和え",
+    "comment": "揚げたチーズの香ばしい食感とマスカットの甘酸っぱさが意外に好相性で、新感覚の味わいが楽しめます。こんぶとエノキで旨味をしっかり補強しているので、和風の深みも感じられます。チーズは熱々で中はとろけるので火傷に注意、りんごは煮すぎず程よい食感を残すと完成度が上がります。",
+    "image_prompt": "黄金色にカリッと揚がったチーズの一口揚げを中心に、ほのかに黄色いレモンドレッシングが全体にかかるプレート。揚げチーズの周りにはしんなりと和えられた白いエノキが絡み、艶のあるこんぶソースがリボン状にかかっている。すりおろしたのりが細かい粉のように振りかけられ、透明なマスカットジュレがとろりと注がれてフルーティーな光沢を与える。刻んだきゅうりの薄切りが鮮やかな緑のアクセント、煮りんごのやわらかな角切りが優しい甘みを添え、湯気とともに湯煎で温めたような温かさが伝わる。自然光の下、浅い被写界深度でテクスチャーと光沢を強調した高解像度クローズアップ。食欲をそそる色合いと、異なる食感が同居する奇想天外だが美味しそうなプレゼンテーションを描写してください。",
+    "finished_at": "2025-09-04T06:31:35.546512"
+}
