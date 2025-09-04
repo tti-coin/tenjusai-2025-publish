@@ -1,0 +1,151 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たけのこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "だいこん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ]
+    ],
+    "job_id": "728bf2fd-973a-4890-a455-ca1a7531eb35",
+    "created_at": "2025-09-04T06:16:57.145247",
+    "estimated_duration": 52980,
+    "started_at": "2025-09-04T06:16:57.148415",
+    "comment": "Extra data: line 1 column 384 (char 383)\ncontent={\"title\": \"異色ミックス蒸し\", \"image_prompt\": \"蒸気が立ちのぼる大皿に盛られた奇抜なミックス料理のクローズアップ。手で握られた豚肉は軽く押し固められ、表面に艶のある砂糖の薄い照りがついている。小さな陶器の器にはわずかに分離し白く濁った腐った牛乳を蒸したような酸味のあるソースが入っていて、湯気とともに温かさが伝わる。黄金色に炒められたたけのこ、照りのある茹でピーナッツ、厚めに盛られただいこんとしいたけ、色鮮やかなさつまいもスライスがバランスよく配されている。青ねぎは束ねて飾られ、つぶしたたまごの黄色いペーストがアクセントになっている。木製のテーブル、柔らかな自然光、温かみのある色調で、各食材の質感（つや、ほろほろ感、しっとり感）がはっきりわかるように。美味しそうでありながら挑戦的な雰囲気を強調する角度と深い被写界深度で撮影。\"}, \"comment\": \"多彩な食材を一皿にまとめる大胆さが魅力で、食感と甘味・旨味のコントラストが楽しめそうです。腐った牛乳や生卵などの扱いは衛生面で特に注意が必要なので、加熱や新鮮な代替品の使用を検討してください。見た目のユニークさは抜群で、勇気ある食卓の話題作りにはぴったりです。\"}",
+    "finished_at": "2025-09-04T06:17:23.108381"
+}
