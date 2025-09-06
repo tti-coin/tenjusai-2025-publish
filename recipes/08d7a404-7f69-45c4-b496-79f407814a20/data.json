@@ -1,0 +1,143 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            },
+            {
+                "type": "ingredient",
+                "value": "たけのこ"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "08d7a404-7f69-45c4-b496-79f407814a20",
+    "created_at": "2025-09-06T02:19:17.428863",
+    "estimated_duration": 50896,
+    "started_at": "2025-09-06T02:19:17.431839",
+    "title": "蓮根と野菜のフルーツ包みサラダ",
+    "comment": "蓮根やたけのこのシャキシャキ感と、マンゴーやバナナのとろける甘さが同居する大胆な一皿です。オクラのぬめりや冷温の組み合わせは直前に合わせると食感が生きるので注意してください。見た目はカラフルで写真映え抜群、食べるたびに驚きと笑いがこみ上げるかもしれません。",
+    "image_prompt": "白い大皿に盛られたカラフルな包みサラダ。薄くレンジ加熱した白菜の葉で、シャキシャキの蓮根薄切りと温めたたけのこ、冷やしたさつまいも、すりおろしたきゅうりと冷やしたオクラを丁寧に包んだ小さな包みが並ぶ。刻んだ玉ねぎと戻したきくらげがアクセントになり、上からレモン果汁を軽く絞ってパイナップル、マンゴーの濃いオレンジ色、さくらんぼの深い赤、ちぎった桃の淡いピンク、ラズベリーの鮮やかな点々、バナナの丸い輪切りが散りばめられている。全体に光沢のあるシトラスドレッシングがかかり、白い陶器、木目のテーブル、自然光で柔らかく照らされた45度のアングル、浅い被写界深度で手前の包みをフォーカスし背景がややぼけている。色と食感の対比がはっきりと伝わる高解像度の美味しそうな料理写真を想定。",
+    "finished_at": "2025-09-06T02:20:06.552436"
+}
