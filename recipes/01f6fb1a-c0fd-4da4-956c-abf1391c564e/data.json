@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "オートミール"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豆板醤"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ]
+    ],
+    "job_id": "01f6fb1a-c0fd-4da4-956c-abf1391c564e",
+    "created_at": "2025-09-06T03:01:28.094371",
+    "estimated_duration": 48152,
+    "started_at": "2025-09-06T03:01:28.096928",
+    "title": "ダチョウ卵と発酵ミルクのスパイシーシチュー",
+    "comment": "独特な素材の組み合わせが生み出す、甘辛とクリーミーのコントラストが面白い一品です。腐った牛乳や生の卵を使う工程は風味を出しますが、衛生管理には十分注意し、実際に調理・提供する際は安全な代替や加熱を検討してくださいね（愛嬌と安全は同居できます）。最後に「愛情をむす」工程で温かく仕上げれば、見た目以上に親しみやすい驚きの一皿になります。",
+    "image_prompt": "大きな陶器の深皿に盛られた一皿。底に蒸したオートミールのねっとりとしたベース、その上に腐った牛乳を煮詰めて作った乳白色のクリーミーなカード（凝乳）がやわらかく広がる。ほろほろに煮た羊肉は濃い茶色の煮汁に照りがあり、豆板醤の鮮やかな朱色のソースがところどころに渦を描いてアクセントを作る。フライパンでさっと炒めて外側に香ばしい焼き目がついたアボカドの薄切りが乗り、マンゴーの厚切りは表面に美しい焼き色とカラメルの照りがついている。中央には殻をむいたダチョウの卵が半分に割られて大きな黄金の黄身がとろりと存在感を放ち、仕上げに刻んだハーブとゴマを散らし、湯気とともに温かさが伝わるクローズアップのフードフォト。コントラストの強い色彩、テクスチャーの対比、柔らかい自然光でおいしそうに見えるよう描写。",
+    "finished_at": "2025-09-06T03:02:15.548099"
+}
