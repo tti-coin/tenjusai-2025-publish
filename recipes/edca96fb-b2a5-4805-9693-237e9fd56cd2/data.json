@@ -1,0 +1,195 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ]
+    ],
+    "job_id": "edca96fb-b2a5-4805-9693-237e9fd56cd2",
+    "created_at": "2025-09-06T06:33:38.918778",
+    "estimated_duration": 49727,
+    "started_at": "2025-09-06T06:33:38.920403",
+    "title": "愛情の十三変化",
+    "comment": "多彩な調理法を一度に楽しめるユニークなアイデアで、食感と温度のコントラストが楽しい一皿です。レンジや冷凍、加熱と冷却を繰り返す工程があるので、加熱ムラや衛生面には気をつけてくださいね。見た目は遊び心満点で、思わず「愛情ってこんな味？」と笑ってしまうような仕上がりになります。",
+    "image_prompt": "木製プレートと小さな陶器の器に美しく盛り付けられた一皿。薄く繊細にスライスされた“愛情”のリボン、表面に香ばしい焼き色がついた小さなフォルム、トロリと煮詰まった濃厚なソース、粗く潰したペースト、細かくすりおろしたふわふわのトッピング、透明な冷やしゼリー、湯気が立つ温かいピース、黄金色に揚がったひと口サイズ、割った瞬間にとろける中心、薄い氷の結晶がついた冷凍の要素、手で握れる小さなハンドポーションが一緒に並ぶ。食感と温度差が視覚で伝わるように、蒸気や水滴、ソースのツヤ、揚げ物のカリっとした質感、氷の粒を強調。柔らかい自然光、浅い被写界深度で寄りの構図、温かい色調で美味しそうに描写した高解像度のフードフォトを想定。",
+    "finished_at": "2025-09-06T06:34:15.769243"
+}
