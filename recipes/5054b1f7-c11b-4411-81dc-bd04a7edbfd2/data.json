@@ -1,0 +1,117 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            },
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            }
+        ]
+    ],
+    "job_id": "5054b1f7-c11b-4411-81dc-bd04a7edbfd2",
+    "created_at": "2025-09-06T02:15:25.067424",
+    "estimated_duration": 50466,
+    "started_at": "2025-09-06T02:15:25.070267",
+    "title": "フルーツと野菜のミックスおにぎり",
+    "comment": "甘いフルーツと香ばしい野菜が一度に楽しめる冒険的なおにぎりです。温めた青ねぎやレンジで柔らかくしたキャベツが深みを出していて、食感のコントラストも楽しいでしょう。フルーツは水分が出やすいので盛り付け後は早めに召し上がれ、見た目のインパクトでパーティーの話題になること間違いなし！",
+    "image_prompt": "温かい青ねぎの湯気が立ち上るおにぎりプレート。中央にしその葉で包んだおにぎりが並び、その周りに味付けしたさやいんげん、電子レンジで柔らかくしたキャベツ、シャキッとしたレタスと薄切りきゅうりが彩りよく配置されている。ロマネスコの淡い黄緑の花房がアクセントとなり、ちぎったしめじとほぐしたえのきがうま味と食感を添える。洋なしの薄切り、半分に切ったさくらんぼ、ブルーベリーを合わせたフルーツミックスは鮮やかな赤と青で皿を華やかにし、殻を剥いたライチが光沢ある白い果肉で上品な甘さを示す。木目の長方形プレートに盛り、横に小さな醤油皿と箸を添え、自然光の柔らかい逆光で質感と湯気を強調した浅い被写界深度の高解像度料理写真。温かさと冷たさ、シャキシャキととろりのコントラストが伝わるようフォーカスを中央のしそおにぎりに合わせる。",
+    "finished_at": "2025-09-06T02:16:20.432034"
+}
