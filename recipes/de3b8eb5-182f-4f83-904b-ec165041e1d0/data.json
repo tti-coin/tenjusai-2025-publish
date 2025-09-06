@@ -1,0 +1,189 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "de3b8eb5-182f-4f83-904b-ec165041e1d0",
+    "created_at": "2025-09-06T02:53:03.294985",
+    "estimated_duration": 47172,
+    "started_at": "2025-09-06T02:53:03.298023",
+    "title": "シーフードとロマネスコのケチャップ炒飯",
+    "comment": "ロマネスコの独特の形と鮮やかな緑が見た目の主役になり、海鮮の旨味とケチャップの甘酸っぱさがよく馴染む一品です。海老やイカは火を通しすぎると硬くなるので、さっと炒めるのがポイント。愛情とオリーブオイルのひと振りで家庭の味に仕上がる、ちょっとユーモラスな“海の恵み入りケチャップチャーハン”です。",
+    "image_prompt": "温かく湯気の立つワンプレートの炒飯をクローズアップで。ふっくらと粒立ちの良いご飯にケチャップが絡み、ほんのり赤みがかった光沢がある。ぷりぷりの海老、コリコリのイカ、香ばしく焼き目のついたホタテが表面に散らされ、ロマネスコの鮮やかな緑の小房がアクセントになっている。青ねぎの小口切りと薄切りのピーマン、輪切り唐辛子が色彩を引き締め、飴色に炒めた玉ねぎが甘みを添える。表面にはブラックペッパーとオリーブオイルの軽い艶、レモンのくし切りと小さなソース容器にケチャップが添えられ、木のテーブルと柔らかな自然光で家庭的かつ食欲をそそる雰囲気に。浅い被写界深度で手前の具材にピントを合わせ、蒸気と艶感で“今すぐ食べたい”と感じさせるように描写する。",
+    "finished_at": "2025-09-06T02:53:52.308401"
+}
