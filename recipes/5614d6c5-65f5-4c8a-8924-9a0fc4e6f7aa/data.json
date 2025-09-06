@@ -1,0 +1,115 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            }
+        ]
+    ],
+    "job_id": "5614d6c5-65f5-4c8a-8924-9a0fc4e6f7aa",
+    "created_at": "2025-09-06T06:57:50.287816",
+    "estimated_duration": 51731,
+    "started_at": "2025-09-06T06:57:50.290703",
+    "title": "カラフルフルーツプラッター",
+    "comment": "色とりどりのフルーツがたっぷりで見た目の華やかさは満点、まるで果物のパレードです。みかんやりんごが多めなので甘みと酸味のバランスが映えて、食べ飽きませんよ。カットは食べる直前に行うとりんごの変色を防げるので、そこだけ気をつけてくださいね。",
+    "image_prompt": "A vibrant, overflowing fruit platter artfully arranged on a large wooden board and a shallow glass bowl, showcasing abundant sliced strawberries, peeled and segmented mandarins (mikan), tight clusters of red and green grapes, scattered plump blueberries, many bright orange slices, thinly fanned red apple slices, and glossy cherries with stems on top. The composition emphasizes repetition and abundance—especially multiple layers of oranges and apples—to reflect the recipe's joyful surplus. Freshly rinsed droplets cling to the fruit surfaces, creating a dewy, appetizing sheen; natural side lighting and a shallow depth of field highlight texture and gloss on skins, seeds, and juice; high-resolution, hyper-realistic, richly saturated but natural colors, warm inviting atmosphere, top-down slightly angled view with selective focus on the center, tasteful negative space at the edges.",
+    "finished_at": "2025-09-06T06:58:38.078120"
+}
