@@ -1,0 +1,101 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "particle",
+                "value": "も"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            },
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            },
+            {
+                "type": "particle",
+                "value": "が"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ]
+    ],
+    "job_id": "1b8120bf-d15a-453d-88ea-8159ec924e28",
+    "created_at": "2025-09-06T06:19:47.168234",
+    "estimated_duration": 51047,
+    "started_at": "2025-09-06T06:19:47.170940",
+    "title": "ゴーヤと青菜の和風マヨビネガーサラダ",
+    "comment": "ゴーヤのほろ苦さとマヨネーズ＋酢のさっぱりした酸味が意外に好相性で、クセになる味わいになります。蒸した水菜や温めたチンゲン菜が柔らかな食感を加え、ほうれん草と青じその香りで爽やかさが増します。マヨネーズは加熱しすぎると風味が落ちるので、最後に和える程度にしてバランスを楽しんでください—ちょっとした冒険心が光る一皿です。",
+    "image_prompt": "新鮮な緑が主役の和風サラダ。薄く輪切りにされたゴーヤの鮮やかな黄緑と独特の凹凸、蒸して柔らかく持ち上がった水菜の葉、温めて瑞々しいチンゲン菜の大きな葉、刻んだほうれん草と青じその細かい混ぜ合わせを小さな束にして盛り付けた構成。上から白いマヨネーズが細く絞られ、艶のある酢ベースのソースが全体にうっすらと絡んで光る。白ごまや刻み海苔がアクセントに散らされ、陶器の浅鉢に丁寧に並べられている。木のテーブルに置き、和風の布と箸を脇に配したナチュラルライティングのクローズアップで、瑞々しさと食感の対比を強調した美味しそうな一枚。",
+    "finished_at": "2025-09-06T06:20:53.339890"
+}
