@@ -1,0 +1,85 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ]
+    ],
+    "job_id": "38cac622-be60-477b-bb9c-fdc9b8d146ec",
+    "created_at": "2025-09-06T05:34:43.050293",
+    "estimated_duration": 47710,
+    "started_at": "2025-09-06T05:34:43.052474",
+    "title": "いちご煮込みと冷やしクリーム餅",
+    "comment": "温かく香ばしい焼きもちと、冷たく滑らかなクリームといちごソースのコントラストが楽しい一品です。いちごの甘酸っぱさがクリームのコクとよく合い、見た目も華やかでパーティー映えします。生卵を使う場合は加熱や低温殺菌卵の使用を検討して、安全に楽しんでください。",
+    "image_prompt": "焼き目のついたもちの上に、透明感のあるルビー色のいちご煮（いちごコンポート）がとろりと絡み、淡い黄色の生クリームと卵、牛乳を混ぜた冷たいクリームがなめらかにかかっている一皿。もちの外側は香ばしく焦げ目がつき、内側は伸びるやわらかさが残る様子。いちごソースは艶のあるシロップが光り、小さな果肉が見える。冷たさで皿に軽く結露がつき、ミントの小葉と粉砂糖がアクセントになっている、明るい自然光の下で浅い被写界深度、高解像度、食欲をそそる写真写実スタイルで描写してください。",
+    "finished_at": "2025-09-06T05:35:20.354695"
+}
