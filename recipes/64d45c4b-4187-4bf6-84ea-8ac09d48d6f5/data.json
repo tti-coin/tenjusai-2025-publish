@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "そうめん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "ingredient",
+                "value": "かぼちゃ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "かぼちゃ"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "64d45c4b-4187-4bf6-84ea-8ac09d48d6f5",
+    "created_at": "2025-09-06T03:20:24.004248",
+    "estimated_duration": 49860,
+    "started_at": "2025-09-06T03:20:24.007062",
+    "title": "オレンジと牛肉・まぐろのそうめんサラダ",
+    "comment": "柑橘の爽やかさと焼いた牛肉・まぐろの旨味という大胆な組み合わせが、新鮮で意外に調和します。かぼちゃともやし、しめじの食感のコントラストで一皿で満足感が得られ、見た目も鮮やかで写真映えします。調理の際は牛肉とまぐろをしっかり火を通し、味付けは柑橘の酸味で塩加減を調整するのがおすすめ、冒険心を忘れずにどうぞ！",
+    "image_prompt": "白い深皿に盛られた細めのそうめんをベースに、色鮮やかなオレンジとみかんのセグメントを大胆に散らし、焼き目が香ばしい薄切りの牛肉と一口大に焼いたまぐろを交互に並べた一皿。かぼちゃは薄切りか細切りにして軽くローストし、もやしはさっと茹でてシャキッとさせ、しめじはバターやオリーブオイルで香ばしくソテーして皿の片側に盛る。柑橘を活かした和風またはごまベースのドレッシングが全体に薄くかかり、刻みねぎ、白ごま、レモンスライスでアクセントを添える。木目のテーブルに置かれ、自然光の柔らかな斜光で具材のツヤと質感を強調した三分の二ショットのクローズアップ。温かみのある色調とシャープなピントで、フレッシュな果実のジューシーさと焼き肉・魚の旨味、麺のしなやかさが伝わる美味しそうな表現を目指す。",
+    "finished_at": "2025-09-06T03:21:20.751002"
+}
