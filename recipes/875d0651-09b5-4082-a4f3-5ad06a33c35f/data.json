@@ -1,0 +1,137 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "875d0651-09b5-4082-a4f3-5ad06a33c35f",
+    "created_at": "2025-09-06T01:54:12.818884",
+    "estimated_duration": 55168,
+    "started_at": "2025-09-06T01:54:12.821387",
+    "title": "たらこ海鮮牛肉のミックス焼きそば",
+    "comment": "牛肉の旨味と海鮮の甘み、たらこの塩気が麺に絡んでクセになる味わいです。色鮮やかなピーマンと卵が入ることで見た目も賑やか、ソースの香りで食欲がブワッと湧きますよ—食べる手が止まらない危険あり。たらこや塩気が強くなりやすく、海鮮は火を通しすぎると固くなるので手早く仕上げるのがコツです。",
+    "image_prompt": "香ばしく焼き上げた牛肉の薄切りと、ぷりっとしたえび、コリッとしたいかの輪切り、皮が少し焦げた焼きたらこの鮮やかなオレンジが麺の上で映える和洋折衷の一皿。シャキッとした緑色のピーマンと薄焼き卵の黄色が彩りを添え、中華麺パスタはツヤのある醤油ベースのたれと黒こしょう、塩で程よく味付けされ麺に絡んでいる。蒸気が立ち上る熱々の状態を45度の斜め上からクローズアップし、陶器の深皿に盛りつけた和モダンな演出、皿縁に白ごまや刻み海苔、青ねぎを散らして食欲をそそるように描写する。光は温かみのある自然光で、肉の照り、海鮮の艶、卵のふんわり感が際立つように。",
+    "finished_at": "2025-09-06T01:55:01.199429"
+}
