@@ -1,0 +1,151 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ]
+    ],
+    "job_id": "65d17ab2-b4ae-4eda-9d21-08d7690891d6",
+    "created_at": "2025-09-06T02:17:20.303588",
+    "estimated_duration": 50955,
+    "started_at": "2025-09-06T02:17:20.306750",
+    "title": "温野菜と牛肉のトロピカルソース添え",
+    "comment": "色とりどりの温野菜と香ばしい牛肉が皿の中心で豪華に共演します。アボカドとレモンのまろやかさに、ドリアンともものトロピカルな甘み、マスカットの爽やかさが混ざったソースが意外な深みを生み出します。調理時はドリアンの強い香りに注意して換気を十分に、ソースは少量ずつ足して味を整えると失敗なし ― 冒険心を持ってどうぞ！",
+    "image_prompt": "白い深皿に盛られた温野菜と牛肉の皿をクローズアップで描写。中心にはこんがり焼き色のついた薄切り牛肉、周囲に蒸し温められたロマネスコの淡い緑、さっと温めたピーマンとキャベツ、にらの緑とサニーレタスの葉が敷かれている。れんこんの薄切りは香ばしく焼き目が付き、こまつなは鮮やかな緑を保つ。上からとろりと掛かるソースはアボカドのクリーミーな薄緑、レモンの爽やかな黄色味、ももとマスカット、ぶどうの淡いピンク〜琥珀色の粒感が混ざり合ったペースト状で、ところどころに果肉のつぶつぶが見える。湯気が立ち上り、オリーブオイルの光沢と胡麻やハーブの散らしがアクセント。自然光で柔らかく照らされた温かみのあるテーブルフォト、浅い被写界深度で料理の質感と色彩を強調した写実的で食欲をそそる一枚に。",
+    "finished_at": "2025-09-06T02:18:10.681036"
+}
