@@ -1,0 +1,101 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ]
+    ],
+    "job_id": "85f2bf7b-4608-4ad5-9982-a068fafe4a40",
+    "created_at": "2025-09-06T02:40:59.729817",
+    "estimated_duration": 47286,
+    "started_at": "2025-09-06T02:40:59.732508",
+    "title": "葉野菜のミックス炒め",
+    "comment": "葉物だけで構成されたシンプルな炒め物で、素材のシャキシャキ感と甘みが楽しめます。火入れは短時間で、レタス類は最後に加えてさっと炒めるのがコツです。野菜たちが熱に弱いので、あまり長く火にかけると恥ずかしがってしんなりしてしまいますよ（笑）。",
+    "image_prompt": "キャベツ、レタス、サニーレタス、白菜を香ばしく短時間で炒め合わせた一皿のクローズアップ。淡い焦げ目が付いた緑の葉が艶やかに重なり、油の照りと湯気が立ち上る様子を45度の角度で捉える。白い丸皿に盛り付け、上から白ごまや刻み青ねぎを散らし、片隅にレモンのくし切りを添える。背景は木目のテーブルで自然光が差し込み、浅い被写界深度で前景の葉の質感（シャキッとした芯としんなりした縁）が際立つ。色味は鮮やかな緑〜黄緑、ところどころに薄茶のキャラメリゼ、オイルの艶が食欲をそそる美味しそうな仕上がりをリアルに表現。高解像度で食感と湯気、油の煌めきまで細かく描写すること。",
+    "finished_at": "2025-09-06T02:41:38.457496"
+}
