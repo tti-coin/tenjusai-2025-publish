@@ -1,0 +1,143 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "7cdaf418-44f2-4bbd-a5ba-9ab6087397b5",
+    "created_at": "2025-09-06T05:41:26.524981",
+    "estimated_duration": 47832,
+    "started_at": "2025-09-06T05:41:26.527946",
+    "title": "こまつな包み焼き盛り合わせ",
+    "comment": "こまつなの爽やかな緑と焼けた具材の香ばしさが絶妙にマッチして、見た目以上に食べやすい一品です。多様な具材を一度に楽しめるので、食べ比べの楽しさがありパーティー向きでもあります。揚げ物ではないのに満足感が高く、箸が止まらない危険な美味しさですよ。",
+    "image_prompt": "焼き色のついたベーコン、香ばしい牛肉、カリッと焼いたビーフジャーキー、脂ののったさんま、しっとりとしたさけ――それぞれを鮮やかな緑のこまつなで包み、表面に軽く焦げ目がついた状態の盛り合わせ。木製の長皿に並べられ、手前の一つは断面が見えるようにカットされ、中の具の質感（ベーコンの脂、牛肉のジューシーさ、ビーフジャーキーの繊維、さんまの脂、さけのほぐれ）がはっきり分かる。ぽってりと光る照り、胡麻と刻みねぎが散らされ、レモンやポン酢の小皿が添えられ、湯気がほんのり上がる温かい夕食シーン。浅い被写界深度で前景を強調し、木目と和食器の質感が伝わるよう、ゴールデンアワーの柔らかい自然光で撮影された、美味しそうで親しみやすい和風料理写真を想定。",
+    "finished_at": "2025-09-06T05:42:12.560013"
+}
