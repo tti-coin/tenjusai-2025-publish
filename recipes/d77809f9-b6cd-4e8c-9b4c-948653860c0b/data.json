@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ]
+    ],
+    "job_id": "d77809f9-b6cd-4e8c-9b4c-948653860c0b",
+    "created_at": "2025-09-06T06:05:29.086386",
+    "estimated_duration": 52555,
+    "started_at": "2025-09-06T06:05:29.088970",
+    "title": "まぐろフライとキウイのクリームパスタ",
+    "comment": "見た目のコントラストが鮮やかで、まぐろの香ばしさとキウイのフレッシュさが好奇心をそそる一皿です。たまねぎと生クリーム、チーズがコクを与え、意外にも味のまとまりが期待できる組み合わせになっています。キウイの酸味と昆布の旨味がアクセントになるため、食べる前に一口目の驚きを楽しんでくださいね。",
+    "image_prompt": "白い浅めの皿に盛られた一皿。ツヤのある炒めたパスタ（オリーブオイルで香ばしく炒められたロングパスタ）の上に、サクッと揚がった黄金色のまぐろフライを大胆にのせ、周囲に香ばしく炒めた薄切りたまねぎのソースが注がれている。上からとろけるチーズが薄く均一にかかり、鮮やかな緑のキウイは輪切りにして数枚を華やかにトッピング。細く切った昆布が風味のあるリボン状に散らされ、生クリームは割れて白い渦となりソースに溶け込んでいる。湯気とチーズの溶けた質感、キウイのつやと昆布の濃い緑がコントラストを成す。木目のテーブルに置かれ、柔らかな自然光の下で撮影されたクローズアップ、料理のテクスチャーと温度感が伝わる美味しそうな構図。",
+    "finished_at": "2025-09-06T06:06:12.938046"
+}
