@@ -1,0 +1,103 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "グレープフルーツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "fc634e1c-2b36-462c-81b6-f4e2706c13b6",
+    "created_at": "2025-09-06T02:24:18.932232",
+    "estimated_duration": 49714,
+    "started_at": "2025-09-06T02:24:18.933397",
+    "title": "ピーマンとベーコンのフルーツ煮込み",
+    "comment": "色彩が豊かで視覚的に楽しい一品、甘酸っぱい果実と燻製ベーコンの対比が面白い発見をもたらします。のりと唐辛子のアクセントが味を引き締め、予想外にまとまりが出るかもしれません（笑）。調理時は果物の加熱時間と塩分・酸味のバランス、唐辛子の辛さに気をつけてください。",
+    "image_prompt": "大皿に盛られた異色のフュージョン料理。照りのあるシロップに軽く煮崩れして透明感の出たグレープフルーツ片、バナナの輪切り、いちごの半分、ぶどうとマスカットが混ざり合い、ソースは果実の甘酸っぱさで光る。脇には香ばしく焼かれたベーコンの短冊と鮮やかなグリーンのピーマンが程よく散らされ、パリッとした食感と香ばしさを視覚的に強調する。赤いとうがらしがアクセントとして全体に配され、刻みのりが上から薄く振られて海の風味を付ける。湯気が立ち上る様子と光沢のあるソースの反射、木のテーブルに置かれた暖かい朝の自然光で撮影されたような、温かみと奇抜さが同居するハイレゾの食欲そそるスタジオ写真を想定してください。",
+    "finished_at": "2025-09-06T02:25:07.855720"
+}
