@@ -1,0 +1,339 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "ながいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "だいこん"
+            },
+            {
+                "type": "ingredient",
+                "value": "かぶ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラディッシュ"
+            },
+            {
+                "type": "ingredient",
+                "value": "らっきょう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            },
+            {
+                "type": "ingredient",
+                "value": "たけのこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごぼう"
+            },
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "ingredient",
+                "value": "かぼちゃ"
+            },
+            {
+                "type": "ingredient",
+                "value": "まいたけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "みょうが"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "ingredient",
+                "value": "パパイヤ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "ingredient",
+                "value": "グレープフルーツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "ingredient",
+                "value": "バルサミコ酢"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "c5d68ea9-ce0a-48ce-aad9-dea25cbdc1f6",
+    "created_at": "2025-09-06T06:29:41.539297",
+    "estimated_duration": 49895,
+    "started_at": "2025-09-06T06:29:41.543970",
+    "title": "究極ミックスサラダ",
+    "comment": "色とりどりの野菜と果物が一皿に詰まった、まさに“冷蔵庫総動員”の豪華なビジュアルが楽しい一品です。ダチョウの卵の存在感とはちみつとバルサミコ、コチュジャンの三拍子がユニークで、見た目で話題をさらうこと間違いなし——インスタ映えの達人向け！ただし「腐った牛乳」は演出以外での使用は危険なので、実際に作るときは新鮮な乳製品に置き換えてください。",
+    "image_prompt": "大皿に山盛りの混合サラダ。キャベツ、レタス、サニーレタスやほうれん草、こまつな、みずななどの葉物をベースに、ピーマン、オクラ、アスパラ、さやいんげん、ブロッコリー、芽キャベツ、ズッキーニ、トマト、きゅうり、なす、たまねぎ、にんじん、じゃがいも、きのこ類（しめじ・まいたけ・えのき）、とうもろこし、れんこん、かぼちゃなど多種多様な野菜が色とりどりに盛り付けられている。果実としてりんご、いちご、ぶどう、ブルーベリー、キウイ、メロン、オレンジなども点在し、アボカドのクリーミーな断面がアクセントになる。中央には大きなダチョウの卵の黄身が豪快に鎮座し、その周りに生クリームとヨーグルト、砕いたチーズの白いソースがぽってりと添えられている。はちみつがとろりと垂れ、オリーブオイルの艶とバルサミコ酢の深い色がドレッシングとして表情を作り、コチュジャンの赤い線がピリッとした差し色になる。さらに見た目の演出として小瓶に入った「腐った牛乳」が分離した白濁の塊としてそっと添えられ、全体に不思議な不穏さを加えている。高解像度、自然光寄りの柔らかいライティングで質感（シャキシャキの葉、ぷりっとした果実、クリーミーなソース、卵黄の艶）を強調し、色彩豊かで食欲をそそるように描写してください。",
+    "finished_at": "2025-09-06T06:30:41.710207"
+}
