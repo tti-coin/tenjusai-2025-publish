@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "e9bd5192-6ce7-4de7-b059-7179511efd79",
+    "created_at": "2025-09-06T02:12:39.604062",
+    "estimated_duration": 52782,
+    "started_at": "2025-09-06T02:12:39.606868",
+    "title": "豚肉と野菜の焼きそば",
+    "comment": "豚肉の旨味とソースの照りが食欲をそそる、家庭的で安定感のある焼きそばです。野菜は大きさを揃えて切ると火の通りが均一になり、シャキシャキ感が残っておいしく仕上がります。最後の「愛情を注ぐ」工程は侮れません—仕上げにニコッと混ぜれば味も心もふっくらしますよ（調理中の愛は無限大）。",
+    "image_prompt": "豚肉のこんがりとした焼き色とキャベツ、たまねぎ、にんじんが混ざり合った中華麺の焼きそば。中華麺は表面に軽い焦げ目がつき、ソースが麺と具材に艶やかに絡んでいる。豚肉はジューシーで断面にわずかにキャラメル化した色合いが見え、キャベツは縁が少し透けてシャキッとした食感を想起させる。湯気が立ちのぼり、ソースの照りと油のきらめきが美味しさを強調。白い陶器の皿に盛りつけられ、木製の箸で麺を持ち上げる瞬間を捉えたクローズアップ。自然光の柔らかい陰影と浅い被写界深度で背景はボケ、温かく家庭的な雰囲気を演出する。",
+    "finished_at": "2025-09-06T02:13:21.921513"
+}
