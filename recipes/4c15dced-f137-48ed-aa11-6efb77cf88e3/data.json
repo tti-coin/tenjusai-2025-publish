@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "4c15dced-f137-48ed-aa11-6efb77cf88e3",
+    "created_at": "2025-09-06T02:41:34.360097",
+    "estimated_duration": 47286,
+    "started_at": "2025-09-06T02:41:34.362482",
+    "title": "焼きミックスフルーツのカラフルケーキ",
+    "comment": "色とりどりの果物を一度に焼き上げる大胆さが、見た目と香りの楽しさをぐっと引き上げます。生クリームを後から合わせることで果実の酸味としっとりした焼き生地のバランスが良く、食べやすさもアップします。食べるときはフォークが果物の海で忙しく泳ぎ回りますが、その賑やかさこそがこの一皿の魅力です。",
+    "image_prompt": "色鮮やかないちご、ライチ、さくらんぼ、ブルーベリー、ぶどう、マスカット、パイナップル、りんご、もも、メロン、レモンが贅沢に並び、軽く焼き色のついた艶やかな表面が広がる一皿。卵・バター・小麦粉・砂糖で焼き上げた黄金色のしっとり生地が果実のあいだにふんわりと寄り添い、果汁がにじむ断面からはジューシーさが伝わる。上にはふんわりとした生クリームをぽってりと盛り、粉砂糖とレモンの皮を散らして爽やかさを添える。白い陶器のプレートに盛り付け、木目のテーブル、ミントの葉のアクセント、自然光の柔らかい影、45度のやや斜めクローズアップで浅い被写界深度・高解像度によりテクスチャーと艶を強調した美味しそうな料理写真。",
+    "finished_at": "2025-09-06T02:42:22.968087"
+}
