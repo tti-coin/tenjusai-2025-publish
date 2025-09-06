@@ -1,0 +1,117 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "eba44d71-a12d-43f0-9f97-171234bd7200",
+    "created_at": "2025-09-06T03:13:19.416868",
+    "estimated_duration": 49579,
+    "started_at": "2025-09-06T03:13:19.419188",
+    "title": "ミックスフルーツのクリームヨーグルトボウル",
+    "comment": "彩り豊かなフルーツが主役で、クリームとヨーグルトとはちみつがやさしくまとめています。カットの大きさを揃えると見た目も食感も良くなり、はちみつは少量ずつ調整すると全体のバランスが取りやすいです。朝食にもデザートにも合う万能さで、写真映えするのでつい盛りすぎてしまわないよう気をつけて！",
+    "image_prompt": "白い大きめのボウルに色とりどりのフルーツを美しく盛り付けたクローズアップ。緑色のマスカットは小房のまま瑞々しく光り、バナナは皮をむいて斜め薄切りにして扇状に並べる。メロンは食べやすい一口大のくし形、パイナップルはジューシーな角切り、いちごはヘタを取り半分にカットして断面が見えるように配置。中央と所々にふわりとした生クリームの白い山をのせ、上から滑らかなプレーンヨーグルトを薄く回しかけて乳白色の層を作る。最後にはちみつを細く糸状に垂らして光る甘い筋を作り、フルーツの鮮やかな色とクリームのコントラストを強調。自然光で柔らかく側面から照らし、浅い被写界深度で奥行きを出した高解像度の美味しそうなフードフォトを想定。",
+    "finished_at": "2025-09-06T03:14:14.964698"
+}
