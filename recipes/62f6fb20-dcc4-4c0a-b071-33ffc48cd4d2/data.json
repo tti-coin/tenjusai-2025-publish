@@ -1,0 +1,103 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "ingredient",
+                "value": "わかめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            }
+        ]
+    ],
+    "job_id": "62f6fb20-dcc4-4c0a-b071-33ffc48cd4d2",
+    "created_at": "2025-09-06T04:55:01.493921",
+    "estimated_duration": 52235,
+    "started_at": "2025-09-06T04:55:01.496396",
+    "title": "ダチョウ卵とウズラ卵のスパイシー豆腐クリーム",
+    "comment": "異素材が一皿にまとまった独創的なレシピで、クリーミーな豆腐風の舌触りと卵の濃厚さが楽しめます。唐辛子がかなり効いているので辛さに自信のある方は要注意、納豆の粘りとピーナッツの歯ごたえが良いアクセントになります。最後に「愛情」をたっぷりかければ不思議とまとまる、食べる冒険心をくすぐる一皿です。",
+    "image_prompt": "陶器の浅い器に盛られた一皿。ダチョウ卵とウズラ卵を牛乳と生クリームで混ぜて滑らかな豆腐風クリームに仕立て、白と金色の美しいグラデーションを見せる。中央にはとろりと濃厚なダチョウの黄身風の塊を置き、周囲に半分に切ったウズラ卵の黄身を散らす。器の縁には刻みのりと光沢のあるわかめの深い緑を配し、粘り気のある納豆の糸が艶やかに絡む。砕いたピーナッツと白黒の炒り胡麻を香ばしく散らし、表面には鮮やかな赤の唐辛子オイルをたっぷりと垂らして辛味のアクセントをつける。最後にハート形のソースで“愛情”を表現し、湯気が立ち上る温かさと艶のあるテクスチャーを強調。木製のテーブルの上で柔らかな自然光、45度の角度からのクローズアップで撮影し、食欲をそそる温もりと多彩な食材のコントラストを引き出す。",
+    "finished_at": "2025-09-06T04:55:55.332881"
+}
