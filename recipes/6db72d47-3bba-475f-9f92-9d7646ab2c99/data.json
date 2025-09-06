@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "6db72d47-3bba-475f-9f92-9d7646ab2c99",
+    "created_at": "2025-09-06T02:52:59.904308",
+    "estimated_duration": 47172,
+    "started_at": "2025-09-06T02:52:59.906799",
+    "title": "ブロッコリーと牛肉のもちチーズラム盛り",
+    "comment": "色と食感のコントラストが遊び心たっぷりで楽しい一皿です。冷たいさくらんぼと熱々チーズの組み合わせは意外性があって会話が弾みますが、提供時の温度差に注意してください。ラムは最後にのせて存在感を出すと『計算ずくの偶然』と褒められることでしょう。",
+    "image_prompt": "熱々に煮た鮮やかな緑のブロッコリーフローレットが中央に盛られ、その脇にしょうゆやごま油で和えた艶のある牛肉の短冊が重なる。つぶした白もちがぽってりと添えられ、上から香ばしい白ごまと黒ごまがたっぷり振られている。冷凍庫の霜が残るような艶のある凍った赤いさくらんぼが数粒、氷の結晶が見える状態でアクセントに配置され、湯にくぐらせて柔らかくしたとろけるチーズが垂れるように盛られる。最後に薄切りにしたローストした羊肉（ラム）が皿の上に豪快にのせられ、全体を引き締める。木のテーブルに白い深皿、柔らかいサイド光、浅い被写界深度で質感と温度差を強調したクローズアップ、食欲をそそる温かみのある色調で撮影。",
+    "finished_at": "2025-09-06T02:53:41.198573"
+}
