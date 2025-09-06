@@ -1,0 +1,173 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "57a01fd2-2c9b-4c7f-9a0d-a3b0ca755a35",
+    "created_at": "2025-09-06T05:14:30.039148",
+    "estimated_duration": 50864,
+    "started_at": "2025-09-06T05:14:30.042236",
+    "title": "ケチャップ牛と焼き野菜の混ぜご飯",
+    "comment": "焼きなすの香ばしさと揚げたトマト・しいたけの旨味がごはんにしっかり移った豪快な一皿です。牛肉にケチャップをかけることで子どもの頃のワクワク感が蘇る味わいになります。混ぜるときは熱々なので軽く冷ましてからが安全、でも勢いでかきこみたくなる危険な美味しさです。",
+    "image_prompt": "蒸気が立ち上る木製の深めの器に盛られた混ぜご飯のクローズアップ。ふっくらとした白ごはんに、焼き目がついたなすのやわらかな断面、外はカリッと揚がったトマトとしいたけの黄金色の縁、薄く切った生たまねぎのシャキッとした白い層が均一に混ざっている。上には照りのある焼き目のついた牛肉薄切りを扇状にのせ、鮮やかな赤いケチャップを大胆に細長くかけている。ごはん粒のツヤ、焦げ目のコントラスト、ケチャップの光沢が食欲をそそり、脇に散らした刻みねぎや白ごまが彩りと質感を添えている。暖色の自然光で撮影された高解像度のフードフォトを想定し、背景はややボケて家庭的で温かい雰囲気を強調する。",
+    "finished_at": "2025-09-06T05:15:08.911452"
+}
