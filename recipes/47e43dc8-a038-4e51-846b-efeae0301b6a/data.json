@@ -1,0 +1,89 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ]
+    ],
+    "job_id": "47e43dc8-a038-4e51-846b-efeae0301b6a",
+    "created_at": "2025-09-06T04:12:14.078220",
+    "estimated_duration": 51752,
+    "started_at": "2025-09-06T04:12:14.080442",
+    "title": "野菜とパンのクラッシュディップ",
+    "comment": "色とりどりの野菜を一気にクラッシュして作る、元気な見た目が魅力の一品です。ピーナッツとかつお節の組み合わせで旨味と香ばしさが加わり、食感のコントラストも楽しめますが、唐辛子とかつお節の塩分は強く出やすいので、味見を忘れずに調整してください。",
+    "image_prompt": "緑色を基調にしたクラッシュディップ。ピーマン、キャベツ、ロマネスコ、オクラ、アスパラガスを粗く潰して混ぜ、パンを砕いてとろりとしたペースト状にしたもの。砕いた唐辛子の赤い粒と刻んだピーナッツの粒、ふわりとかつお節の薄片が表面に散らされ、艶のあるごま油が軽く回しかけられている。白い浅鉢に盛り付け、ロマネスコの小房やアスパラの先端、丸ごとの唐辛子を飾り、木製のテーブルと自然光で柔らかく照らした高解像度のクローズアップ。テクスチャーはざっくりとした潰し感と粒感のコントラストがあり、美味しそうで食欲をそそる一皿に。浅い被写界深度で背景をぼかし、温かみのある色調で仕上げてください。",
+    "finished_at": "2025-09-06T04:13:32.344618"
+}
