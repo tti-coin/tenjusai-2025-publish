@@ -1,0 +1,229 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            }
+        ]
+    ],
+    "job_id": "c70323a4-d73d-4ddd-a1c4-caf0baa5afea",
+    "created_at": "2025-09-06T06:40:51.293843",
+    "estimated_duration": 46886,
+    "started_at": "2025-09-06T06:40:51.297169",
+    "title": "フルーツと牛肉の生ハムヨーグルトサラダ",
+    "comment": "フルーツとしその爽やかな香りが牛肉の旨味と意外に好相性で、見た目も味も華やかに決まります。ヨーグルトドレッシングと焼きマスカットの甘酸っぱさが全体を軽やかにまとめるので、食べ飽きません。牛肉の生ハムは生肉扱いになるので、新鮮で信頼できるものを使うか軽く火を入れるなど衛生面に注意してください。",
+    "image_prompt": "大皿に彩り豊かに盛られたフルーツとグリーンのサラダ。サニーレタスと大ぶりのしそ、茹でたほうれん草と鮮やかな枝豆をベースに、薄くスライスして美しく広げた牛肉の生ハムを風呂敷のようにかける。いちご、さくらんぼ、ぶどう、ラズベリー、ブルーベリー、マスカット、みかん、なしのセグメントを散りばめ、焼いて軽くキャラメリゼしたマスカットをアクセントに配置。細長くリボン状に切ったズッキーニとヨーグルトをベースにした軽いドレッシングで全体を和え、艶のあるフルーツソースを部分的にたらして光沢を出す。鮮明な色彩、濡れたような艶、シャープな前ボケで食欲をそそるクローズアップ。木製のテーブル、自然光の柔らかい影、上からやや斜めの構図で撮影。",
+    "finished_at": "2025-09-06T06:42:21.216129"
+}
