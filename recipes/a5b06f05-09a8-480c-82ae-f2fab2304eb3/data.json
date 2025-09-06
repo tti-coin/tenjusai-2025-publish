@@ -1,0 +1,85 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            }
+        ]
+    ],
+    "job_id": "a5b06f05-09a8-480c-82ae-f2fab2304eb3",
+    "created_at": "2025-09-06T06:09:55.684632",
+    "estimated_duration": 50276,
+    "started_at": "2025-09-06T06:09:55.687029",
+    "title": "極彩色フルーツサラダ",
+    "comment": "色とりどりの果実が一度に楽しめる華やかな一皿です。レモンやみかんなど柑橘が多めなので酸味が際立ちやすく、はちみつやバナナで甘みを足してバランスを取るとさらにおいしくなります。りんごやバナナは盛り付け直前に加えてレモン汁で軽く和えると変色を防げます—見た目も味もワクワクするサラダです。",
+    "image_prompt": "陽光を浴びて輝く大きなガラスボウルに盛られた極彩色のフルーツサラダ。ラズベリーの深紅、赤と緑のブドウ、みかんとデコポンのオレンジのセグメント、淡い緑のマスカット、輪切りのレモン、半分に切ったいちご、輪切りのバナナ、薄切りの洋なしとりんごが層になってぎっしり詰まり、はちみつの薄い艶と小さな水滴が表面に光る。ミントの葉が散らされ、木製テーブルの上の白いリネンに置かれ、45度の斜め上からのアングルで中心にピントが合った浅い被写界深度。自然光のやわらかなハイライトと温かい色調で、ジューシーさとフレッシュさが伝わる高解像度の美味しそうなフード写真。",
+    "finished_at": "2025-09-06T06:11:04.573919"
+}
