@@ -1,0 +1,95 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "ingredient",
+                "value": "まいたけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            }
+        ]
+    ],
+    "job_id": "96e0adef-06ba-4cdf-8686-ef0c10ca582a",
+    "created_at": "2025-09-06T06:52:31.245605",
+    "estimated_duration": 54079,
+    "started_at": "2025-09-06T06:52:31.248029",
+    "title": "きのことフルーツのチーズサラダ",
+    "comment": "きのこのアース感と果実の甘酸っぱさが同居するユニークで楽しい一皿です。チーズが味の架け橋になって全体をうまくまとめてくれるので意外と食べやすいですよ。見た目はカラフルでパーティー向け、でも食感の違いには優しく気をつけてくださいね。",
+    "image_prompt": "薄切りにしたえのき、まいたけ、マッシュルーム、きくらげ、トマト、なすが彩りよく混ざり、輪切りやホールのいちご、みかん、さくらんぼ、ぶどう、マスカット、りんご、ラズベリー、ブルーベリーが点在する一皿。薄くスライスしたチーズが所々にふんわり重なり、果実の光沢ときのこの繊細な質感が対照的に映えるように盛り付ける。白い陶器の大皿にオリーブオイルの薄い光沢とバルサミコの小さな点、刻んだハーブを散らし、自然光の斜光で高解像度・クローズアップ撮影、浅い被写界深度で背景をぼかして料理の色彩とテクスチャーを強調した美味しそうなイメージ。",
+    "finished_at": "2025-09-06T06:53:17.754378"
+}
