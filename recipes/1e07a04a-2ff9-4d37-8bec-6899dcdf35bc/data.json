@@ -1,0 +1,33 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "1e07a04a-2ff9-4d37-8bec-6899dcdf35bc",
+    "created_at": "2025-09-06T04:54:20.264264",
+    "estimated_duration": 52235,
+    "started_at": "2025-09-06T04:54:20.266071",
+    "title": "キャベツと白菜のグリル",
+    "comment": "シンプルに切って焼くだけで、キャベツと白菜の甘みと香ばしさが楽しめる一品です。強めの火でさっと焼いて表面にしっかり焼き目をつけると風味がぐっと増すので、焼きすぎないように注意してください。野菜同士が仲良く焦げ目を競う姿は見て楽しく、食べてもっと楽しいですよ。",
+    "image_prompt": "Close-up, high-resolution image of a rustic skillet and wooden board featuring grilled cabbage and napa cabbage: thick wedges and large leaves of green cabbage and Chinese (napa) cabbage with deep golden-brown char marks and caramelized edges, glistening with olive oil and a light soy glaze, tiny pools of seasoning, sprinkled toasted sesame seeds and thinly sliced green onions, a lemon wedge on the side, faint steam rising, warm soft backlighting, shallow depth of field, restaurant-style plating on a dark wooden surface with a linen napkin, vibrant natural colors and textures, mouthwatering and appetizing composition, detailed surface texture of char and caramelization, cozy homestyle atmosphere.",
+    "finished_at": "2025-09-06T04:55:02.875656"
+}
