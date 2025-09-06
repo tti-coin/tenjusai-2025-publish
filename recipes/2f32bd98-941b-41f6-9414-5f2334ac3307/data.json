@@ -1,0 +1,191 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "わかめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ]
+    ],
+    "job_id": "2f32bd98-941b-41f6-9414-5f2334ac3307",
+    "created_at": "2025-09-06T05:28:09.077217",
+    "estimated_duration": 45765,
+    "started_at": "2025-09-06T05:28:09.080745",
+    "title": "ぶどうとブルーベリーの餅包み わかめ添え",
+    "comment": "果物の甘酸っぱさと海藻の塩気が絶妙に交わる意外性のある組み合わせが魅力です。もちのもちもち感と果実のジューシーさ、わかめのシャキッとした食感のコントラストが楽しい一皿です。味のバランスは加減が肝心なので、果実は煮詰めすぎず塩気は少しずつ足して笑顔で調整してみてください。",
+    "image_prompt": "蒸したもち米を薄く伸ばした柔らかい餅で包み、中心から紫色のぶどうとブルーベリーの温かいコンポートがとろりと溢れる瞬間をクローズアップで描写。表面の餅は薄く透けて米粒のつぶつぶ感が見え、コンポートは軽く炒めて煮詰めたような艶とキャラメリゼされた縁がある。付け合わせに塩気と海の香りを与える細かく刻んだわかめが鮮やかな緑で散らされ、白い陶器の平皿に盛られ、木製のテーブルと柔らかい自然光、浅い被写界深度で背景をぼかした美味しそうな卓上写真。テクスチャーの対比（もちのもっちり感、果実のジューシーさ、わかめのシャキッとした葉の質感）を強調し、鮮やかな紫・緑・白の色彩コントラスト、湯気の表現とディテールの高解像度で写実的に。",
+    "finished_at": "2025-09-06T05:29:01.427016"
+}
