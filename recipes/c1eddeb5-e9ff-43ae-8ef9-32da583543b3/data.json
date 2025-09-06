@@ -1,0 +1,89 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "c1eddeb5-e9ff-43ae-8ef9-32da583543b3",
+    "created_at": "2025-09-06T05:19:32.006815",
+    "estimated_duration": 47221,
+    "started_at": "2025-09-06T05:19:32.009058",
+    "title": "カレーミルクパンケーキ",
+    "comment": "ミルクをたっぷり使ったやさしい生地にカレー風味のソースが意外とよく合う、新感覚の一皿です。混ぜたりつぶしたりする工程で食感に変化が出るので、ふんわり＆ところどころのしっかり感が楽しめます。カレー粉の量は少しずつ調整して、香りが強くなりすぎないように注意してください、スパイスに気を付けて！",
+    "image_prompt": "薄力粉と牛乳を混ぜて焼き上げた、やや不揃いで表面に小さな割れ目がある黄金色のパンケーキが2〜3枚重なった一皿。上からとろりと流れるのはカレー粉と牛乳を合わせて作ったクリーミーなカレーソースで、鮮やかな黄橙色の艶が食欲をそそる。パンケーキの縁は香ばしく焼け、中はふんわりとミルキーな気泡が見える。仕上げにカレー粉を軽く振りかけ、刻んだパセリと薄切り赤唐辛子をアクセントに散らし、木のプレートとリネンナプキンを背景に温かい自然光で撮影したクローズアップ。浅い被写界深度で手前にピントを合わせ、湯気と質感を強調した美味しそうなフードフォト風の描写。",
+    "finished_at": "2025-09-06T05:20:09.769685"
+}
