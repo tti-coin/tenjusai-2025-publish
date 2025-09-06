@@ -1,0 +1,137 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "びわ"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            },
+            {
+                "type": "ingredient",
+                "value": "みりん"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "605fa328-2df7-49e3-92dd-39bdfac5a549",
+    "created_at": "2025-09-06T04:09:11.975289",
+    "estimated_duration": 52701,
+    "started_at": "2025-09-06T04:09:11.977852",
+    "title": "びわと羊のフォー炒め（ダチョウ卵のせ）",
+    "comment": "びわの甘酸っぱさが羊肉の濃厚な旨味と意外に良く合い、フルーティーなアクセントが楽しめます。ダチョウの卵は量が多くふわとろなので塩とみりんの加減は控えめにしてバランスをとってください。レンジで柔らかくしたびわは水分が出やすいので軽く絞ると仕上がりが安定し、最後に「愛情」をたっぷり注げば完成度が上がります（笑）",
+    "image_prompt": "温かい蒸気が立ち上るフォー風の炒め皿。光沢のある米麺が少量のスープと共に軽く炒められ、表面はツヤのある褐色の照りがある。横に香ばしく焼かれた薄切り羊肉が美しい焼き目で並び、鮮やかな橙色のすりおろしたびわがアクセントに散らされる。大きなダチョウの卵がとろりと混ぜかけられ、ふわふわの黄身が麺に絡む。ごま油の艶、みりんの照り、塩の粒が光り、小さなハーブやミクロハーブが彩りを添える。木製のテーブルに置かれた温かみのある器を45度の角度でクローズアップし、やわらかな自然光が湯気と艶を強調する美味しそうなフュージョン料理の完成イメージ。",
+    "finished_at": "2025-09-06T04:10:02.417837"
+}
