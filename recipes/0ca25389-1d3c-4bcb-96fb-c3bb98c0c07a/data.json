@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "0ca25389-1d3c-4bcb-96fb-c3bb98c0c07a",
+    "created_at": "2025-09-06T03:39:36.179954",
+    "estimated_duration": 43353,
+    "started_at": "2025-09-06T03:39:36.182326",
+    "title": "ハニーケチャップのミート＆揚げナスパスタ",
+    "comment": "ケチャップとはちみつの甘辛いソースが子どもから大人まで楽しめる一皿に仕上げます。揚げナスは油をよく切り、鶏肉とソーセージはしっかり焼いて香ばしさを出すと全体のバランスが良くなります。味が濃くなりやすいので、はちみつの量で甘さを調整しつつ遊び心を忘れずにどうぞ！",
+    "image_prompt": "白い深皿に盛られたアルデンテのスパゲッティが、つやつやと光るケチャップとはちみつの甘辛いグレーズでしっかりと和えられている。上にはこんがり焼き色のついたソーセージのスライスと鶏肉の一口大、外はカリッと中はとろりとした揚げなすの輪切り、飴色に炒めた玉ねぎと軽くソテーしたトマトが彩りよく散らされている。ソースの艶や湯気、オリーブオイルの薄い膜、刻んだパセリやバジルの緑、仕上げに軽く振られたブラックペッパーとレモンのくし切りが添えられ、木製テーブルの上で自然光が当たり暖かく食欲をそそる。浅い被写界深度で前景にフォークがぼんやり入り、高解像度・フォトリアルな仕上がりで、テクスチャー（焦げ目、揚げナスの表面、ソースの照り）を詳細に描写してください。",
+    "finished_at": "2025-09-06T03:40:21.860003"
+}
