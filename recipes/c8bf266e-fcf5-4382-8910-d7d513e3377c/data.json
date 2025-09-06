@@ -1,0 +1,103 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "c8bf266e-fcf5-4382-8910-d7d513e3377c",
+    "created_at": "2025-09-06T05:52:36.306425",
+    "estimated_duration": 47292,
+    "started_at": "2025-09-06T05:52:36.308889",
+    "title": "ミックスフルーツクリーム",
+    "comment": "色とりどりの果物が集まって見た目が華やか、写真映えは抜群です。乳製品とヨーグルトで程よい酸味とコクが生まれ、口当たりはなめらかで食べやすいですよ。最後の「愛情で盛り付ける」は真実の調味料、たっぷり注いで可愛く盛り付けてくださいね。",
+    "image_prompt": "白い深皿に盛られたミックスフルーツのクリームデザート。ももは薄切りで優しいピンク色、ぶどうは半分に切って光る皮を見せ、オレンジは房ごとのセグメント、マンゴーは鮮やかな角切り、いちごは縦半分で赤い断面を強調。牛乳と生クリームとヨーグルトが混ざったややとろりとしたクリームが果物をやさしく包み、表面に滑らかな渦と柔らかな艶が見える。冷やしてあることを示す小さな結露と、ナチュラルライトの斜光が果実の色を鮮やかに引き立てる。木のテーブルに置かれ、そばにシンプルなスプーンを添えたクローズアップ構図で、瑞々しい果実とクリーミーなテクスチャの対比を強調した美味しそうな仕上がり。",
+    "finished_at": "2025-09-06T05:53:33.610379"
+}
