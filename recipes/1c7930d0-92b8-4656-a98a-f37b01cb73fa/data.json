@@ -1,0 +1,261 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "グレープフルーツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "びわ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "パパイヤ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "ingredient",
+                "value": "きしめん"
+            },
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "ingredient",
+                "value": "オートミール"
+            },
+            {
+                "type": "ingredient",
+                "value": "そば"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "ingredient",
+                "value": "うどん"
+            },
+            {
+                "type": "ingredient",
+                "value": "米粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "そうめん"
+            },
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "ingredient",
+                "value": "ビーフン"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "ハム"
+            },
+            {
+                "type": "ingredient",
+                "value": "たら"
+            },
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "たい"
+            },
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "ingredient",
+                "value": "鴨肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "あゆ"
+            },
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            }
+        ]
+    ],
+    "job_id": "1c7930d0-92b8-4656-a98a-f37b01cb73fa",
+    "created_at": "2025-09-06T03:33:15.069308",
+    "estimated_duration": 46179,
+    "started_at": "2025-09-06T03:33:15.073412",
+    "comment": "Expecting value: line 1 column 1 (char 0)\ncontent=",
+    "finished_at": "2025-09-06T03:33:43.960523"
+}
