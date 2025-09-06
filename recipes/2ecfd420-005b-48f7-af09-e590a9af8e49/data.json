@@ -1,0 +1,145 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "米粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "2ecfd420-005b-48f7-af09-e590a9af8e49",
+    "created_at": "2025-09-06T05:38:52.553718",
+    "estimated_duration": 47319,
+    "started_at": "2025-09-06T05:38:52.556013",
+    "title": "牛肉とじゃがいものフリッターサラダ",
+    "comment": "じゃがいものほくほく感と牛肉の旨味が合わさって満足度の高い一品です。小麦粉と米粉のダブル衣で外はカリッ、中はふんわりとした食感が楽しめます。油でしっかり火を通し酢のさっぱり感を最後に加えるのがコツなので、熱々を用意して一気に召し上がれ—あっという間にお皿が空になりますよ！",
+    "image_prompt": "薄切りの牛肉とすりおろしたじゃがいもを、小麦粉と米粉をブレンドした衣に卵でまとめて油でこんがり揚げ焼きにした一口サイズのフリッターが主役の一皿。外は黄金色にカリッと香ばしく、内側はほくほくとじゃがいもの甘みと牛肉の旨味が層を成している。皿には細切りにしたレタスをたっぷり敷き、揚げたてのフリッターを美しく並べ、仕上げに酢をベースにした軽いドレッシングをうっすらとかけて光沢を出す。粗挽き黒こしょうと粒の塩を散らしてアクセントにし、断面が見えるカットを添えて肉とじゃがいもの質感を強調。湯気とともに温かさが伝わるクローズアップで、木製テーブルの上に自然光が差し込み、浅い被写界深度でフォトリアリスティックに撮影。油の照り、カリカリの縁、瑞々しいレタスの緑が食欲をそそる描写を重視する。",
+    "finished_at": "2025-09-06T05:39:45.970673"
+}
