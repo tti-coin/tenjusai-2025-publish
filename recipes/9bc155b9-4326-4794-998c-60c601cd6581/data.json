@@ -1,0 +1,137 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ハム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ]
+    ],
+    "job_id": "9bc155b9-4326-4794-998c-60c601cd6581",
+    "created_at": "2025-09-06T06:28:43.347215",
+    "estimated_duration": 49918,
+    "started_at": "2025-09-06T06:28:43.349938",
+    "title": "海陸ミックスグリル＆フライプレート",
+    "comment": "海の幸と山の幸が一つのお皿で豪快に共演する、豪華で遊び心のある一品です。たらこのコクとすりおろした根菜のほっくり感が、揚げ物や焼き物のボリュームをうまくまとめています。油の扱いと揚げる順番だけ気をつければ、お皿の上で小さな宴会が始まりますよ（お箸が止まりません）。",
+    "image_prompt": "大皿に盛られた豪華な海陸ミックスプレート。手前にはカラリと揚がった魚介の盛り合わせ（さんま、あじ、さばの衣がきつね色で、たこ・いかは噛み応えのある断面、海老は尾が立ち上がるように揚がり、カニはほぐし身のフライ）を並べ、衣の細かな気泡と油のツヤを強調。中央には照りよく炒められた牛肉の細切れ、奥にはこんがり焼けたソーセージがスライスされて並ぶ。付け合わせとして、薄切りにしたじゃがいも（軽くローストした風合い）と、にんじん・さつまいも・とうもろこしをすりおろして混ぜ合わせた色鮮やかなペーストをベッド状に敷き、その上にたらこをほぐしてソース状にかけた部分がアクセントとして光る。ハムは細かく混ぜ込まれて彩りのある小山になり、全体にレモンのくし切り、刻みパセリと糸唐辛子を散らしてコントラストを出す。45度のやや斜め上からのクローズアップで、湯気と衣のクリスピーさ、肉の光沢、たらこの粒感を高解像度で描写。暖色の自然光で美味しそうに見せ、背景は木目のテーブルで家庭的かつ豪快な盛り付けを強調する。",
+    "finished_at": "2025-09-06T06:29:33.039664"
+}
