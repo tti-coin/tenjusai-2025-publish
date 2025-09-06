@@ -1,0 +1,121 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "abfeb000-4795-4518-8e3f-ee9180dbbfe9",
+    "created_at": "2025-09-06T03:49:33.408678",
+    "estimated_duration": 44223,
+    "started_at": "2025-09-06T03:49:33.411539",
+    "title": "クリーミー春野菜ビーフン（焼きゴーヤ添え）",
+    "comment": "苦味のあるゴーヤを生クリームと甘辛い卵だれで包むと、驚くほどまろやかになり意外な相性の良さにニヤリとします。ビーフンはゆで過ぎずモチッとさせ、アスパラや長ねぎは強めの火で香ばしく仕上げると食感のコントラストが生きます（芽キャベツの焼き目は主役級のインパクトを与えます）。見た目は豪快でも野菜たっぷりでヘルシー、しかも「これプロの味？」と聞かれるかもしれない魔法の一皿です。",
+    "image_prompt": "白い陶器の浅めの器に盛られたビーフンを45度上からのやや寄りのアングルで。ビーフンは生クリームで艶のある淡いクリーム色にコーティングされ、モチッとした食感が伝わるように糸状の麺がほどよく束になっている。上には強火でさっと炒めたアスパラガスの鮮やかな深緑、長ねぎの香ばしい焼き色、みずみずしいスプラウトがバランスよく散らされ、側面には輪切りにして表面にこんがりと焼き目のついたゴーヤと半割りにして外側を香ばしく焼いた芽キャベツが並ぶ。潰した卵に醤油と砂糖で作った照りのある甘辛いタレが光沢のある筋状に軽くかかり、白ごまや小口切りの青ネギがアクセントとして散らされている。湯気が立ち上り、温かさと香ばしさが伝わるように柔らかい自然光、浅い被写界深度で手前の具材をシャープに、背景をややぼかして食欲をそそるスタイリング。",
+    "finished_at": "2025-09-06T03:50:32.283043"
+}
