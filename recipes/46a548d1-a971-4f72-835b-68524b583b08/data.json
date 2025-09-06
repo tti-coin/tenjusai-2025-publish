@@ -1,0 +1,119 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "豆板醤"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "ingredient",
+                "value": "米粉"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鴨肉"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "46a548d1-a971-4f72-835b-68524b583b08",
+    "created_at": "2025-09-06T04:57:42.654861",
+    "estimated_duration": 51528,
+    "started_at": "2025-09-06T04:57:42.657381",
+    "title": "豆板醤鴨と牛のれんこん包み",
+    "comment": "豆板醤の香りと米粉のもちっとした食感がユニークにマッチする一品です。鴨と牛、れんこん、マッシュルームの組み合わせで旨味の層が厚く、冷たい葉物が良い箸休めになります。辛味と旨味が強いので、食べるときは醤油の量でバランスをとってくださいね、思わず笑ってしまうくらいクセになる味です。",
+    "image_prompt": "温めた豆板醤の照りが美しい、米粉で作った薄い皮に包まれた一皿。香ばしく焼き上げてから軽く煮た鴨肉の断面と、しっとり蒸した牛肉が透けるように並び、蒸したれんこんは透明感のある薄切りで歯ごたえを残す。マッシュルームは滑らかなソース状に溶かして包みの中にとろりと流れ、表面は軽く温められ艶がある。チンゲン菜とキャベツは冷やしてシャキッとしたグリーンのコントラストを作り、酢でさっぱりとマリネした小片がアクセントに。最後に注がれる醤油の深い琥珀色のラインが全体を引き締め、白い陶器の皿に盛られた近接ショット、柔らかい自然光、浅い被写界深度でディテールと質感が強調された写実的で食欲をそそる構図。",
+    "finished_at": "2025-09-06T04:58:33.751504"
+}
