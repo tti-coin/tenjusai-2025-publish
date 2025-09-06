@@ -1,0 +1,143 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "a7e6b52b-caed-425e-baf4-8b40295adbd8",
+    "created_at": "2025-09-06T05:58:13.541308",
+    "estimated_duration": 51295,
+    "started_at": "2025-09-06T05:58:13.544085",
+    "title": "マスカットとトロピカル焼き芋デザート",
+    "comment": "Error: Error code: 400 - {'error': {'message': 'Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.', 'type': 'image_generation_user_error', 'param': None, 'code': 'content_policy_violation'}}",
+    "image_prompt": "温かくキャラメリゼされたさつまいもを厚めにカットして砂糖とバターでこんがり焼き、白い丸皿の中央にふんわりと並べる。上には煮て艶を出したグリーンのマスカットを光沢あるシロップごとたっぷりのせ、カットした鮮やかなオレンジ色のみかんの房と濃厚なマンゴーの角切りを彩りよく散らす。さらに冷たい生クリームを大ぶりに絞り、クリームの傍らにマスカットを数粒飾ってコントラストを作る。皿には少量の煮汁をソース状に垂らし、ミントの小枝と粉砂糖を軽く振って華やかさを添える。木目のテーブルと柔らかい自然光、浅い被写界深度で背景は柔らかくぼかし、温かさとジューシーさ、クリーミーさが伝わるクローズアップのフォトリアルな一枚に。",
+    "finished_at": "2025-09-06T05:58:41.140834"
+}
