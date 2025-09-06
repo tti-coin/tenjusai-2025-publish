@@ -1,0 +1,293 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "ハム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "わかめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            }
+        ]
+    ],
+    "job_id": "e544cf48-7d1d-46f7-98dd-2135ca1bee9f",
+    "created_at": "2025-09-06T05:34:56.541926",
+    "estimated_duration": 47710,
+    "started_at": "2025-09-06T05:34:56.546055",
+    "title": "和洋折衷ミックスボウル",
+    "comment": "彩り豊かな食材が一皿に詰まった豪華で遊び心ある一品です。納豆やいちご、ダチョウの卵といった奇抜な組み合わせも、クリーミーなソースと柑橘の酸味がまとめ役になってくれそうです。調理では生肉と大きな卵の火入れに気を付けて、安全に冒険を楽しんでください — 食べる前に実験帽は不要ですが気分は料理探検隊になれます。",
+    "image_prompt": "大きな白い深皿に盛られた和洋折衷のミックスボウル。外側にシャキッとしたサニーレタスとレタスの緑、甘酸っぱいいちごとみかんの鮮やかな断面、薄くスライスして軽く炙った生ハムとカリッと焼いたベーコン、ロゼ色に火が入った牛肉のスライスを重ね、香ばしく焼いた枝豆が散らされている。バターでコクを出した短めのパスタや、豆腐の角切りと粘り気のある納豆がアクセントになり、のりとわかめの深い緑が全体を引き締める。上から生クリームとヨーグルトをベースにした白いクリーミーソースと溶けたチーズをとろりとかけ、中央にはとろりとしたダチョウの卵の黄身をのせて光を受けて艶が出るように配置。唐辛子の赤い粉、すりおろしたチーズ、刻み海苔を散らし、湯気と光沢で温かみと食欲を強調したクローズアップ写真風の高解像度イメージ。リアルで食欲をそそるスタイリング、やや角度をつけた俯瞰ショットで質感と色のコントラストを際立たせる。",
+    "finished_at": "2025-09-06T05:35:53.034408"
+}
