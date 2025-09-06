@@ -1,0 +1,115 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "ingredient",
+                "value": "オートミール"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "d513d2fe-c693-4cbf-90cc-1bb9f69ce880",
+    "created_at": "2025-09-06T06:22:27.612138",
+    "estimated_duration": 52189,
+    "started_at": "2025-09-06T06:22:27.614828",
+    "title": "フルーツコチュジャン・ホットオートミール",
+    "comment": "果物の自然な甘みとコチュジャンのピリ辛が個性的で冒険心をくすぐります。ヨーグルトを加えて加熱すると分離しやすいので、弱火で優しく混ぜながら仕上げるのがコツです。最後に愛情をたっぷり注げば見た目も味も驚きの一皿になり、試す価値大です。",
+    "image_prompt": "温かいオートミールのボウルの上に、つぶしたバナナと刻んだりんご、柔らかく潰したもも、くし形に分けたオレンジの果肉が色とりどりに盛られている。別に潰したぶどうとマスカットのペーストが光沢のあるソース状に広がり、上からとろりとしたヨーグルトがかかって軽く煮たことでややとろみと艶が出ている。最後に深紅のコチュジャンが細い線でたらりと垂れ、甘さと程よい辛さのコントラストが視覚にも強く訴える。蒸気が立ち上る温かい一皿を、素朴な陶器のボウルと木のスプーンで家庭的に演出し、自然光で柔らかく撮ったクローズアップ画像。フルーツの鮮やかな色合いとヨーグルトのクリーミーさ、コチュジャンの艶が食欲をそそるように詳細に描写する。",
+    "finished_at": "2025-09-06T06:23:16.191652"
+}
