@@ -1,0 +1,99 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "びわ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ]
+    ],
+    "job_id": "84f4535c-aeb2-4837-81d1-815b2b4cea15",
+    "created_at": "2025-09-06T02:28:30.643523",
+    "estimated_duration": 49285,
+    "started_at": "2025-09-06T02:28:30.645833",
+    "title": "てんこ盛りフルーツプレート",
+    "comment": "多種類の果実が一皿に集まり、見た目がとにかく華やかでパーティー映え間違いなしです。レモンやデコポンの爽やかな酸味が甘いマンゴーやパイナップルを引き締め、味のバランスが抜群になりますよ。切り方と並べ方を工夫すれば、まるで南国のフルーツカーニバルのような楽しさをテーブルに届けられます。",
+    "image_prompt": "白い大皿に色とりどりの果実をぎっしりと盛り付けた一枚。中央に完熟マンゴーを薄くスライスして扇状に並べ、周囲にデコポンの房とオレンジの輪切りを鮮やかに配置。黄緑の洋なしは薄切りにして重ね、パイナップルはジューシーな角切りでアクセント。びわは半分にして種を除き、ライチは殻を剥いて透き通る白い果肉を見せる。レモンは薄い輪切りと皮の細切りを散らして爽やかな表情をプラスし、ブルーベリーを点在させて全体にコントラストを与える。軽くシロップをかけて表面に艶を出し、ミントの小葉を散らして香りを添える。自然光の柔らかな日差しが当たる木のテーブルの上、浅い被写界深度で前景の果汁の滴や果肉の質感を際立たせた、美味しそうで鮮烈なフルーツ盛りのクローズアップ写真をイメージしてください。",
+    "finished_at": "2025-09-06T02:29:24.765045"
+}
