@@ -1,0 +1,139 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たい"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ]
+    ],
+    "job_id": "9a838ef6-17df-4b0a-9db4-bc62003247d5",
+    "created_at": "2025-09-06T04:28:55.569790",
+    "estimated_duration": 47605,
+    "started_at": "2025-09-06T04:28:55.572377",
+    "title": "もちと麺のトロピカルミックス（ジャーキーと鯛添え）",
+    "comment": "意外な素材の組み合わせが見た目にも楽しく、もちのもっちり感と複数の麺のコントラストが食べる前からワクワクさせます。ドリアンの個性やビーフジャーキーの塩気がアクセントになり、甘酸っぱい柑橘とマンゴーのフルーティーさがよい対比を作っています。ただし「腐った牛乳」は安全上非常に危険なので、必ず新鮮な発酵乳製品やヨーグルトなど安全な代用品に置き換えることを強くおすすめします。",
+    "image_prompt": "白い陶器の浅鉢に盛られた完成料理のクローズアップ。潰した白もちをねっとりとしたベースにし、ところどころに折ったショートパスタとほぐれた中華麺の断片が混ざり合っている。淡いピンクのすりおろした鯛が一部にふんわりと広がり、茶色のビーフジャーキーの細切れと、薄茶色に炒めたしめじが散らされている。鮮やかな緑のアボカドスライス、黄金色のマンゴーの角切り、クリーミーな色合いのドリアンの果肉、そして艶のあるデコポンとみかんの房が彩りよく配置され、全体にやや黄味がかったクリーミーなソースが縁にたまっている（腐った牛乳をイメージした風合い）。白いゴマとマイクログリーンの小さな葉でアクセントをつけ、温かなサイド光で質感を強調、浅い被写界深度で前景にフォーカスしたフォトリアリスティックな高解像度写真を想定。料理の粘り、果肉のジューシーさ、きのこのツヤ感が伝わるよう細部まで描写する。",
+    "finished_at": "2025-09-06T04:30:01.949221"
+}
