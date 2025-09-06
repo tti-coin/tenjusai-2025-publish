@@ -1,0 +1,83 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ]
+    ],
+    "job_id": "3d5bf9a6-adec-4c6c-88ad-b945b477686a",
+    "created_at": "2025-09-06T02:44:44.977321",
+    "estimated_duration": 46427,
+    "started_at": "2025-09-06T02:44:44.979953",
+    "title": "ゴーヤと鶏肉のピリ辛炒め",
+    "comment": "ゴーヤの苦みと鶏肉の旨み、豆腐の柔らかさ、アスパラのシャキシャキ感が一度に楽しめる満足度の高い一皿です。豆腐は崩れやすいので炒めすぎず最後に加えるのがコツ、唐辛子の量で辛さを調整して下さい。強火で手早く炒めると香ばしい焦げ目がついて見た目も味も格上げされます。",
+    "image_prompt": "強火でさっと炒められた家庭的な一皿。薄切りのゴーヤは縦の凹凸がはっきり見え、鮮やかな黄緑と白い種のコントラスト、アスパラはシャキッとした深緑で先端に軽い焦げ目、豆腐は一口大の角切りで表面にこんがりとした焼き色がついている。鶏肉は程よく焼き色がつきジューシーに見え、赤唐辛子の輪切りがピリッと効いて彩りを添える。塩こしょうと少量の醤油で全体に艶が出て、湯気が立ち上る温かい雰囲気。白ごま、刻み青ねぎを散らし、木製テーブルに置かれた白い皿に盛り付け、箸を添えたクローズアップで高解像度、自然光の柔らかい陰影と浅い被写界深度で食欲をそそる一枚を想像してください。",
+    "finished_at": "2025-09-06T02:45:34.160138"
+}
