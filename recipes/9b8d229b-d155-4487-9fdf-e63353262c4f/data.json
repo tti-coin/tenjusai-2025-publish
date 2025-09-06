@@ -1,0 +1,113 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "9b8d229b-d155-4487-9fdf-e63353262c4f",
+    "created_at": "2025-09-06T06:22:03.641865",
+    "estimated_duration": 52168,
+    "started_at": "2025-09-06T06:22:03.645003",
+    "title": "愛情たっぷり茹で野菜盛り合わせ",
+    "comment": "色とりどりの野菜をシンプルに茹で上げた一品で、栄養と彩りがたっぷり楽しめます。茹で過ぎると色や食感が損なわれるので、シャキッとした歯ごたえを残すのがコツで、仕上げにハート形のソースで「愛情」を表現すると映えますよ。愛情はカロリーゼロ（と言い切る！）なので、たっぷりのせて笑顔で召し上がれ。",
+    "image_prompt": "色とりどりの茹で野菜の盛り合わせをクローズアップで。青ねぎ、長ねぎ、キャベツ、レタス、サニーレタス、はくさい、ピーマン、ほうれん草、アスパラガス、さやいんげん、オクラ、にら、ブロッコリーがそれぞれ鮮やかな緑や赤・淡い黄で並び、湯気がほんのり立ち上る様子。野菜はシャキッと茹で上がり、表面に光る水滴と薄くかかったオリーブオイルか醤油ベースのツヤが食欲をそそる。中央に赤いソースや赤唐辛子粉で描かれたハート形の「愛情」のトッピングがあり、木目のテーブルに盛られた自然光の柔らかい陰影、浅い被写界深度と高解像度でリアルに、美味しそうで温かみのある雰囲気を強調して描写してください。",
+    "finished_at": "2025-09-06T06:22:58.651982"
+}
