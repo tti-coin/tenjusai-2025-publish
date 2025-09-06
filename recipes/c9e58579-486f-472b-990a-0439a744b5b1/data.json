@@ -1,0 +1,167 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            },
+            {
+                "type": "particle",
+                "value": "まで"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "c9e58579-486f-472b-990a-0439a744b5b1",
+    "created_at": "2025-09-06T06:35:29.217274",
+    "estimated_duration": 48979,
+    "started_at": "2025-09-06T06:35:29.219306",
+    "title": "揚げドリアンと凍らせすりおろしフルーツの盛り合わせ",
+    "comment": "揚げたドリアンの濃厚なコクと、凍らせてすりおろした果物のシャリッとした清涼感が面白いコントラストを作ります。レモンの軽い酸味とマスカットの繊細な甘さが全体を引き締め、彩り豊かな盛り付けが食欲をそそります。独特の香りにびっくりしても大丈夫、勇気ある冒険心を持つ食べ手には忘れられない体験になるでしょう。",
+    "image_prompt": "大皿に盛られた華やかなフルーツプレート。中央に黄金色に揚げられて外はサクッと、中は潰されてとろりとしたドリアンの塊を配置し、表面に軽い焼き色と油の艶を見せる。横には冷凍してから細かくすりおろした苺・もも・洋なしの淡いピンク〜クリーム色のシャーベット状の山を添え、粒状の氷晶が残るひんやりした質感を強調。レモンを絞ったしずくが全体に光るように散らされ、風味のアクセントを示す。マスカットは皮をむいて透明感のある淡い緑色の房にして隙間に配置。メロンの薄切りは緑とオレンジのコントラストを活かして波打つように重ね、マンゴーは濃厚なオレンジ色のスライスでボリュームを出す。ブルーベリーと艶のあるさくらんぼを点在させ、ミントの葉を小さく飾って色味と清涼感を追加。温冷の対比、クリーミーさとシャリシャリ感、鮮やかな色彩が一枚の写真で伝わるような、ナチュラルな木目のテーブルと柔らかい自然光で撮影されたクローズアップの構図。",
+    "finished_at": "2025-09-06T06:36:16.147744"
+}
