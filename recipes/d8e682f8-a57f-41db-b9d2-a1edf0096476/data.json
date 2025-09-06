@@ -1,0 +1,223 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "へ"
+            },
+            {
+                "type": "particle",
+                "value": "へ"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ]
+    ],
+    "job_id": "d8e682f8-a57f-41db-b9d2-a1edf0096476",
+    "created_at": "2025-09-06T03:29:04.639911",
+    "estimated_duration": 47965,
+    "started_at": "2025-09-06T03:29:04.643878",
+    "title": "とうもろこしとさつまいものスパイシー包み焼き",
+    "comment": "さつまいものほっくりとした甘さと焼きとうもろこしの香ばしさ、もやしとしいたけのシャキシャキ感が楽しい食感のハーモニーになります。溶かした唐辛子を冷やしてのせるという温度差の演出がユニークで、見た目にも刺激的なアクセントになります。辛さはしっかり出るので、食べる前に味見して好みに合わせて調整してくださいね — 火と氷の共演で料理がちょっとサーカスになるかも！",
+    "image_prompt": "暖かくキャラメリゼされたさつまいものくし形と、粒が弾ける黄金色の焼きとうもろこしの粒が主役の一皿。底にはシャキッともやしと香ばしくソテーしたしいたけを軽く混ぜ、手でぎゅっと成形した包み風または団子風のフォルムにまとめてある。上からは鮮やかな赤い唐辛子のソースが溶かされ、冷やして艶のあるジェルや薄いシャーベット状に仕上げられたようなコントラストのあるトッピングがかかっている。白ごまや刻み青ねぎ、小さなハーブを散らし、木のプレートに蒸気がゆらりと立ちのぼる温かい部分と、唐辛子の冷たい光沢が同居する、暖色系の自然光で撮影されたクローズアップ写真。焦げ目やテクスチャーの違いがわかる高解像度で、食欲をそそる色合いと温度差のドラマを強調してください。",
+    "finished_at": "2025-09-06T03:29:51.048646"
+}
