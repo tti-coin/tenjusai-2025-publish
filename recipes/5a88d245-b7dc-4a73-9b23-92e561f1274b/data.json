@@ -1,0 +1,147 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "5a88d245-b7dc-4a73-9b23-92e561f1274b",
+    "created_at": "2025-09-06T02:34:13.101489",
+    "estimated_duration": 48430,
+    "started_at": "2025-09-06T02:34:13.104294",
+    "title": "クリームチキンと揚げ枝豆の和風ヨーグルトパスタ",
+    "comment": "揚げた枝豆とオクラのカリッとした食感が楽しく、炒めたなすとさつまいもの甘みがパスタに奥行きを与えています。生クリームをかけた鶏肉とヨーグルトチーズ和えのパスタは意外なほどまろやかで親しみやすい味わいにまとまります。見た目はちょっと冒険ですが、一口で笑ってしまう美味しさになるはずです。",
+    "image_prompt": "白い深皿に盛られた和風パスタの完成図。もちもちのパスタはヨーグルトとチーズの白いソースで艶やかにコーティングされ、中央には生クリームをたっぷりかけたジューシーな鶏肉がのっている。周囲にはカリッと揚がった枝豆とオクラの黄金色の衣が散りばめられ、炒めて飴色になったなすとほっくりしたさつまいも、香ばしいしめじが色と食感のコントラストを作る。全体に塩と黒胡椒が軽く振られ、ところどころに味噌由来のうっすら茶色いソースの筋が見える。刻み青ねぎや青じその葉、薄いレモンのスライスを添えて爽やかさをプラス。湯気が立ち、暖かく家庭的でありながら少し奇抜な組み合わせを魅せる一皿。高解像度、自然光の柔らかいライティング、クローズアップで質感と油のツヤ、クリームのとろみを強調する描写。",
+    "finished_at": "2025-09-06T02:34:58.608408"
+}
