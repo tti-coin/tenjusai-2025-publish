@@ -1,0 +1,105 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ]
+    ],
+    "job_id": "9c131455-189c-4b41-80d9-a7f3d2431ac7",
+    "created_at": "2025-09-06T06:05:35.576475",
+    "estimated_duration": 52555,
+    "started_at": "2025-09-06T06:05:35.578951",
+    "title": "クリーミー野菜チーズグラタン",
+    "comment": "生クリームとクリームチーズの濃厚なソースが、素朴なにんじん・じゃがいも・玉ねぎを格上げしてくれます。切って混ぜて焼くだけの工程は簡単で、失敗しにくいのが嬉しいポイントです。チーズたっぷりで罪深い美味しさですが、誰も抗えない魔力がありますよ。",
+    "image_prompt": "オーブンで焼き上げられた家庭的なクリーミー野菜のチーズグラタン。濃厚な生クリームとクリームチーズ、牛乳、バターで作られたとろとろの白いソースが、薄くスライスしたにんじん、角切りのじゃがいも、くたっと甘くなった玉ねぎの間に絡み、表面には三種類のチーズがたっぷりと重なり合って黄金色にこんがりと焼き目がついている。チーズは溶けて糸を引き、ところどころ香ばしい焦げ目がアクセントに。器は素朴なセラミックのグラタン皿で、湯気が立ち上り、フォークでほぐすと中からクリームソースがとろりと溢れる。木製のテーブル、柔らかい自然光、背景にキッチンのぼんやりした雰囲気がある、食欲をそそるフォトリアリスティックなクローズアップ映像をイメージしてください。",
+    "finished_at": "2025-09-06T06:06:15.446463"
+}
