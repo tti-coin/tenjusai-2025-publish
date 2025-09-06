@@ -1,0 +1,139 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たら"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たら"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "グレープフルーツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ]
+    ],
+    "job_id": "763cbb14-64b6-4560-b0fc-e03668a78e6c",
+    "created_at": "2025-09-06T06:04:16.547788",
+    "estimated_duration": 52406,
+    "started_at": "2025-09-06T06:04:16.550610",
+    "title": "ズッキーニとたらのバターソテー グレープフルーツ風味",
+    "comment": "温めたグレープフルーツの爽やかな酸味がバターソテーしたたらのコクを引き立て、焼きとうもろこしと枝豆が甘みと食感のアクセントになります。かつおぶしを切るというユニークな指示は面白く、仕上げにふんわり削ったかつおぶしを散らすと香りが立って魅力的です。ズッキーニを注ぐという謎の工程は要確認ですが、全体として大胆で遊び心ある一皿、失敗しても写真は映えますよ！",
+    "image_prompt": "白い楕円皿に盛られた完成図。バターで艶よくソテーしたたらの切り身が中央に置かれ、表面に軽く照りが出て湯気が立つ。温めたグレープフルーツの薄いピンクの果肉がそっと添えられ、酸味がバターのコクを引き立てる。香ばしく焼き色の付いたとうもろこしの粒が散らされ、明るい緑の枝豆は半割りにしてアクセントに。薄くリボン状にしたズッキーニがソースに絡み、全体に細かくふんわりとかつおぶしが振りかけられている。ソースは深い琥珀色で光を反射し、粒の食感や魚のほろっとした身質が分かるような近接ショット、柔らかい自然光と浅い被写界深度で温かみと食欲を強調した構図。",
+    "finished_at": "2025-09-06T06:05:03.840097"
+}
