@@ -1,0 +1,113 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            },
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ]
+    ],
+    "job_id": "13a6b973-9ef3-4a99-964e-b70430b6bc1b",
+    "created_at": "2025-09-06T03:50:00.775819",
+    "estimated_duration": 44223,
+    "started_at": "2025-09-06T03:50:00.778187",
+    "title": "トロピカル温製フルーツコンポート",
+    "comment": "焼いたブルーベリーとももの炒めた香ばしさに、レモンの酸味が効いて爽やかな味わいになります。ドリアンを溶かすことで濃厚でトロピカルなコクが加わりますが、香りが強いので食べる相手に好みを確認するのが吉です。見た目は南国のデザート感満載で、思わず写真を撮りたくなる一皿になりますよ、匂いのインパクトはサービス精神のひとつと割り切って！",
+    "image_prompt": "焼き色をつけたブルーベリーと、フライパンでさっと炒めて軽くキャラメリゼされたもものスライスを中心に配置した温かいフルーツコンポート。柑橘の爽やかな搾りたてレモンが全体に輝く酸味の光沢を与え、溶かしたドリアンはとろりとしたクリーミーなソースとなってソースプールを形成する。さくらんぼが鮮やかな赤のアクセントとして上から散らされ、マンゴーの黄橙色の角切りが軽く振られてフレッシュ感を添える。メロンは薄く皮をむいてふっくらした半月形に整えられ、湯気が立つ温かさと多彩な質感が一皿で楽しめるように盛り付ける。深めの陶器のボウルに盛り、ミントの葉と粉砂糖で仕上げ、柔らかな自然光で撮影したようなフォトリアルなアップ、豊かな色彩と光沢、滑らかなソースの反射を強調して。",
+    "finished_at": "2025-09-06T03:50:51.203854"
+}
