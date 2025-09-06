@@ -1,0 +1,63 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "91a4c293-9281-499a-80ba-5cf14db2cb41",
+    "created_at": "2025-09-06T03:55:10.188653",
+    "estimated_duration": 48762,
+    "started_at": "2025-09-06T03:55:10.191103",
+    "title": "りんごチーズ醤油もち",
+    "comment": "Error: Error code: 400 - {'error': {'message': 'Your request was rejected as a result of our safety system. Image descriptions generated from your prompt may contain text that is not allowed by our safety system. If you believe this was done in error, your request may succeed if retried, or by adjusting your prompt.', 'type': 'image_generation_user_error', 'param': None, 'code': 'content_policy_violation'}}",
+    "image_prompt": "香ばしく焼き上げられた餅がふっくら膨らみ、表面に照りのある醤油が刷毛で塗られて艶やかに光る一皿。餅の上には薄くスライスした赤い皮のりんごが扇状に並び、その上からとろりと溶けたチーズが黄金色に滴る。チーズは所々こんがりと焼き色がつき、醤油のほのかな焦げ香とりんごの瑞々しい赤が対照的に映える。木のプレートか白い陶器に盛り付け、近接ショットで蒸気とチーズの伸び、餅のもちもち感、りんごのシャキッとした質感が伝わるような暖かい自然光の演出。背景は薄くぼかし、家庭的でほっこりした雰囲気を強調する。",
+    "finished_at": "2025-09-06T03:55:35.249318"
+}
