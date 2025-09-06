@@ -1,0 +1,63 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            }
+        ]
+    ],
+    "job_id": "620106fb-c908-49fd-ac9b-3dee2c3b4534",
+    "created_at": "2025-09-06T04:22:11.474332",
+    "estimated_duration": 50402,
+    "started_at": "2025-09-06T04:22:11.476585",
+    "title": "ほうれん草の山盛り",
+    "comment": "ほうれん草だけが主役という潔さがいいですね、色鮮やかな緑が食欲をそそります。新鮮な葉が山盛りで栄養満点、ヘルシーさは折り紙付きで、食卓が一瞬で森になる楽しさがあります。ただし水気が多いと傷みやすいのでしっかり水切りや下処理をしてから盛り付けを—ほうれん草の海に溺れないようご注意を！",
+    "image_prompt": "A dramatic, mouthwatering pile of fresh spinach leaves heaped high on a simple white ceramic plate, each leaf a vivid emerald green with visible veins and tiny water droplets, slightly glistening as if just washed. Leaves vary in size and are arranged loosely to show natural texture, curls and folds, some edges slightly wilted to suggest freshly harvested produce. No other ingredients or garnishes—pure spinach only—emphasizing color, texture and abundance. Soft natural sunlight from the left casts gentle highlights and appetizing shadows; shallow depth of field with a softly blurred rustic wooden table background, high resolution, macro food photography style, hyper-realistic detail, vivid color saturation, crisp leaf veins and glossy surfaces to make the greens look extremely fresh and inviting.",
+    "finished_at": "2025-09-06T04:23:03.487724"
+}
