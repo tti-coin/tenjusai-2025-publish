@@ -1,0 +1,163 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "油"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "2ecb5b00-30f3-4c53-bbf4-a78de6313eee",
+    "created_at": "2025-09-06T03:00:10.352880",
+    "estimated_duration": 47720,
+    "started_at": "2025-09-06T03:00:10.355937",
+    "title": "豚キャベツもやし中華麺",
+    "comment": "茹でた中華麺に香ばしい焼き豚とシャキシャキのキャベツともやしが合わさり、シンプルながら満足感の高い一皿です。仕上げの醤油とごま油は香り付けなので、かけすぎると塩味が勝つため量に注意してください。『油と愛情を盛る』という遊び心ある指示はユーモア満点、気持ちを込めれば味もきっとぐっと良くなります。",
+    "image_prompt": "湯気の立つ深めの器に盛られた中華麺のクローズアップ。茹で上げて艶のある麺に薄く香味油がまとい、光を受けてツヤツヤと輝く。上にはこんがりと焼き目が付いた厚切りの豚肉スライスが豪快に並び、肉の表面の焦げ目とジューシーな質感が際立つ。麺の片側には粗く切ったキャベツ、もう片側にはさっと茹でたもやしがふんわり盛られ、緑と白のコントラストが鮮やか。仕上げに醤油とごま油が細く回しかけられ、表面に艶と香りの層を作る様子が見える。白ごま、刻みねぎを散らし、木製の箸が寄せられた温かい食卓の一瞬を捉えた写真風の構図。柔らかい自然光で湯気や食材の質感を強調し、リアルで食欲をそそる美味しそうなイメージを目指す。",
+    "finished_at": "2025-09-06T03:01:02.397843"
+}
