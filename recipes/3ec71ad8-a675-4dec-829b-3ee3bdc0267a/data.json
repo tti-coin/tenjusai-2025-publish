@@ -1,0 +1,91 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            },
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "の"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ]
+    ],
+    "job_id": "3ec71ad8-a675-4dec-829b-3ee3bdc0267a",
+    "created_at": "2025-09-06T03:59:24.618635",
+    "estimated_duration": 47266,
+    "started_at": "2025-09-06T03:59:24.620995",
+    "title": "海鮮の包み蒸し盛り合わせ",
+    "comment": "ベーコンで巻いたまぐろの香ばしさと鮭のしっとり感、えびとほたての卵蒸しのまろやかさが一度に楽しめる贅沢な一皿です。蒸す工程で旨味が閉じ込められるので、火の通りは優しく見極めてふんわり仕上げるのがコツです。見た目のインパクトも抜群なので、食卓で『どうやって作ったのそれ!?』とツッコミをもらえること請け合いです。",
+    "image_prompt": "蒸気が立ち上る木製の蒸し器や小皿に盛られた彩り豊かな海鮮の包み蒸しプレート。焦げ目がついたベーコンでふんわりと巻かれたまぐろは断面に鮮やかな赤が覗き、隣にはしっとりとした薄切りの鮭の包みが並ぶ。別皿には卵としっかり混ぜたふわふわの蒸し卵の中にぷりっとしたえびと甘みのあるほたてが顔を出し、クリーミーな黄色と海鮮のピンク・白のコントラストが美しい。表面にはほんのり照りのあるだし醤油のソースが垂らされ、小ねぎの小口切り、レモンの薄切り、刻み海苔が彩りを添える。柔らかい自然光で湯気と艶を際立たせたクローズアップ、45度のアングルで質感やジューシーさが伝わる写実的で食欲をそそる一枚を描写してください。",
+    "finished_at": "2025-09-06T04:00:17.109351"
+}
