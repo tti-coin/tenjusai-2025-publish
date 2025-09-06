@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はるさめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "3ab36e7b-11af-4a9e-93c0-0cb4081488c3",
+    "created_at": "2025-09-06T06:05:59.458776",
+    "estimated_duration": 52555,
+    "started_at": "2025-09-06T06:05:59.461465",
+    "title": "さつまいも春雨シーフードパフェ",
+    "comment": "甘さ・辛さ・クリーミーさが同居する大胆な組み合わせで、味の冒険心を刺激します。冷凍チーズのシャリッとした食感とビーフジャーキーの噛みごたえが良いアクセントになっていて楽しい一皿です。見た目はユニークですが、食べる前に軽く混ぜれば意外とまとまりがよく、笑いながら楽しめます。",
+    "image_prompt": "透明なパフェグラスに層状に盛られた一品。底にほくほくとした黄金色の潰しさつまいも、その上に透明でツヤのある茹で春雨がふんわりと重なり、ところどころヨーグルトの白い塊が顔を出す。冷凍して薄く砕いたチーズは氷のような結晶になってきらりと光り、ピンク色の茹でえびが華やかに天面に並ぶ。表面には艶のあるコチュジャンの深紅のソースが線状にかかり、握ってほぐしたビーフジャーキーの濃い茶色のそぼろが散らされている。ぽってりとした白い生クリームをトップにのせ、黒ごまや刻みネギで彩りを添える。温かみのある自然光、浅い被写界深度、45度の斜め上からのクローズアップで、甘いさつまいも・ぬめる春雨・シャリッとした冷凍チーズ・ピリ辛ソースの食感と色のコントラストを際立たせる。",
+    "finished_at": "2025-09-06T06:06:49.137503"
+}
