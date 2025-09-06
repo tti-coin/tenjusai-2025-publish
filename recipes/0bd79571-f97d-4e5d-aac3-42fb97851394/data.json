@@ -1,0 +1,203 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "まいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆板醤"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ]
+    ],
+    "job_id": "0bd79571-f97d-4e5d-aac3-42fb97851394",
+    "created_at": "2025-09-06T06:15:35.607888",
+    "estimated_duration": 51250,
+    "started_at": "2025-09-06T06:15:35.611115",
+    "title": "海鮮みそコチュジャンチーズパスタ",
+    "comment": "海鮮の旨味と味噌・コチュジャンのコクが合わさって、濃厚でクセになる一皿です。塩気や辛さが強くなりがちなので、牛乳とチーズで必ず味を見ながら調整してください。最後に「愛情で包む」ひと手間を加えれば、見た目も心もほっこりする秘密の仕上げになりますよ。",
+    "image_prompt": "蒸した蟹の殻付きの爪や、茹でたエビ・イカ・タコ・ホタテが豪快に散りばめられたクリーミーでスパイシーなパスタ。トマトと焼き色のついたナス、マッシュルーム、まいたけを香ばしいニンニクとともにしっかり炒め、味噌・豆板醤・コチュジャン、ケチャップで深みのある赤褐色のソースに仕上げる。とろけたチーズが艶を与え、回しかけた牛乳がまろやかに麺に絡む様子を強調。鮮やかな赤と黄色、緑の刻みパセリや万能ねぎのアクセント、ソースの表面に浮かぶ辛味のつぶつぶと油の輝き、湯気が立ち上る温かい一皿を白い浅めのボウルで、木製のテーブル背景にフォークで麺を巻き上げる瞬間を近接で捉えた構図。食欲をそそる光沢と質感、海鮮のぷりぷり感と野菜の焦げ目、濃厚なのにクリーミーなバランスを視覚的に伝える描写を重視してください。",
+    "finished_at": "2025-09-06T06:16:34.587794"
+}
