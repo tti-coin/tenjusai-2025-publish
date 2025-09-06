@@ -1,0 +1,163 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            }
+        ]
+    ],
+    "job_id": "91624624-0896-4891-9af9-0db6bd620c31",
+    "created_at": "2025-09-06T07:00:06.514126",
+    "estimated_duration": 50964,
+    "started_at": "2025-09-06T07:00:06.517401",
+    "title": "ベリーと野菜のカラフルミックスサラダ",
+    "comment": "色とりどりの果物と野菜が同居する楽しげな一品で、見た目のインパクトは抜群です。さくらんぼやラズベリーが大量に使われているので甘みと酸味のバランスに注意して、さくらんぼの洪水に飲み込まれないようにドレッシングはさっぱりとした柑橘系がおすすめです。きくらげやえのきのコリッとした食感が良いアクセントになり、ひと口ごとに新しい発見があるサラダになります。",
+    "image_prompt": "鮮やかな野菜とベリーがたっぷり盛られたカラフルサラダ。薄切りにしたにんじんとトマト、コリコリしたきくらげとほろっとしたえのき、香り高いしそとにら、シャキシャキのサニーレタスをベースに、いちご、みかんの房、ぶどう、ブルーベリー、そして大量のさくらんぼとラズベリー、薄切りりんごやオレンジを散りばめる。柑橘の軽やかなドレッシングが全体に光沢を与え、木の皿または白い陶器の器に盛り付けられた状態で自然光が差し込み、ベリーの艶と葉物の緑が際立つように。クローズアップで浅い被写界深度、フレッシュな水滴や断面のジューシーさ、きくらげとえのきの食感のコントラストが伝わる構図。パーティーテーブルに置かれ、周囲にカジュアルなカトラリーや布ナプキンが添えられている風景も想定する。",
+    "finished_at": "2025-09-06T07:00:51.425173"
+}
