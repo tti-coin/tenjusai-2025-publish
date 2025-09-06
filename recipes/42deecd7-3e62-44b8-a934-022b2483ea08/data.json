@@ -1,0 +1,159 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "42deecd7-3e62-44b8-a934-022b2483ea08",
+    "created_at": "2025-09-06T06:58:59.234312",
+    "estimated_duration": 49815,
+    "started_at": "2025-09-06T06:58:59.237058",
+    "title": "あじと茸の柑橘クリームプレート",
+    "comment": "煮あじの旨味と生クリームのまろやかさが意外にも合わさって、新鮮な旨味体験になります。デコポンとライチの甘酸っぱさが全体を引き締め、しいたけやとうもろこしの食感が楽しいアクセントに。ケチャップや砂糖は量に気をつけて、味見しながら加えることをおすすめします。",
+    "image_prompt": "白い大皿に盛られた一皿。中心に煮あじをふっくらと並べ、煮汁で照りが出た身に生クリームをとろりと注ぎかけてクリーミーなソースを作る。ソースの上にケチャップを細い線状にアーティスティックに垂らし、コントラストをつける。周囲には焼き目をつけたしいたけスライスと蒸したとうもろこしの黄色い粒を散らし、青ねぎの小口切りを鮮やかに散布する。デコポンの薄切りは軽く味付けして香りを引き出し、ライチとみかんの房をアクセントとしてふんわりとのせる。チンゲン菜のスプラウトは刻んで小さな束にし、仕上げに砂糖をごく軽く振ってオリーブオイルを数滴たらして光沢を与える。クリームの艶、柑橘の光沢、しいたけの焦げ目、とうもろこしの鮮やかな黄色、ライチの透き通った白が視覚的コントラストを作り、温かい自然光の下で撮影されたクローズアップ。浅い被写界深度で皿の中心を強調し、高解像度でテクスチャーと湯気の立つ臨場感を引き出す。",
+    "finished_at": "2025-09-06T07:00:00.549747"
+}
