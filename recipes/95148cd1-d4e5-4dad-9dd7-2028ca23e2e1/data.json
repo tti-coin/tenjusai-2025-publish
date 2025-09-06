@@ -1,0 +1,163 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ]
+    ],
+    "job_id": "95148cd1-d4e5-4dad-9dd7-2028ca23e2e1",
+    "created_at": "2025-09-06T06:33:53.606782",
+    "estimated_duration": 49727,
+    "started_at": "2025-09-06T06:33:53.609578",
+    "title": "ミックスコラージュプレート",
+    "comment": "色とりどりの素材が一皿に収まった冒険的な一品で、見た目のインパクトは抜群です。トマトの酸味、みそとごま油のコク、みかんとさつまいもの甘さが混ざり合うユニークな味わいと、凍ったごはんや揚げた牛肉の食感の対比が楽しいです。冷凍ご飯や生クリームの扱いには衛生面と加熱ムラに注意してください（でも好奇心旺盛なあなたにはきっと楽しいはず！）",
+    "image_prompt": "大皿に盛られたミックスコラージュプレート。細切りのキャベツを敷いたベースに、温めた長ねぎの香りが立ち、粗くつぶしたトマトソースが鮮やかな赤のアクセントとして広がる。もやしはピューレ状にしてクリーミーなソースのように流し、中央にはほくほくのさつまいもスライスを重ねる。薄く包んだレモンと、照りのある煮たみかんがフルーティーな飾りになり、凍ったごはんは透明な霜をまとったキューブ状で目を引く。表面にはカリッと揚げた牛肉の黄金色のかけらと、香ばしく炒めたベーコンのリボン、ちぎったえびのピンクが点在し、チーズとレンジで温めた生クリームがとろりと絡む。仕上げに溶いたみそで照りを加え、ごま油の滑らかな光沢と白ごまを振って香ばしくまとめる。暖かい自然光で浅い被写界深度、木製テーブルと素朴な陶器の器で撮影された高解像度の美味しそうな一皿を想像してください。",
+    "finished_at": "2025-09-06T06:34:59.370554"
+}
