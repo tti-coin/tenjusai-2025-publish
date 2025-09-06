@@ -1,0 +1,95 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "も"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "a244d810-72a0-46ba-b830-6ff772853f46",
+    "created_at": "2025-09-06T06:16:26.681662",
+    "estimated_duration": 51250,
+    "started_at": "2025-09-06T06:16:26.684013",
+    "title": "みそクリームパスタ・ビーフジャーキー添え",
+    "comment": "生クリームとみその組み合わせでコクと和の旨味が同居する斬新なパスタです。ビーフジャーキーをすりおろす発想で香ばしさが増し、鰹節がさらに旨味を底上げしてくれます。ただしジャーキーやみその塩分が強めなので味見をして塩加減を調整し、保存状態に注意してください。",
+    "image_prompt": "温かいパスタのクローズアップ。艶やかな白い生クリームと淡い琥珀色のみそが丁寧に和えられた濃厚なソースが絡む麺が主役です。その上に微細にすりおろされたビーフジャーキーが香ばしい粉状になってふわっと散らされ、薄く舞う鰹節が動きを出す。刻んだ黒いきくらげが食感のアクセントになり、フォークで一束を巻き上げた瞬間に湯気と旨味が立ち上る構図。木製のテーブルと柔らかな自然光、浅い被写界深度でクリーミーな質感と具材のコントラストを強調した美味しそうな料理写真を希望します。",
+    "finished_at": "2025-09-06T06:17:14.012919"
+}
