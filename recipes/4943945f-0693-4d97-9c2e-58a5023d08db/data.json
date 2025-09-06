@@ -1,0 +1,139 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たら"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "4943945f-0693-4d97-9c2e-58a5023d08db",
+    "created_at": "2025-09-06T05:39:54.045507",
+    "estimated_duration": 47884,
+    "started_at": "2025-09-06T05:39:54.048496",
+    "title": "キャベツと鶏もも、タラのチリケチャップライス（腐った牛乳がけ）",
+    "comment": "見た目のインパクトが強く、赤と白のコントラストが写真映えしてとてもキャッチーです。唐辛子とケチャップで甘辛く攻めた大胆な味わいが想像できます。腐った牛乳は大胆な演出ですが、ユーモアと愛情を添えるスパイスとして楽しむと良いでしょう。",
+    "image_prompt": "大皿に盛られた完成料理をクローズアップで。細切りのシャキシャキしたキャベツとこんがり焼いた鶏もも肉を粗く混ぜ合わせて皿の縁に盛り、中央に白くふっくらとしたタラの切り身を鮮やかに配置。その上に小盛りの蒸した白ごはんをふんわりと乗せ、周囲には赤く艶のあるケチャップベースのソースと刻んだ唐辛子がたっぷり散らされている。最後に白く濁った腐った牛乳をとろりと細く注ぎ、表面に小さな凝固と気泡ができている様子を見せる。温かい食感が伝わる湯気、鮮やかな赤と白のコントラスト、木製のテーブルと柔らかい自然光で撮影された美味しそうに見える完成イメージ。",
+    "finished_at": "2025-09-06T05:40:41.416925"
+}
