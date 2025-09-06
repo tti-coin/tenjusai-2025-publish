@@ -1,0 +1,63 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "f501ed58-901d-4098-8287-7ae4d232ef3a",
+    "created_at": "2025-09-06T01:41:55.017507",
+    "estimated_duration": 56481,
+    "started_at": "2025-09-06T01:41:55.019659",
+    "title": "コチュジャンフォーとドリアンもち",
+    "comment": "Error: Error code: 400 - {'error': {'message': 'Your request was rejected as a result of our safety system. Image descriptions generated from your prompt may contain text that is not allowed by our safety system. If you believe this was done in error, your request may succeed if retried, or by adjusting your prompt.', 'type': 'image_generation_user_error', 'param': None, 'code': 'content_policy_violation'}}",
+    "image_prompt": "湯気の立つ大きな白い器に入ったフォーのクローズアップ。艶のある米麺が透明な鶏だしに泳ぎ、表面には鮮やかな赤色のコチュジャンが大胆にかけられ渦を描いている。刻み青ねぎと香菜、ライムの半切りを添えて辛味と香りのコントラストを強調。隣には薄く切ったドリアンのクリーミーな黄色い果肉を白い小皿に美しく盛り、果肉のねっとりした質感がわかるように表現。さらに香ばしく焼き目の付いた餅を竹の小皿や木製ボードに置き、焦げ目と伸びる糸のような伸びを見せる。暖色の柔らかい間接光、背景は木のテーブルで浅い被写界深度、食欲をそそるリアルな質感と色彩、温かみのある雰囲気で美味しそうに見せる。",
+    "finished_at": "2025-09-06T01:42:28.995464"
+}
