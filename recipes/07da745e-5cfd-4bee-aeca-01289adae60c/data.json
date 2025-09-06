@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "07da745e-5cfd-4bee-aeca-01289adae60c",
+    "created_at": "2025-09-06T06:13:40.708972",
+    "estimated_duration": 52605,
+    "started_at": "2025-09-06T06:13:40.710820",
+    "title": "愛情たっぷりポークカレーライス",
+    "comment": "じゃがいもとにんじんがゴロッと入って食べごたえ抜群、豚肉の旨味が全体にしっかりと行き渡っています。唐辛子を煮る工程でピリッとしたアクセントが付きますから、辛さは調整して好みに合わせてください。最後の「愛情を注ぐ」ひと手間が本当の隠し味になるので、笑顔で混ぜるのを忘れずに！",
+    "image_prompt": "木目のテーブルに置かれた深めの陶器の器に盛られた一皿。ふっくら蒸した白いごはんの横に、濃厚で光沢のある琥珀色のカレーソースがたっぷりとかかり、大きめに切ったじゃがいもとにんじんの角切り、柔らかく煮込まれた豚肉の薄切りがゴロゴロと並ぶ。赤い唐辛子の輪切りや煮汁がところどころに見え、辛みのアクセントを予感させる。刻んだ玉ねぎの白いシャキシャキした断片が上に散りばめられ、湯気がふわりと立ち上り、その湯気が小さなハート形に見えるような温かい演出。カレー粉の粒や油の艶がリアルに描写され、家庭的で食欲をそそる質感、自然光で柔らかく照らされた陰影、スプーンですくったときのとろみと具材の存在感が伝わるクローズアップを想定。",
+    "finished_at": "2025-09-06T06:14:26.583335"
+}
