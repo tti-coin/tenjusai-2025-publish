@@ -1,0 +1,115 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "だいこん"
+            },
+            {
+                "type": "particle",
+                "value": "より"
+            },
+            {
+                "type": "particle",
+                "value": "も"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "particle",
+                "value": "まで"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ]
+    ],
+    "job_id": "99b0354d-76a5-4d3c-9764-e53894813a5b",
+    "created_at": "2025-09-06T06:01:34.638661",
+    "estimated_duration": 50840,
+    "started_at": "2025-09-06T06:01:34.640030",
+    "title": "愛情キャベツと蒸し鶏の中華麺",
+    "comment": "キャベツをたっぷり使った優しいボリュームが魅力で、蒸し鶏のふっくら感がヘルシーに効いています。中華麺を振るという動きが器の表情を生き生きとさせ、食欲をそそります。蒸しすぎて鶏がパサつかないように注意しつつ、麺を振るときは熱い湯気でやけどをしないよう気をつけてください。",
+    "image_prompt": "深めの陶器の丼に湯気が立ち上る温かい中華麺を盛り、箸で軽く振られて空中に舞う麺が湯気を帯びている瞬間を捉える。たっぷりと煮て柔らかく仕上げたキャベツは鮮やかな黄緑で、隣に控える大根よりも存在感を持たせるように山盛りに優雅に盛り付けられている。蒸してふっくらした鶏肉は繊維がほぐれるように薄切りに、または優しく結んだロール状で艶のある軽い醤油ベースのタレが薄くかかっている。全体は温かく家庭的な光の中で撮影されたリアルなフードフォト風、細部に焦点を合わせた浅い被写界深度で、湯気、光沢、柔らかな質感が伝わるように描写してください。",
+    "finished_at": "2025-09-06T06:02:26.533399"
+}
