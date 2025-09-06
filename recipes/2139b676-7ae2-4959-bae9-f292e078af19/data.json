@@ -1,0 +1,165 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "はるさめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "2139b676-7ae2-4959-bae9-f292e078af19",
+    "created_at": "2025-09-06T05:49:08.984777",
+    "estimated_duration": 47259,
+    "started_at": "2025-09-06T05:49:08.986130",
+    "title": "きゅうりと羊牛のフルーツごはんボウル",
+    "comment": "きゅうりの爽やかな食感と羊・牛の旨味、フルーツの甘酸っぱさが混ざり合って驚くほどバランス良く仕上がります。塩・オリーブオイル・醤油・はちみつのシンプルなドレッシングが全体をまとめ、春雨とごはんのもっちり感が楽しいアクセントに。揚げとうがらしは辛味が強いので量に注意ですが、愛情は遠慮なく多めでどうぞ！",
+    "image_prompt": "白い浅めのボウルに盛られた一皿。底にはごはんと透き通ったはるさめをふんわり混ぜたベースが敷かれ、その上に薄切りにして軽く焼き色のついた羊肉と牛肉のスライスが交互に並ぶ。きゅうりは薄くリボン状や短冊に切られ、緑のシャキシャキ感が全体にフレッシュさを与える。デコポンやみかんのジューシーな房、いちごの半分、バナナの輪切り、ももの薄切り、つやのあるマスカットをちぎって散らし、甘酸っぱいフルーツの色彩が鮮やかに映える。表面には塩、香り高いオリーブオイル、少量の醤油とはちみつを合わせた薄いドレッシングが光るようにかかり、光沢のある滴が美味しさを誘う。カリッと揚げた赤いとうがらしを細かく刻んで散らし、アクセントの風味と食感をプラス。中央にはハート形のハーブや小さな葉で「愛情」を表現した可愛らしい飾りを添えている。温かみのある木目テーブルに自然光が差し込み、クローズアップで質感と色彩が際立つ美味しそうな一枚を想像する。",
+    "finished_at": "2025-09-06T05:49:55.055618"
+}
