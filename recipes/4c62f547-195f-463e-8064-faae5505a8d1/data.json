@@ -1,0 +1,113 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "4c62f547-195f-463e-8064-faae5505a8d1",
+    "created_at": "2025-09-06T01:58:35.231140",
+    "estimated_duration": 52770,
+    "started_at": "2025-09-06T01:58:35.233527",
+    "title": "韓風チーズミックスフライ",
+    "comment": "カリッとした揚げ物ととろけるチーズ、甘辛い韓風ソースの組み合わせが楽しい一皿です。ごま油は風味が強いので少量で十分、コチュジャンの辛さと蜂蜜の甘さのバランスを見て調整してください。鶏肉の上でチーズを溶かすと見た目も味もグッと良くなるので、熱いうちに撮影と実食をお忘れなく—熱々が一番おいしいです。",
+    "image_prompt": "木製プレートに盛られた韓風ミックスフライ。シャキッと千切りにしたキャベツのベッドの上に、外はカリッと黄金色に揚がったフライドポテト、縁に香ばしい焼き色がついたれんこんの輪切り、ジューシーに揚がった鶏肉の唐揚げがバランスよく並ぶ。鶏肉の上にはとろりと溶けたチェダーチーズがたっぷりとかかり、熱で伸びるチーズの糸が食欲をそそる。はちみつとコチュジャン、ごま油を合わせた艶やかな赤茶色のソースが全体に軽くかかり、白ごまや刻みねぎが散らされている。温かく湯気が立つクローズアップで、柔らかな自然光と浅い被写界深度、テクスチャーと輝きを強調して美味しそうに見せる構図。",
+    "finished_at": "2025-09-06T01:59:41.028367"
+}
