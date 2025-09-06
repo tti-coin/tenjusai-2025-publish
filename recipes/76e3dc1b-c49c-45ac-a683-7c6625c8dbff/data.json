@@ -1,0 +1,107 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "76e3dc1b-c49c-45ac-a683-7c6625c8dbff",
+    "created_at": "2025-09-06T05:48:01.139751",
+    "estimated_duration": 46720,
+    "started_at": "2025-09-06T05:48:01.142185",
+    "title": "豚キャベツ丼",
+    "comment": "シンプルな材料で満足感のある一杯に仕上がります。豚肉の香ばしさとキャベツの甘み、ふんわり卵の組み合わせが優しい味わいを作りますよ。愛情は最後の隠し味、かけすぎるとおかわりが止まらなくなるのでご注意を（冗談です、多めでも歓迎）。",
+    "image_prompt": "白いごはんの上に、湯気が立つように盛られた家庭的な豚キャベツ丼のクローズアップ。ごはんは粒立ちがよく艶があり、ちぎって炒めたキャベツは縁が軽く焦げて甘みが引き出されている。薄切りの豚肉は塩こしょうと醤油で下味をつけて強火で焼かれ、表面に照りとカラメルのような香ばしい焼き色がついている。卵はフライパンでふんわり炒めたスクランブルエッグ状で、柔らかな黄色が全体にやさしく馴染んでいる。仕上げに刻み青ねぎと白ごまを散らし、少量の醤油だれが光り、家庭の台所で自然光が当たるあたたかい雰囲気。木の器と箸を添えた、食欲をそそる高解像度、浅い被写界深度で背景を柔らかくぼかした構図。",
+    "finished_at": "2025-09-06T05:48:45.172025"
+}
