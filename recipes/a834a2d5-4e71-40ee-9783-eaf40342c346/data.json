@@ -1,0 +1,141 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "そば"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "a834a2d5-4e71-40ee-9783-eaf40342c346",
+    "created_at": "2025-09-06T03:27:19.050861",
+    "estimated_duration": 48251,
+    "started_at": "2025-09-06T03:27:19.053540",
+    "title": "スパイシー牛肉とみかんそばの彩りサラダ",
+    "comment": "いろいろな食感と色が一皿で楽しめる冒険心あふれるレシピです。唐辛子のアクセントでピリッと引き締まり、みかんの柑橘香が不思議と全体をまとめます。見た目のユニークさは満点なので、ぜひ友人を驚かせる一皿にしてみてください。",
+    "image_prompt": "大きめの浅い陶器のボウルに盛られた色鮮やかなサラダをクローズアップで写す。中心には薄切りに焼いた牛肉の上に赤い唐辛子のフレークがたっぷりのっており、周囲に赤茶のサニーレタスの葉がふんわりと敷かれている。刻んだ芽キャベツは半分に切ってローストされたように照りがあり、薄切りのズッキーニと緑のスプラウトがアクセント。千切りしたキャベツにも唐辛子が軽く振られ、黄金色に香ばしく揚がった細切りの中華麺がカリッとした食感を添える。独創的なポイントとして、みかんの半分の上に細く盛られたそばがのっており、柑橘の艶とそばの黒褐色が鮮やかに対比する。表面にはごま油と醤油ベースのドレッシングが薄くかかり、白ごまと刻みねぎが散らされている。柔らかい自然光、浅い被写界深度、温かみのある木製テーブル背景で料理の質感と鮮やかな色を際立たせたフォトリアリスティックな一枚。",
+    "finished_at": "2025-09-06T03:28:05.994138"
+}
