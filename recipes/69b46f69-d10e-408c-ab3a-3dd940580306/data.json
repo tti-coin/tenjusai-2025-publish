@@ -1,0 +1,129 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            },
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "particle",
+                "value": "の"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "69b46f69-d10e-408c-ab3a-3dd940580306",
+    "created_at": "2025-09-06T03:56:36.318479",
+    "estimated_duration": 48762,
+    "started_at": "2025-09-06T03:56:36.321120",
+    "title": "溶けピーマンと海鮮の奇想シチュー",
+    "comment": "見た目のインパクトが強く、創造性あふれる一品です。腐った牛乳の扱いには要注意ですが、冒険心が伝わってきてユニークさは抜群です。海鮮と果実の意外な組み合わせが新しい味体験を生みそうで、一口目の驚きが楽しいでしょう。",
+    "image_prompt": "大きめの白い深皿に盛られた一皿。トロリと溶けた鮮やかな緑のピーマンとブロッコリーがソース状に広がり、乳白色で少し酸味を感じさせる“腐った牛乳”のようなクリーミーな液体が薄くかかっている。柔らかく煮た赤いぶどうといちごが散りばめられ、つぶしたさんまのほぐし身が粗く混ざり、ざっくりとちぎられた蟹の身と海老の欠片がアクセントにのっている。そこへ鮮やかな赤橙色のたらこソースが細く注がれ、表面に光沢と湯気が立ち上る。クローズアップで質感を強調、暖かい自然光が当たる高解像度の写真風描写で、色の対比と艶を強調しつつ一見奇抜だが食欲をそそるように仕上げる。背景は木製のテーブルに柔らかなボケ、全体に家庭的で少し冒険的な雰囲気を演出する。",
+    "finished_at": "2025-09-06T03:57:29.819176"
+}
