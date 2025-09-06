@@ -1,0 +1,129 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "あゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "e45e384f-db2f-4e9e-adab-ce6af96372ea",
+    "created_at": "2025-09-06T04:37:07.891062",
+    "estimated_duration": 46703,
+    "started_at": "2025-09-06T04:37:07.893808",
+    "title": "うなぎと蟹の贅沢丼",
+    "comment": "うなぎの照りと蟹の豪快さが同じ丼で楽しめる贅沢さが魅力です。たらこや生ハム、鮎の風味は塩分や個性が強いので、ご飯とのバランスを見ながら少しずつ組み合わせると食べやすくなります。見た目のインパクトが抜群なので、まず写真を撮ってから豪快にかきこむと楽しいですよ！",
+    "image_prompt": "白い陶器の大ぶりな丼にふっくらと炊き上がった白ごはんを盛り、その上に照りのある蒲焼き風うなぎの切り身を中心にのせる。艶やかな甘辛いタレがうなぎに光り、縁から艶が滴るように見えるように描写する。横には殻付きの蟹の脚を豪快に配置し、蟹の紅い甲羅と白い身のコントラストを際立たせる。薄く切った鮎の切り身は皮目を香ばしく炙ったような焼き目を見せ、たらこは輪切りで鮮やかな朱色の粒感を残して並べる。生ハムは薄くリボン状に折りたたんで柔らかく寄せ、塩気のあるピンク色が全体に華を添える。刻み海苔、白ごま、刻みネギ、青紫蘇の葉とレモンのくし切りを散らし、ほんの少しの刻み生姜を添える。湯気が立ち上る温かさ、木目のテーブル上に置かれた和風の器、柔らかい自然光の演出、浅い被写界深度で前景にフォーカスした高解像度のクローズアップ写真のイメージで、食欲をそそる光沢とテクスチャーを強調する。",
+    "finished_at": "2025-09-06T04:38:05.704799"
+}
