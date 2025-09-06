@@ -1,0 +1,117 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ]
+    ],
+    "job_id": "2c43ddf8-348e-422b-98a8-c4124905d6d8",
+    "created_at": "2025-09-06T04:17:14.695271",
+    "estimated_duration": 53495,
+    "started_at": "2025-09-06T04:17:14.697787",
+    "title": "三種卵の味噌ポン蒸し",
+    "comment": "個性的な材料の組み合わせが面白く、甘辛い味噌ポン酢が卵の旨みをうまく引き立てます。レンジで異なるサイズの卵を一緒に加熱する際は破裂に注意し、殻は割るか耐熱容器で加熱してくださいね（安全第一）。最後の「愛情を冷凍する」という演出はユーモアがあって写真映えするので、ハート形の氷や冷たいソースで遊んでみてください。",
+    "image_prompt": "白い陶器の浅鉢に盛られた三種卵の味噌ポン蒸しの完成像。照りのある味噌とポン酢を砂糖でまとめた琥珀色のソースが表面に薄く光り、中央をスプーンで切ると、鶏卵のやさしい黄色の滑らかな茶碗蒸し状の断面とうずら卵の小さな半熟の黄身が見え、対照的に大きなダチョウの卵の厚みある断面が迫力を出す。ソースの表面には軽く焦げ目と艶があり、白ごま、刻みねぎ、ミクロハーブが散らされ、脇にはハート形の小さな氷の飾り（“愛情を冷凍”した演出）が置かれている。柔らかい自然光でクローズアップ、浅い被写界深度、暖かい木製のテーブル背景で美味しそうに見える一枚。",
+    "finished_at": "2025-09-06T04:18:05.851709"
+}
