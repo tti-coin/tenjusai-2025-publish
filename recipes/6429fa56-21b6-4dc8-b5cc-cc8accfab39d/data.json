@@ -1,0 +1,85 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "オートミール"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "6429fa56-21b6-4dc8-b5cc-cc8accfab39d",
+    "created_at": "2025-09-06T06:19:08.319421",
+    "estimated_duration": 51047,
+    "started_at": "2025-09-06T06:19:08.321742",
+    "title": "フルーツヨーグルトボウル",
+    "comment": "色とりどりの果物とクリーミーなヨーグルト、オートミールの食感が楽しい一皿です。ぶどうとマスカットは皮をむく手間が手作り感を出していて、瑞々しさが際立ちます。リンゴは切ると変色するので、レモン汁を少し振ると見た目も味も長持ちしますよ—朝食にぴったりで、ちょっとした贅沢気分が味わえます！",
+    "image_prompt": "A vibrant, photorealistic close-up of a fruit yogurt bowl: neatly arranged sliced banana, diced red apple, bright orange segments, and soft peach slices alongside peeled purple grapes and glossy green muscat grapes. Creamy white yogurt is being gently poured over the fruit, creating soft swirls and slight pooling between the pieces. Rolled oats are sprinkled on top, adding a golden, crunchy contrast. The fruits show fresh juice droplets and natural shine; the orange segments have translucent membranes, apple pieces show crisp flesh, and peach slices reveal fuzzy texture. Set in a simple off-white ceramic bowl on a light wooden table, with a wooden spoon resting beside it and soft natural morning light from the side creating warm highlights and shallow depth of field. High-resolution, realistic food photography style, appetizing, colorful, detailed textures, and mouthwatering presentation.",
+    "finished_at": "2025-09-06T06:19:52.802381"
+}
