@@ -1,0 +1,105 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "6961acd1-4d2c-41c7-8783-798b0ddc0d9b",
+    "created_at": "2025-09-06T01:05:43.623083",
+    "estimated_duration": 58277,
+    "started_at": "2025-09-06T01:05:43.626220",
+    "title": "うなぎの卵かけご飯マヨ添え",
+    "comment": "見た目は豪華、味はシンプルという贅沢な一椀。卵のまろやかさとうなぎの甘辛さ、マヨのコクが一体になって食べごたえ十分です。混ぜるときの躊躇は禁物、勇気を出してかき混ぜれば幸せが倍増します（自己責任でどうぞ）。",
+    "image_prompt": "大きめの白い陶器の丼に盛られたふっくらとした蒸気の立つ白ごはんを中心に、中央に光沢のある生卵の濃い黄身がそのままの形で載っている。卵の周りには透明にきらめく醤油の糸がかかり、軽く振られた塩と黒胡椒の粒がアクセントになる。上面にはクリーミーなマヨネーズが細くジグザグにかけられ、その横に香ばしく焼き目のついたうなぎの蒲焼が美しく並び、タレの照りが艶やかに光る。海苔の千切りと小口切りの青ねぎ、白ごまが散らされ、箸が添えられた木製の和風のテーブル上で温かい照明が当たる、湯気や質感の細部まで写る高解像度のフォトリアリスティックなクローズアップ。卵の黄身が軽く崩れた瞬間に混ざり合うトロリとした食感とうなぎの照りとマヨのクリーミーさが伝わる構図で、美味しさを強調した撮影スタイル。",
+    "finished_at": "2025-09-06T01:06:23.583556"
+}
