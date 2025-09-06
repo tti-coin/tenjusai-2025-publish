@@ -1,0 +1,105 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ]
+    ],
+    "job_id": "0d45b6ba-fdaa-45ec-a5cb-ce11331427ca",
+    "created_at": "2025-09-06T04:22:44.546111",
+    "estimated_duration": 49893,
+    "started_at": "2025-09-06T04:22:44.548534",
+    "title": "フルーツ冷やしスポンジケーキ",
+    "comment": "シンプルな卵と小麦粉で作る軽いスポンジに、新鮮なフルーツとたっぷりの生クリームで豪華さをプラスしています。冷やすことで生クリームが落ち着き、果物の瑞々しさと生地の軽さがよく馴染みます。切るときは包丁を温めると断面が綺麗に出て、見た目も味もワンランク上に—写真映え間違いなしで笑顔が増えますよ。",
+    "image_prompt": "ふんわりと焼き上げた薄めのスポンジケーキを横からカットした断面が見えるクローズアップ。軽やかな気泡が入った黄金色の生地の上に、艶やかで滑らかな白い生クリームをたっぷりと盛り、瑞々しいメロンの薄切り、赤く光る半分に切った苺、黄緑色のマスカットを彩りよく並べる。生クリームは少し角が立ちつつも柔らかく光沢があり、果物には冷やされてほんのりとした露（結露）が見える。皿の縁に粉砂糖を軽く振り、ミントの葉を飾り、ナチュラルな木目のテーブルに置かれた清潔感あるセッティング。柔らかい自然光と浅い被写界深度で背景をぼかし、フォトリアルで高解像度、食欲をそそる美味しそうな質感を強調する。",
+    "finished_at": "2025-09-06T04:23:31.575332"
+}
