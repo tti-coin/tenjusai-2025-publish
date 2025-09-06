@@ -1,0 +1,91 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "ea6fb040-6c4d-4128-bd64-bf4a2c2adfcb",
+    "created_at": "2025-09-06T04:30:51.543113",
+    "estimated_duration": 49482,
+    "started_at": "2025-09-06T04:30:51.545363",
+    "title": "生ハムと揚げしそのチーズもやしサラダ",
+    "comment": "冷やした炒めもやしのシャキシャキ感と生ハムの塩気、カリッと揚がったしその食感が楽しい一皿です。チーズのまろやかさが全体をまとめてくれるので、切り方で食感の変化を楽しんでください。しそを揚げるときは油はねに注意ですが、そのひと手間がクセになる旨味を生み出します。",
+    "image_prompt": "冷やした炒めもやしをふんわりと皿の中央に盛り、薄くスライスした生ハムを花びらのように優雅に並べる。表面がカリッと金色に揚がったしそを大胆に散らし、みずみずしいスプラウトの緑をアクセントに入れる。薄切りの白いチーズをランダムに重ねてクリーミーさを演出し、軽く香るゴマ油ベースの和風ドレッシングをかけて光沢を与える。色彩は淡いもやしの白、透明感のあるピンクの生ハム、鮮やかな緑と黄金のしそのコントラストが映える。クローズアップで質感を強調し、自然光の柔らかい陰影と浅い被写界深度で美味しそうに見せる。",
+    "finished_at": "2025-09-06T04:31:27.932100"
+}
