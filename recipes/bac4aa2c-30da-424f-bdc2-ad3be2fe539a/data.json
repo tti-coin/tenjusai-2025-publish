@@ -1,0 +1,145 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "bac4aa2c-30da-424f-bdc2-ad3be2fe539a",
+    "created_at": "2025-09-06T06:27:06.138426",
+    "estimated_duration": 51005,
+    "started_at": "2025-09-06T06:27:06.141245",
+    "title": "卵かけご飯",
+    "comment": "王道の卵かけご飯、シンプルなのに卵と醤油、のり、かつお節が重なって驚くほど深い旨味になります。手早く作れて朝ごはんや夜食に最適、調味で自分流にアレンジできるのも嬉しいポイントです。生卵を使うので新鮮な卵を選ぶか気になる方は加熱や加熱済み卵に替えると安心ですが、食べるときは卵が踊っているような幸せを感じます。",
+    "image_prompt": "湯気が立ち上る白いご飯のどんぶりに、黄身がとろりと輝く生卵が中央にのり、箸で軽く混ぜ始められた瞬間をクローズアップで描写。醤油が表面に沿って滴り、濃い飴色の照りを作る。細かく刻んだ海苔がふんわり散り、かつお節がほのかに舞う。陶器の飯碗と木製の箸、暖色の自然光が斜めに差し込み湯気を柔らかくぼかすことで家庭的で温かい雰囲気を強調。米粒一粒一粒の艶と卵のクリーミーな質感を鮮明に、浅い被写界深度で食欲をそそるテクスチャーを重視して描写してください。",
+    "finished_at": "2025-09-06T06:27:51.510210"
+}
