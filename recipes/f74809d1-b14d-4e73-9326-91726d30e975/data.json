@@ -1,0 +1,219 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "グレープフルーツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "びわ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "パパイヤ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "f74809d1-b14d-4e73-9326-91726d30e975",
+    "created_at": "2025-09-07T06:24:11.288985",
+    "estimated_duration": 51273,
+    "started_at": "2025-09-07T06:24:11.292660",
+    "title": "豪華ミックスフルーツサラダ",
+    "comment": "これだけの種類が一度に楽しめるミックスは、色と栄養の宝石箱のようで見た目だけでワクワクします。切って混ぜるだけの手軽さは忙しい日にもぴったりで、食卓が一気に華やぎます。盛り付け次第で高級デザートにもなりますが、フォークの迷子にはご注意くださいね！",
+    "image_prompt": "大きな透明のガラスボウルに、りんご、梨、洋梨、バナナ、いちご、みかん、オレンジ、グレープフルーツ、デコポン、レモン、ぶどう、マスカット、パイナップル、キウイ、マンゴー、メロン、もも、さくらんぼ、びわ、ライチ、ブルーベリー、ラズベリー、パパイヤが一口大にカットされて華やかに混ざっている様子。果実の瑞々しい断面と光沢のある果汁が太陽光に反射して輝き、ミントの小枝と薄いレモンスライスが上品に飾られている。背景は木目のテーブルで、柔らかな自然光が斜めから差し込み、浅い被写界深度で前景の果肉の質感や色のコントラストが際立つフォトリアルな高解像度画像。鮮やかな色彩、ジューシーさ、そして食欲をそそる光沢感を強調して描写してください。",
+    "finished_at": "2025-09-07T06:24:56.524138"
+}
