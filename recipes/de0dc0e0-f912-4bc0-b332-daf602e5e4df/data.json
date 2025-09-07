@@ -1,0 +1,119 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "も"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ]
+    ],
+    "job_id": "de0dc0e0-f912-4bc0-b332-daf602e5e4df",
+    "created_at": "2025-09-07T05:44:09.678287",
+    "estimated_duration": 48084,
+    "started_at": "2025-09-07T05:44:09.680877",
+    "title": "愛情たっぷりトマトとなすのスパイスカレー",
+    "comment": "野菜たっぷりでヘルシー、トマトの酸味となすのとろみがうまく調和しています。カレー粉を二度投入するためスパイシーで深い味わいになり、唐辛子の量で辛さを調整してください。愛情は計量できない調味料なので遠慮なくたっぷり注いで、食べる人の笑顔も一緒に煮込んでしまいましょう！",
+    "image_prompt": "深い赤のトマトと紫色のなす、オレンジ色のにんじん、透き通った炒めた玉ねぎがとろりと煮込まれた濃厚なカレーソースのクローズアップ。カレー粉を二度加えたことで黄金色に輝き、赤い唐辛子の輪切りがスパイスのアクセントを添える。ソースは滑らかで程よいとろみ、表面には湯気がハート形に優しく立ち上り、見た目に“愛情が溶け込んでいる”ことを表現するために金色のきらめきがほのかに浮かんでいる。木の器に盛り付け、刻んだ香菜とヨーグルトの白いドットで彩りを足し、温かい自然光の下で浅い被写界深度により背景を柔らかくぼかしたフォトリアルな質感で、食欲をそそる家庭的な一皿として描写してください。",
+    "finished_at": "2025-09-07T05:44:52.255880"
+}
