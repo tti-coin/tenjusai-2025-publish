@@ -1,0 +1,201 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "321237b0-fbde-4042-8bcc-c2192efba193",
+    "created_at": "2025-09-07T06:17:42.915323",
+    "estimated_duration": 50965,
+    "started_at": "2025-09-07T06:17:42.918572",
+    "comment": "Extra data: line 1 column 328 (char 327)\ncontent={\"title\": \"愛情揚げ中華麺の豚肉と野菜のせ\", \"image_prompt\": \"カリッと黄金色に揚がった中華麺を皿の中央に円形の巣のように盛り、表面に香ばしい調味が輝く。上には照りのある柔らかい豚肉の煮込みスライスがたっぷり重なり、その上からマヨネーズとケチャップを混ぜたピンクがかったソースをジグザグにたっぷりとかける。周囲には千切りのキャベツ、レタス、白菜、斜め薄切りの長ねぎを鮮やかにのせ、赤い唐辛子のフレークと、ハート型の赤い飾り（“愛情”の象徴）を散らしている。小さな陶器の小鉢に、レンジで温めて粒状に分離したような濁ったミルクの泡をそっと添え、木目のテーブル、暖かい自然光、クローズアップで質感が伝わる美味しそうな一皿を表現。\"}, \"comment\": \"カリッとした揚げ麺と照りのある豚の煮込み、シャキシャキの野菜が一緒に楽しめる豪快で楽しい一皿です。愛情を込めたハートの飾りとピリッとした唐辛子で見た目も味も遊び心満点、写真映えすること請け合いです。注意点として腐った牛乳は衛生的に危険なので実際の調理では使用しないでください（代替は新鮮な牛乳やクリームでクリーミーさを再現すると安全です）。\"}",
+    "finished_at": "2025-09-07T06:18:02.061909"
+}
