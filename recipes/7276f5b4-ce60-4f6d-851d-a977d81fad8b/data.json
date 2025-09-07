@@ -1,0 +1,229 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            }
+        ]
+    ],
+    "job_id": "7276f5b4-ce60-4f6d-851d-a977d81fad8b",
+    "created_at": "2025-09-07T04:49:01.660999",
+    "estimated_duration": 47924,
+    "started_at": "2025-09-07T04:49:01.664512",
+    "title": "レンジでチン！ミックス蒸し野菜盛り",
+    "comment": "色とりどりの野菜がぎゅっと詰まったヘルシーな一皿で、見た目も栄養も満点です。レンジで手軽に仕上がるので、忙しい日でもサッと作れて頼もしい味方になります。ただしゴーヤの苦味や葉物の火の通りに差が出やすいので、苦手な場合は別で下処理するか加熱時間を調整してね — 野菜の大集合は調整が命、まるで運動会の審判になった気分です。",
+    "image_prompt": "A vibrant, oversized plate of mixed microwaved/steamed vegetables arranged artfully: shredded cabbage and several lettuce varieties (leaf lettuce, romaine), napa cabbage, colorful bell peppers, blanched spinach, komatsuna, mizuna, bok choy, shungiku, asparagus spears, broccoli florets, romanesco, Brussels sprouts, sliced cucumber, thinly sliced green onions and long white leek, garlic chives, edamame pods, shiso leaves, sliced bitter melon (goya), fresh sprouts, zucchini rounds, okra and snow peas. Vegetables are lightly glistening with a sesame-soy dressing and a drizzle of olive oil, sprinkled with toasted sesame seeds and a lemon wedge on the side. Steam gently rising from the plate, tender but still crisp textures, vivid natural colors, arranged on a simple white ceramic plate on a wooden table, photographed in warm natural daylight with a shallow depth of field and soft bokeh for a delicious, appetizing close-up. High resolution, realistic food photography style, emphasize freshness, color contrast, and subtle steam to convey warmth and just-cooked appeal.",
+    "finished_at": "2025-09-07T04:49:55.589370"
+}
