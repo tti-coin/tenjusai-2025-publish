@@ -1,0 +1,167 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "オートミール"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "グレープフルーツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "パパイヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            }
+        ]
+    ],
+    "job_id": "7272c4f5-f297-499d-9946-dd72957638df",
+    "created_at": "2025-09-07T05:47:41.325711",
+    "estimated_duration": 47540,
+    "started_at": "2025-09-07T05:47:41.328632",
+    "title": "甘辛もちフルーツサラダ",
+    "comment": "もちとオートミールのもっちりした食感に生クリームのコクが加わり、フルーツの瑞々しい酸味と甘みが想像以上に楽しい対比を作ります。最後に添えるコチュジャンはピリッとしたアクセントになるので、少量ずつ味を見ながら加えるのがコツです。見た目も賑やかでパーティー向き、食べる前に「これ本当に合うの？」と自分に問いかけるのもまた一興です。",
+    "image_prompt": "大きめの白い陶器ボウルに、オートミールをベースに溶けたもちがところどころ糸を引くように混ざり、酢の光沢がうっすらと表面に映る。片側には薄切りのきゅうりと刻んだ春菊が鮮やかな緑で和えられ、中央にはふんわりと生クリームが渦を描くようにのせられている。周囲にグレープフルーツのピンクのセグメント、みかんのオレンジスライス、淡い緑のマスカット、赤いいちごの半分、バナナの輪切り、黄色いレモンのくし切り、メロンとパパイヤの角切りが色とりどりに並び、果汁がきらめく。仕上げにコチュジャンが小さな赤いドットや薄い線としてアクセント的に添えられ、全体に甘味・酸味・辛味・クリーミーさ・もちの粘りが視覚的にも伝わる。木目のテーブルに置き、自然光の柔らかい斜光で撮ったトップダウン気味の構図、浅い被写界深度で質感を強調し、高解像度で鮮やかな色彩と艶感を出す。",
+    "finished_at": "2025-09-07T05:48:38.454563"
+}
