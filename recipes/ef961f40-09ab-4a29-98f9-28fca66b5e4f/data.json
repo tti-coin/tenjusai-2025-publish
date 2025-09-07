@@ -1,0 +1,133 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ]
+    ],
+    "job_id": "ef961f40-09ab-4a29-98f9-28fca66b5e4f",
+    "created_at": "2025-09-07T05:25:21.298485",
+    "estimated_duration": 45900,
+    "started_at": "2025-09-07T05:25:21.301599",
+    "title": "フルーツとミルクのレンジ卵の盛り合わせ",
+    "comment": "色とりどりの果実が瑞々しく並び、三つのマスカットが贅沢なアクセントになっています。牛乳と生クリームと卵の混ぜ液と、レンジでやわらかくした卵の組み合わせがクリーミーでちょっと不思議なデザート感を生み出します。レンジで卵を加熱する際は短時間ずつ様子を見て破裂や過加熱を防いでください—とはいえ、見た目の華やかさは間違いなくパーティー向きです！",
+    "image_prompt": "白いセラミックの平皿に、薄切りのりんごと洋なしを扇形に並べ、赤いいちごはヘタ付きでアクセント、みかんの薄皮を生かした房とブルーベリーが散りばめられて色彩豊かに盛り付けられている。皿の中央やや手前には濃緑のマスカットが三つきれいに並び、光を受けて艶やかに輝く。脇には小さなガラスのラメキンに入った乳白色の牛乳と生クリームと卵を混ぜたとろりとした液体があり、別にレンジで加熱してやわらかく固まった一個の卵（白身がふんわりと固まり黄身がやや柔らかい状態）が小さなナプキンの上に載っている。柔らかな自然光で撮られた温かみのあるキッチン風の背景、木目のテーブル、前景にフォーカスを当てたシャープなディテール、果実の瑞々しいテクスチャーとミルクのクリーミーな質感、蒸気の残るレンジ卵のほのかな温もりが伝わるように。美味しそうで上品、食卓に出せるリアルなフードフォトスタイルを目指す。",
+    "finished_at": "2025-09-07T05:26:44.252407"
+}
