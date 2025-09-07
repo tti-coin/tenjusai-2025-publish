@@ -1,0 +1,91 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ]
+    ],
+    "job_id": "bf4fde0d-a04e-4f1d-bb10-eed43900d1a3",
+    "created_at": "2025-09-07T05:27:12.253282",
+    "estimated_duration": 50883,
+    "started_at": "2025-09-07T05:27:12.255736",
+    "title": "フローズンミックスフルーツ",
+    "comment": "冷凍するだけで色とりどりの果物が一皿にまとまり、手軽で見た目も華やかなデザートベースになります。砂糖を一緒に凍らせると固まりやすいので、トレイで広げて凍らせるか砂糖の量を控えるのがコツです。召し上がる直前に少しだけ解凍してシャーベット風の食感を楽しめば、冷凍庫が果物の宝石箱に変わった気分になれますよ。",
+    "image_prompt": "A highly detailed, hyper-realistic food photography of a frozen mixed fruit bowl: frosty whole and halved strawberries and raspberries with delicate ice crystals, bright golden mango cubes with icy sheen, glossy mandarin orange segments, pale green Muscat grapes, ripe peach slices, assorted purple grapes and crisp apple slices lightly dusted with sparkling sugar. The fruits sit in a chilled clear glass bowl on a rustic wooden board with subtle condensation and scattered frost crystals, soft natural side lighting, shallow depth of field, macro texture detail highlighting sugar granules and icy surfaces, vibrant saturated colors, appetizing and refreshing, studio-quality, realistic, top-down and slight side angle composition with soft bokeh background to emphasize the cold, jewel-like appearance of each fruit piece.",
+    "finished_at": "2025-09-07T05:28:13.075778"
+}
