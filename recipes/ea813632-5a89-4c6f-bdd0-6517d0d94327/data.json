@@ -1,0 +1,127 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ]
+    ],
+    "job_id": "ea813632-5a89-4c6f-bdd0-6517d0d94327",
+    "created_at": "2025-09-07T06:02:17.726666",
+    "estimated_duration": 54642,
+    "started_at": "2025-09-07T06:02:17.729230",
+    "title": "生クリームたっぷりの一皿",
+    "comment": "生クリームが主役の潔いレシピで、塗るだけで見た目のインパクトは抜群です。塗り方で表情が変わるので、ナイフの跡や峰を楽しんで盛り付けてください（指先でアートしても可）。ただしたっぷりなので冷やしてから出すか、食べすぎに注意して軽やかに仕上げるとバランスが良くなります。",
+    "image_prompt": "真っ白で厚く塗られた生クリームが主役の一皿をクローズアップで描写。ナイフで大胆に塗り広げた跡とツヤのある柔らかな峰が見える、クリーミーで滑らかな質感。縁が少し崩れた陶器の白いプレートに盛られ、横には艶のある赤いイチゴ数個と若葉のミントをアクセントに配置。背景は柔らかな自然光が差し込むキッチン、浅い被写界深度で前景にフォーカス、細かな泡立ちや光の反射が写る高解像度のスタジオ風写真。温かみのある色調と柔らかい影で美味しそうに見せ、見る者にふわっとした食感と濃厚さを直感させる構図。",
+    "finished_at": "2025-09-07T06:03:02.416930"
+}
