@@ -1,0 +1,135 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "うどん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "たけのこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ]
+    ],
+    "job_id": "437a149b-337a-4321-a5b1-c3a3e661f58a",
+    "created_at": "2025-09-07T02:50:33.920081",
+    "estimated_duration": 48247,
+    "started_at": "2025-09-07T02:50:33.922587",
+    "title": "和洋中ミックス麺サラダ",
+    "comment": "和洋中の要素が一度に楽しめる大胆な一皿で、麺のもちもち感と野菜のシャキシャキが楽しい相乗効果を生みます。たらことさばの塩気、卵とチーズのコクが混ざって深い味わいになりますが、ゴーヤの苦味は好みに応じて量を調整してください。見た目もカラフルでパーティー向けの話題作、うっかり混ぜすぎると味が大冒険になってしまうので最後は軽く和える程度にすると安心です。",
+    "image_prompt": "蒸した太いうどんとアルデンテに茹でたパスタが一緒に盛られた一皿。そこに色とりどりの刻んだトマト、玉ねぎ、コーン、マッシュルーム、しいたけ、たけのこ、れんこんが散りばめられ、上に刻んだにら、紫のしそ、ブロッコリーの小房、スプラウト、苦味のあるゴーヤが彩りよくのる。卵と溶けたチーズがとろりと麺に絡み、ほぐしたさばの旨味とピンクのたらこがアクセントになっている様子が見える。蒸気が立ち上る熱々の質感、艶のあるドレッシングの光沢、シャキシャキの野菜ともちもちの麺の対比を強調。浅めの白い陶器のボウルに盛り、木製のテーブルと自然光による柔らかい陰影、クローズアップでフォトリアリスティックに撮影したような美味しそうな仕上がりを想定。",
+    "finished_at": "2025-09-07T02:51:25.859516"
+}
