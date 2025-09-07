@@ -1,0 +1,137 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "鴨肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ながいも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みりん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "89237a2a-f6b9-4ac5-859c-1571911be43d",
+    "created_at": "2025-09-07T05:18:15.736407",
+    "estimated_duration": 53734,
+    "started_at": "2025-09-07T05:18:15.739449",
+    "title": "牛肉と生ハム鴨の揚げ野菜プレート",
+    "comment": "牛肉の旨味と生ハム・鴨のコクが同時に楽しめる豪華な一皿で、揚げた長芋とさつまいものホクホク感がアクセントになります。とうもろこしとにんじんの溶かしたピュレが甘みと彩りを添え、ポン酢とみりんの合わせダレが全体をうまく引き締めます。手順4の「愛情を切る」はジョーク扱いにして、実際にはたっぷり注いでください—愛情は料理の最高のスパイスです！",
+    "image_prompt": "木製の平皿に盛られた、薄く切って軽く焼き目をつけた牛肉のスライスと、手のひらで握られたような形の生ハムと鴨肉の小さな塊が並ぶ豪華な盛り合わせを描写。鮮やかなオレンジ色のとうもろこしとにんじんをなめらかに溶かしたピュレが艶やかにプレートの片側に広がり、上には刻んだハーブが散らされている。隣にはカリッと揚がった長芋、えのきの小束、さつまいもの厚切り天ぷらが黄金色に輝き、軽い衣の質感が表現されている。全体に照りのあるポン酢とみりんを合わせたソースが薄くかかり、レモンスライスと白ごま、刻みねぎでアクセント。自然光の柔らかい光で温かみを出し、浅い被写界深度で前景のテクスチャーに焦点を合わせた美味しそうなクローズアップ写真風。",
+    "finished_at": "2025-09-07T05:19:12.079903"
+}
