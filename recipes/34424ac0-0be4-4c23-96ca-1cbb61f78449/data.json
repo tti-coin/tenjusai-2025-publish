@@ -1,0 +1,87 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "34424ac0-0be4-4c23-96ca-1cbb61f78449",
+    "created_at": "2025-09-07T03:14:55.232608",
+    "estimated_duration": 48920,
+    "started_at": "2025-09-07T03:14:55.235099",
+    "title": "うなぎとさばの照り焼き丼",
+    "comment": "うなぎとさばの豪華なコンビネーションで食べ応え抜群の一品です。醤油と砂糖の合わせダレがさばにもよく絡み、香ばしい照りがごはんと相性抜群になります。焼き過ぎると固くなるので火加減には注意してくださいね、でもちょっと焦げた香ばしさは“ご褒美”です！",
+    "image_prompt": "艶やかに照りの出たうなぎの蒲焼きと、醤油と砂糖の合わせダレで香ばしく焼き上げられたさばの照り焼きが並ぶ豪華な丼ぶり。ふっくら白ごはんの上にうなぎの濃い茶色のタレが艶を放ち、さばは皮目に香ばしい焼き目と照りをまとっている。刻み海苔、山椒の粉、青ねぎの小口切りが彩りを添え、紅しょうがと漬物が横に控える。湯気が立ち上るような温かさ、木製のテーブルと黒い漆の丼、箸がそっと置かれた構図で、柔らかい自然光の中で食欲をそそるクローズアップ。背景は軽いボケで落ち着かせ、質感と照りを強調した高解像度の美味しそうなフードフォトを想定。",
+    "finished_at": "2025-09-07T03:15:31.841264"
+}
