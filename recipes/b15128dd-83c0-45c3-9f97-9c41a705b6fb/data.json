@@ -1,0 +1,127 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鴨肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ]
+    ],
+    "job_id": "b15128dd-83c0-45c3-9f97-9c41a705b6fb",
+    "created_at": "2025-09-07T03:31:18.827618",
+    "estimated_duration": 45811,
+    "started_at": "2025-09-07T03:31:18.830208",
+    "title": "鴨とかにの蒸しと焼き野菜添え",
+    "comment": "鴨の旨味と蟹の甘みが同時に楽しめる豪華な一皿で、焼き野菜の香ばしさが全体のバランスを引き締めます。にらとごま油の香りがアクセントになり、ご飯にもお酒にも合う味付けです。鴨や蟹の火入れには注意して、塩気は最後に調整すると安心ですよ（鴨と蟹が仲良く喧嘩しないように）。",
+    "image_prompt": "焦げ目のついたピーマンとズッキーニのスライスが香ばしく並び、中央にはトマトをじっくり煮詰めてとろりとした赤いソースが広がる。薄くスライスした鴨肉は蒸してしっとりとしたピンク色、横には殻を割って身が覗く蒸し蟹の脚が豪華に添えられている。仕上げに醤油と砂糖で照りを出し、ごま油を軽く回しかけて艶のある黒褐色のソースが全体を包み、刻んだにらと白ごまを散らして香りとアクセントを添える。温かい湯気が立ち上る、和洋折衷の豪華で食欲をそそる一皿を、木のプレートまたは白い陶器に盛り付け、自然光で柔らかく照らしたクローズアップで撮影してください。",
+    "finished_at": "2025-09-07T03:32:00.004357"
+}
