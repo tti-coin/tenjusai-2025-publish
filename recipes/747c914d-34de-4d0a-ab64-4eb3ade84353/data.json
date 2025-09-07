@@ -1,0 +1,165 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "747c914d-34de-4d0a-ab64-4eb3ade84353",
+    "created_at": "2025-09-07T05:00:33.713640",
+    "estimated_duration": 43340,
+    "started_at": "2025-09-07T05:00:33.716457",
+    "title": "海鮮たまご包み寿司",
+    "comment": "酢飯の酸味とたまごの優しい甘み、まぐろとえびの旨味が一つになった創作寿司です。見た目はフォーマルだけど作り方は家庭的で親しみやすく、食卓の主役になります。包むときのコツを掴めば、崩れない美しい一口が楽しめるので挑戦してみてください。",
+    "image_prompt": "薄く焼いた黄金色のたまご（薄焼き卵またはだし巻きの薄切り）で、酢飯、赤く艶のあるまぐろの角切り、ぷりっとしたえびの一口大を包んだ寿司のクローズアップ。海苔の片面にふんわりと盛られた艶やかな酢飯、中央に詰められた鮮やかな赤とピンクの海鮮、きめ細かな卵の層が重なる断面が見えるカットを含む構図。木のまな板の上に並べ、横には醤油小皿、わさび、ガリを添え、自然光の柔らかい陰影と浅い被写界深度でテクスチャーと光沢を強調する。写実的で食欲をそそる色味、細部の質感（米粒、卵の気泡、海鮮の照り）を鮮明に表現してください。",
+    "finished_at": "2025-09-07T05:01:21.124066"
+}
