@@ -1,0 +1,121 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "びわ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ]
+    ],
+    "job_id": "e5b92239-480b-4c86-baa0-21c7e3b6b096",
+    "created_at": "2025-09-07T05:29:37.745316",
+    "estimated_duration": 50280,
+    "started_at": "2025-09-07T05:29:37.748089",
+    "title": "フローズンミックスフルーツシャーベット",
+    "comment": "色とりどりの冷凍フルーツが作るビジュアルがとても華やかで、シャリシャリ感と果実の甘みが楽しい一品です。びわ・もも・メロンを別に潰してとろみを加えることで、食感にコントラストが出て深みが増します。解凍しすぎると水っぽくなるので、提供は手早く、食べる前に写真を撮るのを忘れずに（急げ！）。",
+    "image_prompt": "氷の結晶がきらめく白い深皿に盛られたフローズンミックスフルーツシャーベット。冷凍したいちご、ラズベリー、マンゴー、みかん、マスカット、もも、ぶどう、りんごが粗くクラッシュされてシャリシャリとしたテクスチャーを見せ、砂糖が薄く降りかかったような白い粉の残りが光を受けて輝く。別添えで、別に潰したびわとももとメロンのなめらかなピューレをスプーンで上からとろりとかけ、黄色・オレンジ・赤・緑の鮮やかな色彩が層になって対比を成す。ミントの葉と薄切りの果皮、氷の粒に付いた水滴が瑞々しさを強調し、木目のテーブルとソフトな自然光の下で撮影したクローズアップ。高解像度で質感と光沢、氷のシャリ感が伝わるフォトリアルなスタイルを想定。",
+    "finished_at": "2025-09-07T05:30:25.144098"
+}
