@@ -1,0 +1,109 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "b3dc4406-e7f8-41c6-bb89-b3ddb8ee72f9",
+    "created_at": "2025-09-07T02:33:40.059614",
+    "estimated_duration": 52006,
+    "started_at": "2025-09-07T02:33:40.062183",
+    "title": "ミルクパスタ キャベツと芽キャベツの醤酢がけ",
+    "comment": "ミルクのまろやかさがパスタに優しく絡み、炒めたキャベツと長ねぎの香ばしさがアクセントになっています。芽キャベツの歯ごたえと見た目の華やかさが楽しい一品で、家庭的なのに個性が光ります。乳製品と酸味は分離しやすいので、仕上げの調味は手早く行うと見た目も味も安定します。",
+    "image_prompt": "白く滑らかなミルクがたっぷりとかかったパスタをメインに、薄くソテーして軽く焦げ目のついたキャベツと長ねぎが混ざり合う一皿を描写してください。上にはハーフにカットしてローストされた芽キャベツが丸ごと乗り、表面にこんがりとした焼き色と瑞々しい緑色のコントラストが出ています。仕上げに醤油と酢が軽く全体に滴り、塩の粒がところどころにきらめいている様子を表現。湯気が立ちのぼり、光沢のあるミルクソースとキャベツのシャキッとした質感、芽キャベツの層感が伝わるクローズアップ。温かみのある自然光、セラミックの浅皿に盛り付けられ、木製のフォークか箸が添えられた食欲をそそる構図で、詳細で高解像度な食品写真風に。",
+    "finished_at": "2025-09-07T02:34:32.050244"
+}
