@@ -1,0 +1,129 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "ハム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "f24e520e-cad2-4186-a4a9-e99d0490e4b9",
+    "created_at": "2025-09-07T03:03:58.388230",
+    "estimated_duration": 49819,
+    "started_at": "2025-09-07T03:03:58.390832",
+    "title": "蒸しミックス肉の中華麺",
+    "comment": "蒸した牛・豚・鶏・ハムの混合は食べごたえがあって満足感たっぷりです。にんにくは香りの主役なので量に注意すれば全体の味が引き締まります。最後にごま油と“愛情”を注げば、家庭的でほっとする一杯になりますよ、愛情はカロリーゼロですから心置きなくどうぞ。",
+    "image_prompt": "大きめの白い深皿に盛られた中華麺の一杯。湯気が立ち上る熱々の麺の上に、しょうゆと砂糖で味付けされた半熟の照りのあるマリネ卵が半分に切って美しく並ぶ。牛肉・豚肉・鶏肉・ハムは蒸して柔らかく仕上げ、薄くスライスして麺の周りにボリュームよく配されている。にんにくはたっぷりと大胆にのせられ、スライスや粗みじんで香りのアクセントを演出。仕上げにたっぷりと香ばしいごま油が金色の光沢を与え、表面に小さな油の滴と白ごまが散らされている。皿の脇には箸が置かれ、木目のテーブルと柔らかな自然光が温かさを強調。湯気に混じるハート状の柔らかな光やキラリとした艶で“愛情を注いだ”一杯の魅力を視覚的に伝える、食欲をそそるクローズアップ。",
+    "finished_at": "2025-09-07T03:04:43.499499"
+}
