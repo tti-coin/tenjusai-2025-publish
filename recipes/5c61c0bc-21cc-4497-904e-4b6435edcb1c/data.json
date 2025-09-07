@@ -1,0 +1,119 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "5c61c0bc-21cc-4497-904e-4b6435edcb1c",
+    "created_at": "2025-09-07T04:59:57.222144",
+    "estimated_duration": 44261,
+    "started_at": "2025-09-07T04:59:57.224520",
+    "title": "ピーマン包みカレー風味鶏揚げ",
+    "comment": "鶏肉でピーマン・にんにく・じゃがいもを包むことで、噛んだ瞬間に野菜の甘みとにんにくの香りがジュワッと広がる驚きの一品です。カレー粉と醤油の組み合わせで和洋折衷な風味に仕上がり、食欲をそそります。揚げる際は中まで火を通すために、じゃがいもを小さめに切るか事前に少し加熱するのが安心ですよ。",
+    "image_prompt": "黄金色に香ばしく揚がった鶏肉の包み揚げをクローズアップで。外側はカリッとした焼き目と深い飴色の醤油とカレーの照り、ところどころにスパイスの粉末がふんわり残る。一つを半分に切ると、中から鮮やかな緑のピーマン、にんにくの薄切り、ほくほくのじゃがいもが顔を出し、蒸気が立ち上る。脇に彩りのカットコーンと薄切り人参のサラダを添え、刻みパセリを散らしている。木製の皿に盛り付け、温かい自然光で質感と油の照りを強調した美味しそうなフード写真。背景はややボケて家庭的で親しみやすい雰囲気。",
+    "finished_at": "2025-09-07T05:00:40.300832"
+}
