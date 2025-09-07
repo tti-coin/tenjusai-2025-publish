@@ -1,0 +1,97 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "9ee41ba7-7a63-475a-aca2-e9ddade7de97",
+    "created_at": "2025-09-07T04:59:56.669063",
+    "estimated_duration": 44261,
+    "started_at": "2025-09-07T04:59:56.671444",
+    "title": "のりたま混ぜごはん",
+    "comment": "シンプルながら卵と醤油がごはんに絡んでふわっと旨みが広がる、王道の朝ごはんです。手でちぎったのりが香りと食感にアクセントを加えて、ひと口ごとにほっとする味わいに。生卵を使うので新鮮さと衛生に注意して、せっかくなら豪快に混ぜて楽しんでくださいね！",
+    "image_prompt": "深めの白い陶器の器に盛られたあつあつのごはん。中央に生卵を割って入れ、醤油が幾筋か艶やかに垂れたあと、全体を混ぜて卵がごはんにトロリと絡む様子が見える。上には手でちぎった緑濃い焼きのりがふんわりと散らされ、のりの黒緑色と卵の黄金色、ごはんの白さがコントラストを成す。湯気が立ち上り、木製の箸が器の縁に寄せられた朝食シーン。自然光が柔らかく当たり、艶のある卵の質感と細かなごはん粒の描写が際立つ、温かく食欲をそそるクローズアップ写真風の構図。",
+    "finished_at": "2025-09-07T05:00:31.726358"
+}
