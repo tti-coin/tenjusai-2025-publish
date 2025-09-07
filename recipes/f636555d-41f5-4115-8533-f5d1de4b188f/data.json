@@ -1,0 +1,107 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ]
+    ],
+    "job_id": "f636555d-41f5-4115-8533-f5d1de4b188f",
+    "created_at": "2025-09-07T06:22:51.786434",
+    "estimated_duration": 47789,
+    "started_at": "2025-09-07T06:22:51.789106",
+    "title": "チーズカレーライス",
+    "comment": "家庭的でボリューム満点、じゃがいもとにんじんの素朴な甘みが牛肉とカレーにぴったり合います。チーズを最後にかけることでコクが増し、見た目も食欲をそそるとろけ感に仕上がります。カレー粉は先に少量のだしや湯でよく溶かしてから加えるとダマにならず、チーズが溶けすぎないうちに手早く仕上げるのがコツです。",
+    "image_prompt": "白いごはんの横に、とろりとしたチーズがたっぷり乗った家庭的なチーズカレーライス。ほくほくのじゃがいも、鮮やかなオレンジのにんじん、透き通った飴色の玉ねぎがゴロゴロ入り、柔らかく煮込まれた牛肉の塊がソースに溶け込んでいる。カレー粉を溶かして作った濃厚な黄金色〜琥珀色のルーがごはんにかかり、チーズがとろけてソースと絡み合い、湯気がほんのり立ち上る。木のテーブルの上に白い深皿で盛り、スプーンを添え、自然光で温かみのある柔らかな影を落としたクローズアップ。質感がはっきり見えるように、溶けたチーズの伸びやかな糸、野菜の崩れた表面、艶のあるカレーソースの光沢を強調して美味しそうに描写する。",
+    "finished_at": "2025-09-07T06:23:31.096098"
+}
