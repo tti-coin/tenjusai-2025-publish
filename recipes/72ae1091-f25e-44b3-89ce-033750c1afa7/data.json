@@ -1,0 +1,65 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "72ae1091-f25e-44b3-89ce-033750c1afa7",
+    "created_at": "2025-09-07T02:37:13.982746",
+    "estimated_duration": 50926,
+    "started_at": "2025-09-07T02:37:13.984802",
+    "title": "塩たっぷり酢かけ鶏",
+    "comment": "塩をたっぷり振ることで鶏肉の旨味が際立ち、酢がさっぱりと全体を引き締めます。素材勝負のシンプルな一皿なので、見た目のインパクトは抜群です。塩分はかなり強めなので、食べる前にお水を用意して笑顔で挑んでください！",
+    "image_prompt": "A close-up of a whole roasted chicken on a simple white plate, skin golden-brown and slightly crisp, lavishly sprinkled with coarse sea salt flakes piled visibly on the skin and scattered around the plate, and glistening streaks and droplets of clear vinegar creating a shiny acidic glaze across the surface; subtle steam rising from the warm meat, strong natural side light from a window highlighting texture and salt crystals, shallow depth of field for an appetizing, realistic food photography look, rustic wooden table background, no additional garnishes or sauces, emphasis on contrast between sparkling salt crystals and glossy vinegar, mouthwatering and vivid detail.",
+    "finished_at": "2025-09-07T02:37:58.592677"
+}
