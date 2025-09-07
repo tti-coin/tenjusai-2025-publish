@@ -1,0 +1,91 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            }
+        ]
+    ],
+    "job_id": "1777f859-ead5-4d3f-a2df-02d6fa97ffbc",
+    "created_at": "2025-09-07T06:57:37.662666",
+    "estimated_duration": 53737,
+    "started_at": "2025-09-07T06:57:37.665107",
+    "title": "カラフルフルーツ＆ベジサラダ",
+    "comment": "見た目は宝石箱のように鮮やかで、甘酸っぱいフルーツとしゃきしゃき野菜の食感コントラストが楽しい一品です。芽キャベツやズッキーニは生だと味が強めなので薄切りや軽く湯通しすると食べやすくなりますよ。フルーツの酸化を防ぐために仕上げ直前にカットし、ドレッシングでまとめればパーティーでもウケること間違いなし—フルーツたちが大合唱する一皿です！",
+    "image_prompt": "大きめの木製ボウルに盛られた色とりどりのサラダ、サニーレタスとレタスを大きめにちぎり、青じそをアクセントに。薄くリボン状にスライスしたズッキーニ、半分に切った芽キャベツとプチトマト、細い人参のリボンを散らす。ブルーベリー、スライスしたいちご、みかんの房、さくらんぼ、ぶどうとマスカットをランダムに配置し、バナナとりんご、オレンジの輪切りやくし切りをところどころにのせる。軽くはちみつとレモンのドレッシングが光るように全体に掛け、ゴマとミントの葉で仕上げる。自然光の差し込むテーブルで近接撮影、シャローフォーカスで前景の水滴と色のコントラストを強調した高解像度の、美味しそうで瑞々しい一皿のイメージ。",
+    "finished_at": "2025-09-07T06:58:28.272583"
+}
