@@ -1,0 +1,159 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "e21e6192-2c82-4ace-9d32-b13bcf2ca76b",
+    "created_at": "2025-09-07T06:19:40.205511",
+    "estimated_duration": 49894,
+    "started_at": "2025-09-07T06:19:40.208473",
+    "comment": "Expecting value: line 1 column 1 (char 0)\ncontent=",
+    "finished_at": "2025-09-07T06:20:06.828353"
+}
