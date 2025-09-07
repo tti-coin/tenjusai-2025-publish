@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "451e3dc1-a901-4a37-b62a-004cb48eca2a",
+    "created_at": "2025-09-07T02:34:48.217739",
+    "estimated_duration": 51050,
+    "started_at": "2025-09-07T02:34:48.220304",
+    "title": "ほたてといかの中華麺",
+    "comment": "ほたての旨味が中華麺にしっかり移り、シンプルながら満足感のある一皿です。いかの薄切りが食感のアクセントになり、見た目も華やかで食欲をそそります。麺のゆで過ぎとほたての煮過ぎには注意してくださいね、ほたてが主役、いかは名脇役です（笑）。",
+    "image_prompt": "蒸気が立ち上る白い陶器の丼に、弾力のある黄色い中華麺がふんわりと盛られている。上には照りのある煮ほたてが数個、表面にうっすらと艶があり汁気が光る。薄く切られたいかは透き通るような白で扇状に並び、濃緑ののりが細長く散らされている。全体に光沢と湯気があり、箸で麺を持ち上げた瞬間をクローズアップで捉える。暖かい木製のテーブル、柔らかな自然光、高解像度、フォトリアルで美味しそうに見えるように。",
+    "finished_at": "2025-09-07T02:35:37.673237"
+}
