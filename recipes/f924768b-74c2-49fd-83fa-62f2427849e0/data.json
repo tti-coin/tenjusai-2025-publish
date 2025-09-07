@@ -1,0 +1,175 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "f924768b-74c2-49fd-83fa-62f2427849e0",
+    "created_at": "2025-09-07T02:54:00.348941",
+    "estimated_duration": 50769,
+    "started_at": "2025-09-07T02:54:00.351895",
+    "title": "冷凍たらこ蟹ベーコンのスパイシー中華麺",
+    "comment": "冷凍たらこ・カニ・ベーコンを組み合わせた大胆な一皿で、食感と旨味のコントラストが非常に魅力的です。にんにくと唐辛子を大量に使うので香りと辛さが強く、ニンニク好きにはたまらない反面、食べる前にキスは控えめにしてくださいね。遊び心のあるハート飾りで「愛情を切る」を表現しており、冷凍パーツは少し溶かしてから盛ると見た目も味もより良くなります。",
+    "image_prompt": "高解像度で写実的な料理写真。温かい中華麺を木製の深皿に盛り、麺の上に薄く霜が残る冷凍のたらこ、ほぐれたカニ身、カリカリに焼かれたベーコンの塊を大胆にのせる。さらに黒いきくらげとスライスしたマッシュルームを散らし、鮮やかな赤い唐辛子を三段重ねにしてたっぷりとトッピング。にんにくのオイルと刻みニンニクを三回に分けてかけた光沢のある跡が見え、最後にかつおぶしがふわりと舞って麺に絡む。ハート形にカットした赤唐辛子の飾りで「愛情を切る」を表現し、湯気と溶けかけの霜が対比して食欲をそそる。暖色の自然光、浅い被写界深度でクローズアップし、麺のつや、凍った素材の結晶、カリッとしたベーコン、かつおぶしの繊細な動きをはっきり描写する。美味しそうでユニークな見た目を強調するフォトリアリスティックなスタイルで。",
+    "finished_at": "2025-09-07T02:54:48.860922"
+}
