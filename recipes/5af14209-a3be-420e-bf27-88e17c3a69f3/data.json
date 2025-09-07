@@ -1,0 +1,139 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "だいこん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ]
+    ],
+    "job_id": "5af14209-a3be-420e-bf27-88e17c3a69f3",
+    "created_at": "2025-09-07T05:25:31.595580",
+    "estimated_duration": 45900,
+    "started_at": "2025-09-07T05:25:31.598296",
+    "title": "みかんたらこカレーヌードル（ダチョウ卵添え）",
+    "comment": "みかんの爽やかな酸味とたらこの旨味、カレー粉のスパイスが意外にも調和して個性的な味わいになります。ダチョウの卵という大胆なトッピングが一皿の存在感をぐっと高め、見た目の楽しさも満点です。塩分と酸味のバランス、そしてダチョウ卵の扱いには注意して——取り扱いに戸惑うと笑いが止まらないかもしれません。",
+    "image_prompt": "大きめの白い深皿に盛られた一皿。中華麺を粗くつぶしてカレー粉でやや黄金色に和え、みかんを潰した果汁と果肉が艶やかに絡む。たらこを粗く振りかけて鮮やかな赤の点々が散り、味付けした大根の細切りと味の沁みたブロッコリーフローレット、手で割った水菜がアクセント。ダチョウの卵を半分に切って黄身がとろりと出る様子を中央にのせ、こんぶを握って巻いた黒緑のガーニッシュを脇に添える。湯気が立ち上る温かい雰囲気で、木のテーブル、柔らかな自然光、浅い被写界深度のクローズアップで質感と色彩のコントラストを強調し、美味しそうでユニークな一皿をリアルに描写する。",
+    "finished_at": "2025-09-07T05:26:20.023251"
+}
