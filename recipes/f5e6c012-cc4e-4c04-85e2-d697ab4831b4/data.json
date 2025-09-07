@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ]
+    ],
+    "job_id": "f5e6c012-cc4e-4c04-85e2-d697ab4831b4",
+    "created_at": "2025-09-07T06:12:14.556450",
+    "estimated_duration": 48742,
+    "started_at": "2025-09-07T06:12:14.558658",
+    "title": "レンジたまごのふわ山",
+    "comment": "見た目は大胆でインパクト抜群、たまごの鮮やかな黄色が食欲をそそります。電子レンジで大量に加熱したようなユニークな食感とボリューム感が楽しめそうですが、調理の際は破裂などの危険性に注意してください。盛り付けや香り付け次第でパーティーの話題作にもなる、笑いと驚きを呼ぶ一皿です。",
+    "image_prompt": "大量のたまごが一体化してできたように見える、ふわふわで濃い黄金色の大きな塊を白い深皿に盛り付けたクローズアップ。表面はしっとりと艶があり、所々に軽い焼き色と気泡のテクスチャーが見える。割れた卵殻の断片をアート的に周囲に散らし、みじん切りのパセリと挽きたて黒胡椒をアクセントに添え、湯気が立ち上る瞬間を柔らかい自然光で捉える。高解像度、浅い被写界深度、温かい色調で食欲をそそる質感を強調し、家庭的で少しユニークな演出を加えたスタイリッシュな料理写真。",
+    "finished_at": "2025-09-07T06:13:06.565566"
+}
