@@ -1,0 +1,83 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            }
+        ]
+    ],
+    "job_id": "cf0cbc33-b91e-4d59-b673-4e6fb2472eb5",
+    "created_at": "2025-09-07T05:09:08.260874",
+    "estimated_duration": 47059,
+    "started_at": "2025-09-07T05:09:08.263154",
+    "title": "砂糖の山",
+    "comment": "砂糖だけで作る大胆な一品、見た目は宝石のようにキラキラ光って視覚的なインパクトがあります。甘さが圧倒的なので食べ過ぎにはくれぐれも注意してください、歯や血糖値が大騒ぎしますよ。ユーモアのあるジョークメニューとしても盛り上がる、想像力を刺激するユニークさが魅力です。",
+    "image_prompt": "白磁の小皿に盛られた山盛りの白いグラニュー糖が、朝のやわらかな陽光を受けて宝石のようにキラリと光るクローズアップ写真。粒々の一つ一つが繊細に描写され、スプーンが側面に寄せられて粒がすくわれる瞬間も見える。皿の縁や木製テーブルに落ちた粉の細かなテクスチャ、透明感ある結晶の反射、微かな影とハイライトで立体感を強調。背景は暖色の柔らかなボケ、浅い被写界深度で主題を際立たせ、フォトリアリスティックかつ高解像度(8K相当)の細密描写で粒子のキラメキと光沢を強調した美味しそうなイメージ。温かみのある自然光、わずかなフィルムグレインで質感を出し、見る人の想像力を刺激する構図。",
+    "finished_at": "2025-09-07T05:10:04.508881"
+}
