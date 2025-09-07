@@ -1,0 +1,151 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "ingredient",
+                "value": "油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "21f94b39-7c04-476c-a250-60d0ad2f1bc0",
+    "created_at": "2025-09-07T05:00:50.529947",
+    "estimated_duration": 43313,
+    "started_at": "2025-09-07T05:00:50.532789",
+    "title": "ブロッコリーと海老のチーズバターソテー",
+    "comment": "色と食感のコントラストが楽しい一皿で、野菜の鮮やかさと海老やベーコンの旨味がバランス良く楽しめます。チーズを炒める際は焦げやすいので火加減注意、香ばしさを出しつつ短時間で仕上げるのがコツです。卵とバターで全体がまろやかになるので、最後の塩こしょう油の調整で味を決めてください、いや待てよ、つまみ食い注意です！",
+    "image_prompt": "蒸したブロッコリーの鮮やかな緑の房が中心に盛られ、その周りにこんがり焼き目のついたズッキーニの輪切り、照りのあるしめじの炒め物、瑞々しいトマトの櫛切りが色彩豊かに配置される。香ばしくカリッとしたベーコンの短冊と、軽く焦げ目のついたプリッとした海老がアクセント。とろりと溶けた黄金色のチーズが一部に絡み、ふんわりバターで炒めた卵がやさしい黄色で全体をまとめる。仕上げに塩胡椒とオリーブオイルが軽くひと回しかかり、刻みパセリを散らして艶と香りをプラス。木目のテーブルに白い丸皿、自然光で温かみのある食欲をそそるクローズアップ写真。湯気や油の照り、食材の質感を丁寧に描写して美味しさを強調するように。",
+    "finished_at": "2025-09-07T05:01:34.321634"
+}
