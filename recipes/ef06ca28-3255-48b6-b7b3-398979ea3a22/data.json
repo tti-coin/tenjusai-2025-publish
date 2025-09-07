@@ -1,0 +1,93 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            },
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "ef06ca28-3255-48b6-b7b3-398979ea3a22",
+    "created_at": "2025-09-07T02:51:11.353907",
+    "estimated_duration": 47929,
+    "started_at": "2025-09-07T02:51:11.356097",
+    "title": "ベーコンときゅうりの中華麺",
+    "comment": "シンプルな塩と醤油の味付けで麺の旨味が素直に引き立つのが良いですね。カリッとしたベーコンとみずみずしいきゅうり、まろやかなうずら卵の組み合わせが食感と風味のコントラストを作ります。味付けはやや控えめにしてベーコンの塩気を活かすと失敗なし、あとベーコンが主役なので休ませずにさっと盛り付けるとさらに食欲をそそります。",
+    "image_prompt": "光沢のある湯切りした中華麺が浅めの和風の器に盛られ、薄く塩と醤油で和えられている。麺の上には縦長にカリッと焼いたベーコンのスライスが数枚大胆に重なり、隣に細切りにしたきゅうりの緑が鮮やかに並ぶ。うずら卵は半分に切られて黄身がややトロッと見え、器の中心近くに配置されている。光が麺の表面に反射して艶やかに見え、湯気がほんのり立ち上る温かい雰囲気。木製の箸が器にそっと寄り添い、クローズアップで食感や光沢が伝わるように、暖色の自然光で撮影された高解像度の食べ物写真。",
+    "finished_at": "2025-09-07T02:51:57.569279"
+}
