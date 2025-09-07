@@ -1,0 +1,183 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "あゆ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ]
+    ],
+    "job_id": "65ba3b12-dbf8-4447-9a1c-d701f7dbd1be",
+    "created_at": "2025-09-07T04:40:35.946819",
+    "estimated_duration": 48552,
+    "started_at": "2025-09-07T04:40:35.950193",
+    "title": "フルーツと卵のカオスボウル",
+    "comment": "色と食感のコントラストが目を引く、見た目のインパクト抜群な一皿です。腐った牛乳は食中毒のリスクがあるため、実際に作る場合は新鮮な牛乳や風味を加えた安全な代替品を使ってくださいね（安全第一の冒険を！）。ダチョウの卵の巨大さが笑いを誘う一方、温かい肉魚と冷たいフルーツの組み合わせはまるで味覚の遊園地、楽しむ心を忘れずにどうぞ。",
+    "image_prompt": "大きめの白い陶器のボウルに、輪切りのバナナ、房から外した緑のマスカット、甘いみかんの房、柔らかな桃の角切りが鮮やかに混ざり合っている。そこに冷たい牛乳がゆっくりとかけられ、表面に小さな気泡が残る。別盛りで艶のあるヨーグルトとふんわりした生クリームが白いおたま状にのり、黄色いバターの塊と薄く削ったチーズがトッピングとして散らされている。隣には小さな氷の皿にのせられたうずらの卵と、存在感のあるダチョウの卵のカット断面が静かに冷やされ、瓶詰めの変色した牛乳（古びたラベルで「腐った牛乳」と表記）が氷の上に置かれている。別の温かい鉄のスキレットにはジューシーなソーセージが焼かれ、縦に巻かれた生ハム、カリカリのベーコン、照りのある鮭の切り身、炭火風に焼けたあゆが湯気を立てて並んでいる。木目のテーブル、柔らかな自然光、浅い被写界深度で手前のフルーツと奥の温かい肉魚の対比が際立つ、美味しそうで少し奇想天外な料理の完成イメージを鮮明に描写してください。",
+    "finished_at": "2025-09-07T04:41:36.597868"
+}
