@@ -1,0 +1,67 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "へ"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "へ"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ]
+    ],
+    "job_id": "9a8544b0-1f3e-4091-bec0-68cd233949cd",
+    "created_at": "2025-09-07T02:59:42.202973",
+    "estimated_duration": 51399,
+    "started_at": "2025-09-07T02:59:42.205051",
+    "comment": "Expecting value: line 1 column 1 (char 0)\ncontent=",
+    "finished_at": "2025-09-07T03:00:08.609874"
+}
