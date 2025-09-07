@@ -1,0 +1,201 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "b344fb8a-cc9e-4cdc-acd3-8aca61f790f2",
+    "created_at": "2025-09-07T03:35:40.356511",
+    "estimated_duration": 45419,
+    "started_at": "2025-09-07T03:35:40.359911",
+    "title": "チキンとマッシュルームのオムライス",
+    "comment": "ケチャップでまとめたシンプルな味付けが誰にでも愛される一皿です。鶏肉とマッシュルームの旨味がごはんに染み込み、鶏肉は中までしっかり火を通すことで安心しておいしく楽しめます。卵はふんわり仕上げてケチャップでお絵かきするのは楽しいですが、かけすぎると甘くなるのでセンスと節度を忘れずに！",
+    "image_prompt": "温かいワンプレートに盛られたチキンとマッシュルームのオムライス。ケチャップで味付けされたごはんに、飴色に炒めたたまねぎ、にんじんの柔らかなオレンジ、薄切りマッシュルーム、程よく焼けた鶏肉が均一に混ざり合い、ふんわりとした黄金色の卵で優しく包まれている。卵の表面は少し光沢があり、切り口からはケチャップがほのかににじむ様子が見える。上から波状に鮮やかなケチャップをかけ、刻んだパセリを散らして彩りを添える。蒸気が立ち上り、柔らかな自然光が料理を照らしてツヤと温かさを強調するクローズアップの写実的な写真風。木目のテーブル、シルバーのフォークとナイフが添えられ、家庭の食卓らしい温もりと食欲をそそる雰囲気を演出する。",
+    "finished_at": "2025-09-07T03:36:24.477024"
+}
