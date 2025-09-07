@@ -1,0 +1,139 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ラディッシュ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "あゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "味噌"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ]
+    ],
+    "job_id": "1872a328-6651-4d5b-8efa-f48eb73261a5",
+    "created_at": "2025-09-07T01:22:25.474101",
+    "estimated_duration": 48921,
+    "started_at": "2025-09-07T01:22:25.476812",
+    "title": "和洋折衷 きゅうりとラディッシュの盛り合わせ",
+    "comment": "和洋の食材が一皿に収まったユニークで視覚的に楽しい一品です。バターのコクと蒸し味噌の香り、冷たいレタスのコントラストが意外と好相性で、食べる前からワクワクします。調理では鮭やあゆの下処理とのりやじゃがいもの加熱具合に注意してください（とろけるじゃがいもは熱いのでやけどにご注意を！）。",
+    "image_prompt": "白い陶器のリムプレートに、バターを薄く塗ったきゅうりのスライスを扇状に美しく並べ、隣に艶のある煮ラディッシュを丸ごとまたは半球で配置。冷やしたサニーレタスの鮮やかな緑が瑞々しく、皮をむいてほぐしたサケの淡いピンクが中央に盛られている。香ばしいあゆを軽く振りかけたかのような演出を加え、なめらかに溶けたじゃがいものクリーミーな渦が一角に寄り添う。蒸した味噌の湯気と光沢が立ち上り、ゆでたのりの艶と糸状のテクスチャーがアクセントになる。レモンのくし切りや白ごまを散らし、木目のテーブルに置かれたナチュラルなセッティング。柔らかいサイドライティング、浅い被写界深度、45度上からのクローズアップで質感と湯気を強調した美味しそうな料理写真に仕上げる。",
+    "finished_at": "2025-09-07T01:23:14.178257"
+}
