@@ -1,0 +1,115 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "だいこん"
+            },
+            {
+                "type": "ingredient",
+                "value": "だいこん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            }
+        ]
+    ],
+    "job_id": "3dddde55-bf62-46c8-9400-5f1b0bda2539",
+    "created_at": "2025-09-07T06:06:47.952835",
+    "estimated_duration": 52696,
+    "started_at": "2025-09-07T06:06:47.955325",
+    "title": "焼き野菜と蒸し玉ねぎの盛り合わせ",
+    "comment": "色とりどりの野菜が一度に楽しめるヘルシーな一品です。焼き目のついた大根やなすの旨みと、蒸した玉ねぎの甘みがうまく調和します。野菜たちが主役すぎて会話が止まりそうですが、ぜひ笑顔で頬張ってくださいね。",
+    "image_prompt": "焼き目のついたほうれん草と厚めにスライスして香ばしく焼いた大根、シャキッとしたもやしを混ぜたグリル野菜の盛り合わせ。皿の中心にはたっぷりの焼きなすが並び、とろりとした皮の艶と焦げ目が食欲をそそる。蒸して透き通った層が美しい丸ごとのたまねぎが一つ、湯気を立てて柔らかく甘い表情を見せる。仕上げにごま、刻みねぎ、軽い醤油ベースの照りだれを上からさっとかけ、オリーブオイルの光と柑橘の皮の小さな飾りを添える。木製のテーブルに和洋折衷の白い楕円皿で盛り付け、自然光のやわらかなサイドライティングで野菜の質感と湯気を際立たせたクローズアップ写真。",
+    "finished_at": "2025-09-07T06:07:34.061221"
+}
