@@ -1,0 +1,161 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "f2d19f10-c79b-4197-b5b3-095f650568de",
+    "created_at": "2025-09-07T03:40:37.245521",
+    "estimated_duration": 43852,
+    "started_at": "2025-09-07T03:40:37.248124",
+    "title": "たらこ乗せ海鮮中華麺",
+    "comment": "海の幸と卵が中華麺の上で豪華に共演する一皿です。えびの香ばしい衣とたこのプリッとした歯ごたえ、たらこの塩気が卵のまろやかさとよく合い、食感のコントラストが楽しいです。えびは油をよく切って麺がべちゃつかないようにし、たこにかける醤油は少なめにして素材の旨味を活かしてください。",
+    "image_prompt": "白い深めの丼に盛られた熱々の中華麺を斜め上からクローズアップしたフォトリアルな写真イメージ。艶のある中華麺の上に薄切りにしたゆで卵が整然と並び、隣には衣がカリッと揚がった黄金色のえび天がのっている。反対側には薄切りのゆでたこが並び、そこに醤油がほんのりと光沢を与えている。中央には鮮やかなオレンジ色のたらこの塊がアクセントとして乗せられ、全体に小口切りの青ねぎと白ごまを軽く散らしてある。湯気が立ち上る温かさと、自然光の柔らかなハイライトで質感を際立たせ、背景はややボケさせて料理に焦点を合わせる。高解像度でリアルな質感、食欲をそそる色合いと細部の描写を重視。",
+    "finished_at": "2025-09-07T03:41:26.489951"
+}
