@@ -1,0 +1,149 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "43d25bd1-0d71-4171-b9a7-4940362b609f",
+    "created_at": "2025-09-07T02:57:19.165117",
+    "estimated_duration": 53112,
+    "started_at": "2025-09-07T02:57:19.167992",
+    "title": "レモンマヨ牛肉の蒸しパン",
+    "comment": "蒸しパンのふかふか感とレモンマヨの爽やかな酸味が合わさり、軽やかに食べられる一品です。粗くつぶした牛肉をこんがり焼いて甘辛い醤油だれを絡めることでワイルドな旨味が生まれ、思わずかぶりつきたくなる力強さがあります（手は少し汚れるかも、でもそれも美味しさの証！）。蒸気でパンがしっとりしやすいので、包む直前にレタスをのせるなどして水分調節すると、見た目も食感もさらに良くなります。",
+    "image_prompt": "蒸してふかふかになった白いパンを半分に割り、内側にレモン風味のマヨネーズが艶よく塗られている様子。ざっくりちぎったシャキシャキの緑色レタスが厚くのり、その上に粗めにつぶして味付けし香ばしく焼いた牛肉の塊がゴロゴロと重なる。牛肉には照りのある醤油と砂糖の甘辛い照りだれがたっぷり絡み、表面に美しい光沢とところどころの焼き色、肉汁の潤いが見える。蒸気が立ち上る温かい断面のクローズアップで、柔らかなパンの気泡、シャキッとしたレタス、ジューシーな牛肉のコントラストを強調する構図。木製の皿に載せ、レモンのくし切りと黒胡椒の挽き、白い布ナプキンを添えたナチュラルな食卓シーン。高解像度、自然光、浅い被写界深度で美味しそうに撮影されたフードフォトのスタイルで。",
+    "finished_at": "2025-09-07T02:58:04.732563"
+}
