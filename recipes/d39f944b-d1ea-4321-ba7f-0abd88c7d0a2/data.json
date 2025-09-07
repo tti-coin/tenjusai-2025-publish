@@ -1,0 +1,135 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たけのこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "d39f944b-d1ea-4321-ba7f-0abd88c7d0a2",
+    "created_at": "2025-09-07T04:45:01.103095",
+    "estimated_duration": 47951,
+    "started_at": "2025-09-07T04:45:01.105778",
+    "title": "ダブルビーフ包みうなぎの冷製ミルクソース丼",
+    "comment": "とても独創的で攻めた組み合わせが光る一皿です。冷たいミルクのアクセントと濃厚なマヨポンケチャップソースが、うなぎと牛の旨味を予想外に調和させます。ただし味のバランスと食品の扱い（特にうなぎの加熱状態や冷凍した牛乳の解凍）は注意してください、冒険は美味しく安全に！",
+    "image_prompt": "大きめの白い陶器の丼にふっくら炊いた白米を盛り、中央に香ばしく照りのある蒲焼き風のうなぎを一本ふんわり載せる。うなぎの上には細くすりおろしたみずなとたけのこが淡い緑と薄黄色の糸状で彩りを添え、周囲には「牛肉を牛肉で包んで軽くソテーした」褐色のミニロールが幾つか並ぶ。表面には光沢のあるピンクオレンジのソース（マヨネーズと酢、ポン酢、ケチャップを混ぜたもの）が薄く塗られ、その上に白く凍らせた牛乳の小さなキューブや粉雪のように砕いた冷製ミルク片がところどころに散りばめられている。米粒の艶、うなぎの照り、牛肉の焼き目、みずなの瑞々しさが伝わるよう、クローズアップの45度アングル、浅い被写界深度で背景は暖かい木目のテーブル、自然光とソフトなフィルライトで非常に食欲をそそる写実的・高解像度のフードフォトを目指す。箸、胡麻、刻み海苔をさりげなく配して完成感を演出すること。",
+    "finished_at": "2025-09-07T04:45:55.352177"
+}
