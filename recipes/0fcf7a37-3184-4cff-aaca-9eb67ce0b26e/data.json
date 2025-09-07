@@ -1,0 +1,103 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "かぼちゃ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ]
+    ],
+    "job_id": "0fcf7a37-3184-4cff-aaca-9eb67ce0b26e",
+    "created_at": "2025-09-07T04:41:30.444753",
+    "estimated_duration": 47840,
+    "started_at": "2025-09-07T04:41:30.447164",
+    "title": "彩り野菜の味噌煮",
+    "comment": "色とりどりの野菜がそろい、食感の違いが楽しい家庭的なおかずです。きゅうりともやしは火が通りやすいので、加熱時間を短めにしてシャキ感を残すとベター。味噌の香りが食欲をそそり、食卓で「きゅうりも湯気にびっくり！」と笑いが起こるかもしれません。",
+    "image_prompt": "湯気が立ち上る深い陶器の器に盛られた家庭料理の一皿。ざく切りのキャベツと薄切りのきゅうり、短冊状のにんじん、ひと口大のかぼちゃ、スライスしたしいたけ、しゃきっとしたもやしとほっくりしたじゃがいもが、やや照りのある淡い茶色の味噌だれで優しく和えられている。野菜それぞれの緑・橙・黄色・茶のコントラストが鮮やかで、表面にはごまがふられ、刻みねぎが散らされている。木のテーブルに置かれ、柔らかな自然光が斜めから当たるクローズアップ、浅い被写界深度で食欲をそそる質感と湯気を強調した高解像度の美味しそうな料理写真。",
+    "finished_at": "2025-09-07T04:42:13.534708"
+}
