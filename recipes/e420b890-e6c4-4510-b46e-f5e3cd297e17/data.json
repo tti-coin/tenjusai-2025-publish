@@ -1,0 +1,109 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "へ"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "e420b890-e6c4-4510-b46e-f5e3cd297e17",
+    "created_at": "2025-09-07T04:53:10.378109",
+    "estimated_duration": 44738,
+    "started_at": "2025-09-07T04:53:10.380815",
+    "title": "ピーマンとソーセージのチーズトースト",
+    "comment": "シンプルな材料で手早く作れる万能トースト、朝食やおやつにぴったりです。ピーマンの爽やかな食感とソーセージの旨味がとろけたチーズとケチャップで見事にまとまっています。パンが湿らないように具材はほどほどに、でも焦げ目は“ご褒美”なのでほどよく楽しんでください。",
+    "image_prompt": "カリッと焼き上げられた厚切りトーストの上に、艶のあるケチャップが薄く塗られ、その上に鮮やかな緑のスライスしたピーマンと輪切りのジューシーなソーセージ、そしてとろりと溶けて泡立つゴールデンブラウンのチーズがたっぷりのった一枚のトースト。チーズはとろけて糸を引き、ピーマンのシャキッとした食感とソーセージの香ばしい焼き色が対比を成している。湯気が立ち上り、端にはこんがり焦げ目、木製のカッティングボードと白い陶器の皿に乗せられ、自然光で暖かく照らされたフォトリアルなクローズアップ。背景は柔らかいボケでキッチンの雰囲気がほのかに見え、食欲をそそる高解像度の朝食イメージに仕上げてください。",
+    "finished_at": "2025-09-07T04:53:50.808142"
+}
