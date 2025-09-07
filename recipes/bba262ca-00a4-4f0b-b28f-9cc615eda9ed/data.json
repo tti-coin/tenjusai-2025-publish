@@ -1,0 +1,89 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "たら"
+            },
+            {
+                "type": "ingredient",
+                "value": "たい"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "bba262ca-00a4-4f0b-b28f-9cc615eda9ed",
+    "created_at": "2025-09-07T05:53:55.017888",
+    "estimated_duration": 46919,
+    "started_at": "2025-09-07T05:53:55.020123",
+    "title": "海鮮炙り焼きごはん",
+    "comment": "海の幸が勢ぞろいして見た目も味も豪華、ひと口で旨味の大洪水が来ます。食材を一口大に揃えて炙ることで香ばしさと食感のコントラストが楽しめます。注意点は火の通しすぎと甲殻類アレルギーの管理、でも大丈夫、笑顔と箸が止まらない一皿になりますよ！",
+    "image_prompt": "多種類の海の幸を大胆に盛り付けた海鮮炙り焼きごはんのクローズアップ。まぐろ、さけ、たら、たい、さば、あじ、さんま、うなぎ、たこ、いか、えび、かに、ほたてを薄切りや一口大に切り分け、香ばしく炙って表面に軽い焦げ目をつけたものが、こんがり焼いた飴色の焼きごはんの上に美しく並ぶ。ごはんは部分的にカリッとした焼き目があり、バターと醤油ベースの照りが食欲をそそる。刻み海苔、白ごま、青ねぎの小口切り、レモンのくし切り、少量の山葵や柚子胡椒が添えられ、湯気が立ち上る温かさが伝わる。木の器または鉄板風のプレートに盛り、木の箸が横に置かれたシズル感のある構図。自然光を意識した柔らかい方向光、浅い被写界深度で手前の海鮮とごはんにピントを合わせた写実的で美味しそうなフードフォト。",
+    "finished_at": "2025-09-07T05:54:43.520032"
+}
