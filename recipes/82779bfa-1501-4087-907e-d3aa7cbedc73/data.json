@@ -1,0 +1,123 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            },
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "82779bfa-1501-4087-907e-d3aa7cbedc73",
+    "created_at": "2025-09-07T06:39:06.377915",
+    "estimated_duration": 48861,
+    "started_at": "2025-09-07T06:39:06.380858",
+    "title": "キウイ香るアボカドとほたての海苔包み",
+    "comment": "意外性のある素材の組み合わせが映える冒険的な一品で、見た目のインパクトは抜群です。アボカドを煮ることでとろける食感になり、キウイの爽やかな酸味がアクセントになりますが、酸味は控えめにして全体のバランスを取ると安心です。冷凍えのきやほたての扱いは食感と鮮度に直結するので注意して調理し、愛情はたっぷりかけてください（多め推奨）。",
+    "image_prompt": "黒くツヤのある海苔で包んだ手のひらサイズの握りをクローズアップ。レンチンしてオリーブオイルを回しかけた艶やかな白ごはんの断面から、煮て柔らかくなったアボカドの淡い緑、すりおろしたキウイの鮮やかな黄緑のソースが滲み出し、ビーフジャーキーの濃い褐色の繊維としっとりしたほたての丸みのある身が層になって覗く。冷凍えのきの薄い霜が残り、溶ける瞬間の水滴と湯気が食感のコントラストを示す。ごまを散らし、醤油の小皿とレモンまたは柑橘のスライスを添えた温かい木目の皿に盛り、柔らかい自然光と浅い被写界深度で鮮やかに、かつ美味しそうに撮影された高解像度の料理写真を想定。色のコントラストとテクスチャーの違いを強調し、食欲をそそるディテールを多めに描写する。",
+    "finished_at": "2025-09-07T06:39:55.324197"
+}
