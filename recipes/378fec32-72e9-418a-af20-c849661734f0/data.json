@@ -1,0 +1,357 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "378fec32-72e9-418a-af20-c849661734f0",
+    "created_at": "2025-09-07T06:16:10.496729",
+    "estimated_duration": 50965,
+    "started_at": "2025-09-07T06:16:10.501933",
+    "title": "生クリームとバターの濃厚プレート",
+    "comment": "Error: Error code: 400 - {'error': {'message': 'Your request was rejected as a result of our safety system. Image descriptions generated from your prompt may contain text that is not allowed by our safety system. If you believe this was done in error, your request may succeed if retried, or by adjusting your prompt.', 'type': 'image_generation_user_error', 'param': None, 'code': 'content_policy_violation'}}",
+    "image_prompt": "滑らかで厚く塗られた純白の生クリームが大きな白い陶器プレート全体を覆い、その上に黄金色に光るバターの塊がいくつも盛られているクローズアップ。生クリームはふんわりした波模様と艶を持ち、バターは光沢とわずかな溶け始めの縁がありコクを想起させる。背景は木目のテーブルと柔らかい自然光、浅い被写界深度で前景にフォーカスしたスタジオ風の美味しそうな食感表現。高解像度、リアルな質感、温かみのある色調で、濃厚さと贅沢さを強調した料理写真。",
+    "finished_at": "2025-09-07T06:16:37.351306"
+}
