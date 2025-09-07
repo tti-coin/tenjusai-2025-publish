@@ -1,0 +1,137 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "そうめん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "9fd70521-a58a-4c24-ba07-2a3eee7f28c1",
+    "created_at": "2025-09-07T02:42:03.744727",
+    "estimated_duration": 47681,
+    "started_at": "2025-09-07T02:42:03.747222",
+    "title": "キャベツとフルーツのパンヌードル",
+    "comment": "色とりどりの野菜と果実、卵とバターのリッチな光沢が写真映えする一皿です。茹で野菜のやさしい食感と、潰した柑橘とベリーの甘酸っぱさが意外と好相性で驚きのハーモニーを生みます。卵は加熱の程度に注意して、果物の酸味でパンが柔らかくなりすぎないよう早めに召し上がれ—朝食とデザートが同居する楽しい実験料理です。",
+    "image_prompt": "湯気が立ちのぼる一皿のクローズアップ。茹でたキャベツ、レタス、白菜をざく切りにしてやわらかく盛り、横に薄切りのパンの上に潰したみかんとオレンジの果肉、潰したいちごとブルーベリーの鮮やかなソースをたっぷりのせる。バターが溶けて照りを出し、半熟の卵を割ってとろりと黄身が流れる様子が中心にある。中華麺とそうめんを短く切ってパンの脇に添え、野菜の緑、フルーツの赤橙、卵の黄色、麺の淡い色合いが対比する鮮やかな配色に仕上げる。木製のテーブル、自然光の柔らかい陰影、食欲をそそる光沢と質感を重視した高解像度の美味しそうな料理写真を想定。",
+    "finished_at": "2025-09-07T02:42:48.019891"
+}
