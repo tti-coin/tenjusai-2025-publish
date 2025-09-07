@@ -1,0 +1,47 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ]
+    ],
+    "job_id": "41b48ff4-e90a-4db0-9f7a-38baf8273b9c",
+    "created_at": "2025-09-07T02:31:07.877800",
+    "estimated_duration": 53733,
+    "started_at": "2025-09-07T02:31:07.879344",
+    "comment": "Expecting value: line 1 column 1 (char 0)\ncontent=",
+    "finished_at": "2025-09-07T02:31:34.557362"
+}
