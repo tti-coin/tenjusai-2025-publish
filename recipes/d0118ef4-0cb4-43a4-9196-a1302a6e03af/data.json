@@ -1,0 +1,135 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "ingredient",
+                "value": "油"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            }
+        ]
+    ],
+    "job_id": "d0118ef4-0cb4-43a4-9196-a1302a6e03af",
+    "created_at": "2025-09-07T01:28:03.851748",
+    "estimated_duration": 48715,
+    "started_at": "2025-09-07T01:28:03.854653",
+    "title": "コチュジャン豚のピリ辛中華麺",
+    "comment": "コチュジャンと香味油の組み合わせで旨みと辛味がしっかり効いた一皿、家庭的で満足感があります。唐辛子の量はお好みで調整を、辛党にはたまらない仕上がりです。愛情をたっぷり注いだら味も倍増、作るときは豚肉の火通りとソースの乳化を忘れずに！",
+    "image_prompt": "熱々の中華丼に盛られた一人前のピリ辛麺。もちっとした中華麺が湯気を上げて中央に盛られ、その上にコチュジャンと香味油を混ぜて作った光沢のある赤褐色のソースが艶やかに絡んでいる。そばには茹でたもやしと薄く茹でた白菜がシャキっと並び、茹でた豚肉は程よく焼き目がついてジューシー。唐辛子の赤い粒や白ごま、刻み青ねぎが散らされ、仕上げにごま油の薄い膜が光る。温かい湯気、テクスチャーの対比（もちもち麺×シャキ野菜×ほろほろ豚）、鮮やかな赤と緑のコントラストが食欲をそそるクローズアップ写真。木製のテーブルにのせ、柔らかい自然光で撮影された家庭的で温もりのある雰囲気を強調して下さい。愛情たっぷりに混ぜられたソースが麺にしっかり絡んでいるのが伝わるように、液面の艶と湯気をリアルに描写してください。",
+    "finished_at": "2025-09-07T01:28:40.650948"
+}
