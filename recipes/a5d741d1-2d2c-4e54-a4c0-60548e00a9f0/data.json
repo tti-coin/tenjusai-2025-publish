@@ -1,0 +1,131 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "a5d741d1-2d2c-4e54-a4c0-60548e00a9f0",
+    "created_at": "2025-09-07T05:07:05.692831",
+    "estimated_duration": 45519,
+    "started_at": "2025-09-07T05:07:05.695744",
+    "title": "フルーツすりおろしの生クリームトースト",
+    "comment": "色とりどりのフルーツが一度に楽しめる見た目抜群の一品です。すりおろした果汁が多いのでパンが湿りやすく、塗る生クリームの量や盛り付けのタイミングに気を付けると美味しさが長持ちします。ビタミン満点で朝のテンションも急上昇、食べる前に写真を撮るのを忘れないでくださいね！（指がベタベタになるのはご愛嬌）",
+    "image_prompt": "焼き色のついた厚切りトーストの上に、ふんわりと立てた生クリームを厚く塗り、その上にりんご、オレンジ、いちご、みかん、マスカット、もも、ブルーベリー、メロン、ぶどう、パイナップル、さくらんぼをすりおろしてピューレ状にしたフルーツをたっぷり盛り付けたクローズアップ。すりおろした果肉の粒感や混ざり合った色のグラデーション、果汁の小さな光沢が見えるように描写し、クリームのツヤとパンの香ばしい端の質感が対比する構図。明るい自然光で温かみのある朝食の雰囲気に仕上げ、浅い被写界深度で中央の盛り付けに焦点を合わせ、周囲はやわらかくボケるように。フレッシュでジューシー、少しとろりとした質感が伝わるように細部のテクスチャーを丁寧に表現する。",
+    "finished_at": "2025-09-07T05:08:06.027884"
+}
