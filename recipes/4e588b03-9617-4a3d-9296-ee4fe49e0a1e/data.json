@@ -1,0 +1,155 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "バルサミコ酢"
+            },
+            {
+                "type": "particle",
+                "value": "より"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "の"
+            },
+            {
+                "type": "particle",
+                "value": "が"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "まで"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "油"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "particle",
+                "value": "も"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "4e588b03-9617-4a3d-9296-ee4fe49e0a1e",
+    "created_at": "2025-09-07T03:04:35.688435",
+    "estimated_duration": 48876,
+    "started_at": "2025-09-07T03:04:35.691306",
+    "title": "ねばねばピリ辛納豆ソース",
+    "comment": "コチュジャンと味噌、カレー粉の組み合わせが意外に深い旨みとピリ辛感を生んでいて挑戦的で良いです。なっとうをたっぷり混ぜることで粘りとコクが出て、ご飯に合う食べ応えがあります。食べるときは粘りが長く伸びるので、箸さばきは大胆に――でも服に飛ばさないよう気を付けてくださいね（笑）。",
+    "image_prompt": "蒸した白ご飯の上にたっぷり盛られた、光沢のあるねばねば納豆ミックスをクローズアップで描写。納豆の豆がしっかり見え、箸で引き上げると長く伸びる粘りの糸がダイナミックに描かれる。ソースはコチュジャンの赤褐色と味噌の深い茶色、カレー粉の黄色が混ざり合い、表面に光る油の粒が照りを生む。全体に白ごま、刻みねぎ、焼きのりの細切りを散らし、温かい湯気が立ち上る様子をやわらかい自然光で撮影したような暖かい雰囲気に。木製の器と箸、背景はシンプルな和風テクスチャで、食欲をそそるテクスチャと色彩のコントラストを強調して。",
+    "finished_at": "2025-09-07T03:05:43.937179"
+}
