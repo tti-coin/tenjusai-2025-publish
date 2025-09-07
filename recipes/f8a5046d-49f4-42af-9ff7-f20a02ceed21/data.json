@@ -1,0 +1,223 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "味噌"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はるさめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "f8a5046d-49f4-42af-9ff7-f20a02ceed21",
+    "created_at": "2025-09-07T05:04:43.963922",
+    "estimated_duration": 43616,
+    "started_at": "2025-09-07T05:04:43.967286",
+    "title": "さばとチーズの異種融合プレート",
+    "comment": "脂の乗ったさばととろけたチーズ、揚げチーズの香ばしさが合わさって味の厚みが面白いです。食感の対比（シャリシャリの冷凍ズッキーニ、もちっとしたはるさめ、カリッとした揚げチーズ）がアクセントになっていて冒険心をくすぐります。見た目の奇抜さも魅力的ですが、本当に作るなら勇気が試される一皿、観賞用にも向いています。",
+    "image_prompt": "大皿の中心に割いたさばの身が扇状に並び、表面に軽く焼き目がついて脂の光沢がある。湯で柔らかくしたチーズのとろりとした断面と、衣で揚げて香ばしく焦げ目がついたチーズの黄金色の塊を散らす。冷凍ズッキーニは白い霜が残る薄切りでシャリシャリ感を演出し、温めた春菊は緑色が濃くやわらかくしんなりしている。味噌は盛り付け用に小さな山状に整え、別に切った味噌の角切りをアクセントに配置。オクラは細かく刻んでとろりとしたソース状に注がれ、レンジで温めてツヤの出たマヨネーズがところどころに艶を添える。はるさめは透明感を残して軽く混ぜ込み、最後に乳白色でやや濁った液体（注がれた腐った牛乳の表現）がお皿の縁にゆっくり注がれ、ところどころに凝固した塊が浮いている。木製のテーブル、柔らかな自然光、クローズアップで質感と温度差、カリッとした揚げ物ととろりとしたチーズ、シャリシャリの冷凍ズッキーニの対比が伝わる写実的で高解像度な写真風の構図。",
+    "finished_at": "2025-09-07T05:05:36.641582"
+}
