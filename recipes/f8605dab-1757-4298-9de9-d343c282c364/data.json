@@ -1,0 +1,89 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たら"
+            },
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "たい"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "f8605dab-1757-4298-9de9-d343c282c364",
+    "created_at": "2025-09-07T05:56:51.695771",
+    "estimated_duration": 54036,
+    "started_at": "2025-09-07T05:56:51.697998",
+    "title": "海鮮盛り握り寿司",
+    "comment": "13種の魚介を一度に味わえる豪華さが圧巻で、見た目のインパクトは抜群です。生もの中心なので鮮度管理が肝心、特にうなぎやカニは通常火を通す食材なので取扱いに注意してください。握りの固さと切り方で食感が変わるので、包丁と手の動きに愛情を込めてどうぞ。",
+    "image_prompt": "白く光る酢飯を丁寧に握り、たら、まぐろ、さけ、たい、さば、あじ、さんま、かに、えび、いか、たこ、うなぎ、ほたての切り身をそれぞれ鮮やかにのせた豪華な握り寿司の盛り合わせ。木製の長皿に整然と並び、ネタは艶やかな赤・橙・白・ピンク・淡い茶色のグラデーションを描く。表面にはうっすらとした照りと水滴のような光沢、しそや薄切りレモン、練りわさびと生姜が控えめに添えられ、醤油の小皿と箸が脇に配置されている。ナチュラルな間接光で温かみを出し、浅い被写界深度で一部を強調したフォトリアリスティックなクローズアップ。質感の細部（魚のサシ、米粒の艶、貝の繊維）まで鮮明に表現された美味しそうなビジュアルを目指す。",
+    "finished_at": "2025-09-07T05:57:37.877082"
+}
