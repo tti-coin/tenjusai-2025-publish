@@ -1,0 +1,233 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "ingredient",
+                "value": "ながいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "まいたけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "ingredient",
+                "value": "うどん"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "ingredient",
+                "value": "そば"
+            },
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "ingredient",
+                "value": "きしめん"
+            },
+            {
+                "type": "ingredient",
+                "value": "オートミール"
+            },
+            {
+                "type": "ingredient",
+                "value": "米粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "ingredient",
+                "value": "ビーフン"
+            },
+            {
+                "type": "ingredient",
+                "value": "はるさめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "そうめん"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "ingredient",
+                "value": "わかめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            }
+        ]
+    ],
+    "job_id": "5e0ef611-ffd1-47e9-9641-60689988d444",
+    "created_at": "2025-09-07T01:37:20.595799",
+    "estimated_duration": 45457,
+    "started_at": "2025-09-07T01:37:20.599076",
+    "title": "メガベジ・ミックスボウル",
+    "comment": "野菜とキノコ、根菜がたっぷりで栄養満点、見た目のカラフルさが食欲をそそります。納豆やピーナッツなど香りやアレルギーに注意しつつ、塩分と油は控えめにするとバランスが良くなります。愛情をたっぷり加えれば、この“食材のごった煮”も立派なごちそうになりますよ、驚きと笑いを添えてどうぞ。",
+    "image_prompt": "大きな陶器のボウルに盛られたメガベジ・ミックスボウル。底には白いごはんと太めの麺がわずかに混ざったしっとりしたベース、その上に緑鮮やかなキャベツ、レタス、サニーレタス、春菊、水菜、ほうれん草、茄子のこんがり焼き目、玉ねぎと人参のソテー、じゃがいもとさつまいものローストが彩りよく重なる。さやいんげん、オクラ、アスパラ、枝豆などの鮮やかな野菜と、椎茸、しめじ、まいたけ、エノキ、マッシュルーム、きくらげの艶やかなキノコ群が食感のコントラストを作る。絹ごし豆腐の角切りと糸を引く納豆、刻み海苔、わかめや昆布の緑、鰹節のふわりとしたトッピング、砕いたピーナッツと輪切り唐辛子がアクセント。醤油ベースの照りとごま油の光沢で全体が艶やかにまとまり、湯気が立ち上る温かさと家庭的なボリュームを感じさせる。上から45度の自然光で撮ったクローズアップ、木のテーブルと箸置きがある食卓シーンで、美味しそうに見えるように仕上げてください。",
+    "finished_at": "2025-09-07T01:38:21.929075"
+}
