@@ -1,0 +1,97 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "600aaff8-66dc-4d17-9c9c-fb333ba791ff",
+    "created_at": "2025-09-07T04:07:52.620256",
+    "estimated_duration": 43899,
+    "started_at": "2025-09-07T04:07:52.622767",
+    "title": "愛情揚げライス",
+    "comment": "工程がユニークで遊び心があり、見た目にも温かさが伝わる一品です。煮てから揚げて塗ることで香ばしさと照りのあるソース感が出て、食欲をそそります。唐辛子は辛さの要なので加減して、食べる人のハートも燃え上がらせすぎないようご注意を。",
+    "image_prompt": "白い陶器の丼に盛られたふっくら白ごはんの上に、ハート型や小判型の黄金色に揚がった“愛情”のフリッターが数個載っているクローズアップ。揚げた表面はカリッとしたテクスチャーで、上から照りのある赤茶色の愛情ソースがヘラでたっぷりと塗られ、艶やかに光る。刻んだ赤い唐辛子がアクセントとして散らされ、緑の刻みねぎと白ごまが彩りを添える。湯気がほのかに立ち上り、木製のテーブルと柔らかい自然光の下で温かさと家庭的な雰囲気を演出。トップダウン気味の角度で浅い被写界深度、質感と光沢を強調し、美味しそうで愛情が詰まった一皿に見えるように描写してください。",
+    "finished_at": "2025-09-07T04:08:31.961581"
+}
