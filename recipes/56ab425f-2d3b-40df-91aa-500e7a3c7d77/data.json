@@ -1,0 +1,157 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "56ab425f-2d3b-40df-91aa-500e7a3c7d77",
+    "created_at": "2025-09-07T04:23:31.162275",
+    "estimated_duration": 45907,
+    "started_at": "2025-09-07T04:23:31.165007",
+    "title": "焼き鶏とたまごのせごはん",
+    "comment": "シンプルながら満足度の高い一杯で、焼いた鶏の香ばしさと玉ねぎの甘み、卵のコクがごはんに合います。卵の焼き加減で印象が大きく変わるので、トロッと派かしっかり派か好みで調整して楽しんでください。のりは最後にのせると風味が立って良いですが、飛ばさないように注意を—食卓の小さなコントもお忘れなく。",
+    "image_prompt": "大きめの白い陶器の丼に盛られた蒸したごはんの上に、こんがり焼かれた鶏もも肉のスライスが並び、淡く飴色に炒めた玉ねぎが鶏の周りに寄り添っている。黄身がとろりと光る焼き卵が中央にのり、割れた黄身がごはんにじんわり染み出す瞬間を強調。ちぎった黒いのりが全体に散らされ、万能ねぎの小口切りと白ごまが彩りを添える。表面の照りは薄口醤油とみりんを絡めたタレの艶、湯気が立ち上る温かさ、木のテーブルと箸を添えた日本の家庭料理の雰囲気で、クローズアップの45度アングル、自然光で柔らかく美味しそうに見える描写。",
+    "finished_at": "2025-09-07T04:24:10.350809"
+}
