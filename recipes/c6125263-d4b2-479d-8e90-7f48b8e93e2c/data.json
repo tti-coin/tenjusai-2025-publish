@@ -1,0 +1,99 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "まいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ]
+    ],
+    "job_id": "c6125263-d4b2-479d-8e90-7f48b8e93e2c",
+    "created_at": "2025-09-07T05:29:48.453349",
+    "estimated_duration": 50280,
+    "started_at": "2025-09-07T05:29:48.456037",
+    "title": "豚と白菜とまいたけのポン酢炒め",
+    "comment": "白菜の甘みとまいたけの香ばしさ、豚肉の旨味をポン酢のさっぱりした酸味がうまくまとめています。短時間で作れて栄養バランスも良く、忙しい日の一皿にぴったりです。ポン酢の塩分があるので味見をしながら調整しないと箸が止まらなくなりますよ（笑）。",
+    "image_prompt": "和風の家庭料理、白い大皿に盛られた豚と白菜とまいたけのポン酢炒め。しゃきっとした白菜の薄緑と白、香ばしく焼けたまいたけの褐色、程よく焼き色のついた薄切り豚肉が美しく混ざり合い、全体にポン酢の透明な照りが出ている。湯気が立ち上り、刻みねぎと白ごまが散らされて彩りと食感を添えている。木製のテーブルに置かれ、和風の淡い背景と自然光で温かみのある雰囲気、低めのクローズアップアングルで皿全体の質感と光沢、油の艶やポン酢の滴りがリアルに伝わる構図。食欲をそそるリアルな質感と家庭的な温かさを強調したビジュアル描写。",
+    "finished_at": "2025-09-07T05:30:34.839813"
+}
