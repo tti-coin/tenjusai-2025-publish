@@ -1,0 +1,253 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にら"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "ingredient",
+                "value": "スプラウト"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "ながいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "ingredient",
+                "value": "まいたけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "ingredient",
+                "value": "かぼちゃ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごぼう"
+            },
+            {
+                "type": "ingredient",
+                "value": "みょうが"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "だいこん"
+            },
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "ingredient",
+                "value": "れんこん"
+            }
+        ]
+    ],
+    "job_id": "269862b0-c418-4822-82fd-95d2592283a3",
+    "created_at": "2025-09-07T05:59:48.829871",
+    "estimated_duration": 52443,
+    "started_at": "2025-09-07T05:59:48.833584",
+    "title": "彩り野菜のパレットサラダ",
+    "comment": "こんなにたくさんの野菜が一皿に集まるのは見た目も栄養も大勝利です。ゴーヤや春菊の個性的な風味が効いているので、ドレッシングは控えめにして素材を生かすのがコツです。盛り付けは大胆に、まるで家庭菜園を一度に頬張るような豪快さを楽しんでください。",
+    "image_prompt": "白い大きな陶器のプレートに盛られた、色とりどりの野菜のパレットサラダ。薄く千切りにしたキャベツ、レタス、サニーレタス、白菜のふんわりベッドの上に、冷やしたチンゲン菜、ちぎったみずな、振ったこまつな、つぶしたほうれん草をアクセントに配置。すりおろした春菊が繊細に散りばめられ、オクラ、アスパラ、さやいんげん、枝豆、ブロッコリー、ロマネスコ、芽キャベツなどの緑が層を作る。ローストしたなすとほくほくのかぼちゃ、こんがり焼いたまいたけ・えのき、薄切りにしてカリッと仕上げたごぼうとれんこんチップ、シャキッとしたきゅうりと瑞々しいトマトが色のコントラストを生む。長ねぎ・青ねぎ・にら・しそ・みょうがが薬味として散らされ、にんにくチップとごまが香ばしい仕上げ。ながいもやだいこんのスライス、きくらげの食感も加わり、多様なテクスチャーが楽しめる。薄くかけられた和風の醤油ベースのドレッシングとごま油の艶が全体をまとめ、木目のテーブル上で自然光に照らされた45度の角度・高解像度のクローズアップで、鮮やかな色彩と素材の質感がリアルに伝わるよう描写してください。",
+    "finished_at": "2025-09-07T06:01:15.167841"
+}
