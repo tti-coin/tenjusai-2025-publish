@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "ingredient",
+                "value": "みりん"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "0c679af1-675b-4c2a-981b-3b9605bc6379",
+    "created_at": "2025-09-07T02:15:20.755225",
+    "estimated_duration": 49479,
+    "started_at": "2025-09-07T02:15:20.757768",
+    "title": "牛肉と帆立のコチュジャン風パスタサラダ卵のせ",
+    "comment": "焼いた牛肉と帆立の豪華な組み合わせが食欲をそそります。キャベツとレタスのシャキシャキ感がパスタの食感に爽やかさを加え、コチュジャンとみりんの甘辛ソースが全体をうまくまとめます。卵を割って黄身を絡めれば一口ごとに小さなドラマが起きるので、ぜひ大胆に混ぜて楽しんでください。",
+    "image_prompt": "大皿に盛られたアジアンフュージョンのパスタサラダ。アルデンテに茹でたスパゲッティを底に敷き、焼き目のついた薄切り牛肉と表面を香ばしくソテーした帆立をたっぷりトッピング。塩と酢、オリーブオイルをベースにコチュジャンとみりんを合わせた光沢のある甘辛ソースが肉と帆立に絡み、中央にはとろりと黄身が流れる半熟卵をのせる。キャベツとレタスのシャキシャキな緑が彩りと食感のコントラストを生み、白ごま、刻み青ねぎ、粗挽き黒胡椒を散らしてアクセントに。木製テーブルの上で自然光が当たり、湯気と艶が立つクローズアップ写真。食欲をそそる質感と色合いを強調し、温かく家庭的でありながら少しスパイシーなフュージョン料理の雰囲気を出すように描写する。",
+    "finished_at": "2025-09-07T02:16:10.510624"
+}
