@@ -1,0 +1,55 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "c261a512-0738-4228-a759-049dfbfe2d58",
+    "created_at": "2025-09-07T02:47:39.291512",
+    "estimated_duration": 47592,
+    "started_at": "2025-09-07T02:47:39.293421",
+    "title": "さくらんぼとももとキウイの温フルーツもち",
+    "comment": "温かい煮フルーツとやわらかいもちの組み合わせが斬新で、とても季節感のある一品です。キウイは加熱で色や食感が変わりやすいので短時間だけ煮るか、仕上げに生のスライスを添えると美味しさが際立ちます。さくらんぼと桃の甘酸っぱさがもちに合わさって、思わずにっこりしてしまう危険なほど魅力的なデザートです。",
+    "image_prompt": "A warm, appetizing dessert on a simple rustic ceramic plate: a soft, slightly glossy mochi at the center topped with glossy poached cherries, tender simmered peach slices and vibrant green kiwi pieces in a light amber syrup. Steam gently rising from the mochi and syrup, syrup catching the light with sparkling highlights, the cherries deep red and shiny, peaches soft peach-pink with visible fibers, kiwi showing bright green flesh and tiny black seeds (some pieces lightly softened from cooking). Garnish with a small fresh mint leaf and a light dusting of powdered sugar, syrup drizzling down the mochi edge. Natural window light, shallow depth of field, warm tones, photorealistic, high detail, close-up appetizing composition on a wooden table background, 50mm lens feel, studio-food photography style.",
+    "finished_at": "2025-09-07T02:48:21.823460"
+}
