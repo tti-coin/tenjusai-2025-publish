@@ -1,0 +1,151 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "5018b5cc-5eb5-4a6e-a209-4c08892e6576",
+    "created_at": "2025-09-07T03:39:39.502749",
+    "estimated_duration": 44480,
+    "started_at": "2025-09-07T03:39:39.505880",
+    "title": "パイナップルとアボカドのミックスパスタ（もち添え）",
+    "comment": "一皿で甘味、酸味、海の旨味、肉のコク、餅の香ばしさが楽しめる冒険的な一品です。味付けはシンプルな塩こしょうとオリーブオイルで素材の個性を生かすのが正解、レモンを絞ると一気に引き締まります。見た目の意外性も含めて、食べる前の期待感を裏切らない一皿—餅は熱々で要注意、でも箸が止まらない美味しさです。",
+    "image_prompt": "オリーブオイルで艶よく和えられた細めのパスタを中心に、カラフルな具材が散りばめられた一皿。黄金色に焼けたもちの角切りが香ばしくのり、ジューシーなパイナップルの黄色い果肉、クリーミーなアボカドの濃い緑、薄く透ける生ハムのピンク、表面に香ばしい焼き目のついたほたてといか、こんがり焼かれた豚肉の茶色が美しく対比している。にんにくのソテーとレモンの薄切りが爽やかさを添え、仕上げにブラックペッパーと粗めの海塩、刻んだパセリを散らしている。湯気とオリーブオイルの艶、テクスチャーのコントラストを強調したクローズアップで、木製のテーブルに置かれ自然光が柔らかく当たる高解像度のフードフォト風に。",
+    "finished_at": "2025-09-07T03:40:17.713316"
+}
