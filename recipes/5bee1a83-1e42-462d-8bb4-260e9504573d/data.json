@@ -1,0 +1,115 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "5bee1a83-1e42-462d-8bb4-260e9504573d",
+    "created_at": "2025-09-07T02:48:15.063295",
+    "estimated_duration": 47887,
+    "started_at": "2025-09-07T02:48:15.066046",
+    "title": "フルーツヨーグルトクリーム大福",
+    "comment": "桃やマンゴー、マスカットなど色とりどりの果実をもちで包んだ、見た目も華やかな一品です。牛乳とヨーグルト生クリームをよく冷やしてから包むと、切ったときにとろりとクリームが顔を出して写真映えしますよ（クリームが飛び出す覚悟で）。餅は粘りやすいので手粉や手早さで対処し、果物の水気をよく切ると仕上がりが格段に良くなります。",
+    "image_prompt": "白く半透明で柔らかな餅生地に包まれた大福が並ぶクローズアップ。餅の断面からはカットされた桃、マンゴー、マスカット、ライチ、いちご、バナナが色鮮やかに覗き、中心からは冷やした牛乳とヨーグルト生クリームがとろりと溶け出す様子が見える。餅の表面にはわずかな光沢とやわらかなシワがあり、果汁の瑞々しさが伝わる小さな水滴が輝く。和風の白い陶器皿に盛り付け、自然光でやわらかく照らした温かいトーンで撮影。高解像度で質感を強調し、食欲をそそる寄りのアングルとボケ味の背景でフルーツの色彩とクリームの白さのコントラストを際立たせる。",
+    "finished_at": "2025-09-07T02:49:07.612730"
+}
