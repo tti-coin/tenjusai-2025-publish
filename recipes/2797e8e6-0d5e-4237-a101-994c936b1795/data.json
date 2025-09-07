@@ -1,0 +1,187 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うどん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "2797e8e6-0d5e-4237-a101-994c936b1795",
+    "created_at": "2025-09-07T02:03:35.895716",
+    "estimated_duration": 53313,
+    "started_at": "2025-09-07T02:03:35.899106",
+    "title": "ゴーヤ包みうどんと野菜の揚げ盛り",
+    "comment": "色と食感のコントラストが楽しい、挑戦的で創造力あふれる一皿です。ゴーヤのほろ苦さや納豆のねばり、揚げた昆布の食感など個性的な素材の組合せにワクワクします。調理の際はゴーヤの苦みの抜き加減と納豆の粘り、昆布やのりを揚げる際の油はねに注意してくださいね、クセになる美味しさをお約束します。",
+    "image_prompt": "湯気の立つ太いうどんを、薄くスライスしてさっと湯通しした鮮やかな緑のゴーヤで丁寧に包んだ一皿。表面には味噌とケチャップ、ウスターソースを合わせてとろりと煮詰めた照りのあるソースが艶を添え、カレーパウダーがふんわり粉雪のように香る。塩でさっと炒めた具材の軽い焼き色と、レタスや芽キャベツ、キャベツをカリッと揚げた食感のコントラスト、外はパリッとした昆布やのりのチップ、カリッと揚げた豆腐の角、ねばりのある納豆の糸、仕上げにふわりと舞う鰹節と小口切りの青ねぎを散らしている。器は素朴な陶器で、木目のテーブルと温かい自然光の下に置かれ、近接のマクロ撮影で艶やかなソース、カリッとした衣、もちっとしたうどんの食感が伝わるように描写する。",
+    "finished_at": "2025-09-07T02:04:18.286851"
+}
