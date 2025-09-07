@@ -1,0 +1,107 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うどん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "8b09b87a-e419-49ad-90be-a221ae0a2def",
+    "created_at": "2025-09-07T01:39:55.523577",
+    "estimated_duration": 47048,
+    "started_at": "2025-09-07T01:39:55.526192",
+    "title": "きゅうりとじゃがいも・まぐろのうどんサラダ",
+    "comment": "きゅうりがたっぷりで爽やかさが際立ち、焼いたじゃがいものほくほく感が温かみを添えています。うどんとまぐろを混ぜることでボリュームと旨味が合わさり、一皿で満足感が得られます。塩加減と胡椒の量には注意してくださいね、豪快だけど案外クセになる組み合わせです。",
+    "image_prompt": "大皿に薄くスライスされたきゅうりが大量に敷き詰められ、その中央と上にこんがり焼き色のついたほくほくのじゃがいもをゴロゴロと盛り付けた一皿。温かいうどん麺がじゃがいもとよく絡み、麺の表面にしっとりした光沢があり、ほぐしたまぐろの赤身が点在している。粗挽き黒胡椒と目に見える塩の粒が全体にふられ、温冷のコントラストと異なる食感が一目で伝わる構成。白い深皿に盛り、木目のテーブル、竹の箸を添えた家庭的なセッティングで、柔らかな自然光のクローズアップ撮影、浅い被写界深度で質感と色彩のコントラストを強調した高解像度の美味しそうな描写。",
+    "finished_at": "2025-09-07T01:40:41.934876"
+}
