@@ -1,0 +1,27 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ]
+    ],
+    "job_id": "6f8d2c73-31c1-4a16-a55b-7ee94ba444e4",
+    "created_at": "2025-09-07T06:12:04.369927",
+    "estimated_duration": 48742,
+    "started_at": "2025-09-07T06:12:04.371801",
+    "title": "握りたまご",
+    "comment": "Error: Error code: 400 - {'error': {'message': 'This request has been blocked by our content filters.', 'type': 'image_generation_user_error', 'param': None, 'code': 'content_policy_violation'}}",
+    "image_prompt": "クローズアップのフードフォト。片手でつやのある殻の卵をやさしく握っている瞬間をとらえる。指先の細かな皮膚の質感と爪のディテール、卵の滑らかな殻の光沢、小さなひび割れから黄身が溢れ出す寸前の緊張感を強調する。木製のまな板の上に置かれた卵と手は柔らかな朝の自然光で温かみのある色合いに照らされ、浅い被写界深度で背景はやわらかくぼける。卵白が光を受けて少しだけ煌めき、画面中央にある握られた卵に視線が集中する構図。モダンでクリーンなフードフォトスタイル、温かく食欲をそそるトーンで表現してください。",
+    "finished_at": "2025-09-07T06:12:42.719039"
+}
