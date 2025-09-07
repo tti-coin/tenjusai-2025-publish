@@ -1,0 +1,39 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "ingredient",
+                "value": "マッシュルーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "0332e47d-54f1-4d5c-9297-1395250aea1d",
+    "created_at": "2025-09-07T04:27:34.776469",
+    "estimated_duration": 44834,
+    "started_at": "2025-09-07T04:27:34.778326",
+    "title": "帆立とマッシュルームのもやしパスタソテー",
+    "comment": "帆立の甘みとマッシュルームの旨み、もやしのシャキッとした食感が楽しいコントラストを作る一皿です。帆立は短時間の強火でサッと焼いて表面に香ばしさを出すのがコツで、焼きすぎると硬くなるので要注意。フライパンひとつで手早く作れるので、忙しい日でもごちそう感を楽しめますよ（取り合い注意）。",
+    "image_prompt": "A close-up, high-detail image of a pan-seared scallop and mushroom pasta stir-fry with bean sprouts: al dente spaghetti or thin pasta tossed in a light garlic-butter soy glaze, glossy and slightly oily, with plump golden-brown seared scallops showing caramelized edges and a tender interior. Sliced and sautéed mushrooms (button or shiitake) with browned surfaces nestle among the noodles, and crisp white bean sprouts add bright texture, some tips still slightly translucent. Garnished with finely chopped parsley, a lemon wedge on the side, a drizzle of olive oil, cracked black pepper and a few red pepper flakes for color contrast. Steam rising from the dish, warm directional natural light from the side, shallow depth of field focusing on the scallops and mushroom-pasta intersection, rustic ceramic plate on a wooden table, inviting home-cooked atmosphere, vivid appetizing colors, glossy highlights on the sauce and visible texture on each ingredient.",
+    "finished_at": "2025-09-07T04:28:18.814397"
+}
