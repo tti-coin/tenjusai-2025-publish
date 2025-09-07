@@ -1,0 +1,87 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "も"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ]
+    ],
+    "job_id": "447f74a3-852e-4cd6-aa4f-9b55b4ad2302",
+    "created_at": "2025-09-07T01:35:27.243924",
+    "estimated_duration": 46790,
+    "started_at": "2025-09-07T01:35:27.246067",
+    "title": "ブロッコリーとベーコンとイカのライスボウル",
+    "comment": "色と食感のコントラストが楽しい一皿で、カットしたブロッコリーの緑とちぎったにんじんのオレンジがご飯の白に映えます。ベーコンの香ばしさとイカのぷりっとした食感がアクセントになりますが、イカは火を通しすぎると硬くなるので短時間でさっと調理するのがコツです。見た目のユニークさも魅力で、まるで海と畑がご飯の上で仲良くダンスしているかのような楽しい一皿になります。",
+    "image_prompt": "Photorealistic close-up of a rice bowl: a neat bed of steaming white rice at the bottom, topped with bright green cut broccoli florets (clearly cut), crispy golden-brown bacon/pork slices layered on the rice, and tender white squid pieces arranged on top; torn orange carrot pieces scattered casually for color contrast. Light soy-butter glaze brushed over some elements, a sprinkle of toasted sesame seeds and finely chopped green onion as garnish, steam rising gently to convey warmth. Shot at a 45-degree angle with shallow depth of field and warm natural side lighting, high-resolution texture detail emphasizing glossy squid, crunchy bacon edges, fluffy rice grains and vibrant vegetables; wooden bowl on a rustic table, soft blurred background, appetizing, vibrant and inviting.",
+    "finished_at": "2025-09-07T01:36:14.998517"
+}
