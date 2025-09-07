@@ -1,0 +1,151 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "2a007b22-a859-4623-b5db-ccacd916fa47",
+    "created_at": "2025-09-07T04:27:15.469280",
+    "estimated_duration": 44834,
+    "started_at": "2025-09-07T04:27:15.473845",
+    "title": "鶏と玉ねぎの卵のせ丼（のり添え）",
+    "comment": "シンプルな手順で短時間に作れる、家庭的で満足感のある一品です。鶏の香ばしい焼き目とふんわり卵、ちぎったのりの香りがご飯とよく合い、見た目以上にリッチな味わいになります。卵の焼き加減で表情が変わるので、お好みの“ふわとろ”か“しっかり火入れ”かで遊んでみてください、焦がさないようにね！",
+    "image_prompt": "蒸気の立つ白ごはんを丸い木製の丼に盛り、照りよく焼き色がついた鶏肉の薄切りをご飯の上に並べる。鶏のそばには透き通ったキャラメリゼされた薄切り玉ねぎが寄り添い、ふんわりとした半熟またはしっかり火の通った炒り卵が鶏と玉ねぎを優しく覆う。表面は艶があり、卵の黄と白、鶏の香ばしい茶色、玉ねぎの淡い飴色が美しく対比する。上から手でちぎった黒い海苔をランダムに散らし、白ごまを少々振りかける。背景は木目のテーブルで、自然光の柔らかい斜光が素材の質感と湯気を強調し、浅い被写界深度で丼の中心にピントが合っている。温かく家庭的で食欲をそそるクローズアップの写真。",
+    "finished_at": "2025-09-07T04:28:05.206055"
+}
