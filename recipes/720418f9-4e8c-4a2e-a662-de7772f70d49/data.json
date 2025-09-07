@@ -1,0 +1,123 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "きしめん"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ]
+    ],
+    "job_id": "720418f9-4e8c-4a2e-a662-de7772f70d49",
+    "created_at": "2025-09-07T05:35:27.058843",
+    "estimated_duration": 49708,
+    "started_at": "2025-09-07T05:35:27.061418",
+    "title": "愛情混沌ヌードル",
+    "comment": "和、洋、アジアンが一皿で出会う冒険的な一品で、食感と香りのコントラストが楽しいです。調理時は納豆の粘りやデコポンの酸味、塩気のバランスに注意して、素材ごとの火入れを整えてください。愛情三回分がしっかり効いているので、勇気を出して一口食べれば笑顔が止まりません。",
+    "image_prompt": "平たいきしめん、フォーの米麺、茹でたパスタが大胆に重なった大皿盛り。艶のある麺の上に粘りのある納豆が所々絡み、薄切りの洋梨が瑞々しく散らされている。焼き鯵の香ばしい切り身と鮮やかな枝豆、青紫蘇の葉がアクセントとなり、ローストしたラム肉と香ばしいさんま、照りのあるうなぎの切り身がデコポンの柑橘ソースで軽くコーティングされている。砕いたピーナッツと赤唐辛子のフレークが全体に散らされ、色彩豊かで食感の対比がはっきりとわかる構図。木製のテーブルに置かれ、やわらかな自然光が当たる寄りのアングルで、湯気と艶、素材のディテールが際立つ高解像度の美味しそうな料理写真風イメージ。",
+    "finished_at": "2025-09-07T05:36:15.732312"
+}
