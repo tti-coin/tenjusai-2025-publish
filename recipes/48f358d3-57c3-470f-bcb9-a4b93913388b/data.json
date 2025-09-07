@@ -1,0 +1,149 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "はるさめ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆板醤"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バルサミコ酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "48f358d3-57c3-470f-bcb9-a4b93913388b",
+    "created_at": "2025-09-07T03:40:14.915164",
+    "estimated_duration": 44480,
+    "started_at": "2025-09-07T03:40:14.918025",
+    "title": "うなぎ春雨の辛甘ボウル",
+    "comment": "和洋韓中の調味料ミックスが冒険的で面白く、うなぎの脂と春雨のあっさり感が良いコントラストを作っています。調味料が多彩なので塩分や酸味が強くなりやすく、バルサミコと醤油は少量ずつ調整するのがコツです。食べる前によく混ぜて味を馴染ませれば、意外にクセになる一品になりますよ—味のジェットコースターに乗る準備はお忘れなく！",
+    "image_prompt": "透き通るはるさめを底に敷き、上に香ばしく焼き色のついたうなぎの切り身を端正にのせた一皿。とろりと半熟に茹でた卵を半分に割って黄身が輝き、青ねぎの小口切りが鮮やかな緑のアクセントになる。コチュジャンと豆板醤は艶のある赤いソースとして点々と添えられ、ごま油が細い光の筋を描き、白ごまと黒ごまが全体に香ばしく散る。パリパリの刻みのりが風味と食感のコントラストを生み、最後にたらりと垂らしたバルサミコ酢と醤油が濃い茶色の光沢となってソースに深みを加える。深めの陶器のボウルに盛り、湯気が立ち上る温もりのあるシーンで、45度の角度から寄ったクローズアップ。鮮やかな色彩と光沢、和と韓・中・洋が混ざったユニークさを伝える美味しそうなライティングで描写してください。",
+    "finished_at": "2025-09-07T03:41:04.715712"
+}
