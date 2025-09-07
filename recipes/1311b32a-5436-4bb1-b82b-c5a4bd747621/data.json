@@ -1,0 +1,263 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しゅんぎく"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "チンゲン菜"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みずな"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "へ"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "particle",
+                "value": "や"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "が"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "より"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ]
+    ],
+    "job_id": "1311b32a-5436-4bb1-b82b-c5a4bd747621",
+    "created_at": "2025-09-07T06:07:20.651212",
+    "estimated_duration": 51881,
+    "started_at": "2025-09-07T06:07:20.654964",
+    "title": "グリーンベジと豆腐のハニケチャップソテー",
+    "comment": "緑野菜をこれでもかと詰め込んだ豪華な一皿で、ビタミンと食感のバリエーションが楽しめます。はちみつ入りケチャップの甘酸っぱさが豆腐の香ばしいごま風味とよく合い、子どもから大人まで喜ばれる味わいです。野菜は火を通し過ぎると色と食感が失われるので手早く仕上げ、ケチャップの量で甘さと塩気のバランスを整えるのが成功のコツ — 皿の上の野菜ジャングルをうまくまとめてシェフ気分を楽しんでください！",
+    "image_prompt": "大皿に盛られた緑の野菜の饗宴。キャベツ、レタス、サニーレタス、白菜、ピーマン、ほうれん草、アスパラガス、オクラ、春菊、チンゲン菜、水菜、こまつな、さやいんげん、枝豆、ブロッコリー、きゅうり、芽キャベツ、青ねぎ、長ねぎなど多種類の緑野菜が軽くソテーされて瑞々しい緑色のグラデーションを作っている。中央には一口大に切ってごまで香ばしく炒めた厚めの豆腐キューブがこんがり並び、表面に艶のあるはちみつ入りケチャップソースがとろりとかかっている。白ごまが全体に散らされ、小口切りの青ねぎとレモンの薄切りが彩りを添え、木目のテーブルに置かれた白い楕円プレートに自然光が斜めに差し込み、ソテーの照りと野菜のシャキシャキ感が強調されたクローズアップ写真風に。温かみのある家庭料理の雰囲気で、おいしそうなテクスチャーと鮮やかな緑が際立つように描写してください。",
+    "finished_at": "2025-09-07T06:08:18.668116"
+}
