@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "びわ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "パパイヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "ad57c607-4a58-4e76-86ed-193bee541630",
+    "created_at": "2025-09-07T04:46:49.524363",
+    "estimated_duration": 47785,
+    "started_at": "2025-09-07T04:46:49.526948",
+    "title": "フルーツミックスカットプレート",
+    "comment": "色鮮やかな果物が一皿に収まって見た目がとにかく華やかです。いろいろな切り方で食感の違いが楽しめるので、食べるたびに新しい発見があります。包丁の出番が多いので、手元に注意して料理ショーを楽しみましょう（キッチンがジャム祭りにならないように）。",
+    "image_prompt": "色とりどりの果物を大きめの白い陶器プレートに美しく並べた高解像度のフォトリアリスティックな画像。りんご、なし、洋なし、バナナ、いちご、みかん、オレンジ、デコポン、レモン、ぶどう、マスカット、もも、メロン、マンゴー、キウイ、パイナップル、さくらんぼ、びわ、ライチ、ブルーベリー、ラズベリー、パパイヤをそれぞれスライス、くし形、さいの目、半分にカット、丸くくり抜くなど多様な切り方で配置し、果汁が光る断面や種の質感が見えるように。ミントの葉をところどころにあしらい、レモンの薄切りをアクセントにして照りのある軽いはちみつシロップをさっとかけたような艶を表現。柔らかい自然光（朝の窓辺）でやさしい影を落とし、木製テーブルの上に置かれた45度の視点で背景はぼかし、鮮やかな色彩とテクスチャーが際立つ美味しそうな一皿を描写すること。",
+    "finished_at": "2025-09-07T04:47:41.187570"
+}
