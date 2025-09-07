@@ -1,0 +1,141 @@
+{
+    "status": "error",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "さやいんげん"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "たけのこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフン"
+            },
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "ingredient",
+                "value": "わかめ"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ]
+    ],
+    "job_id": "65c0c9e2-4ad4-4faa-b819-2b9fbab3ef65",
+    "created_at": "2025-09-07T07:01:02.613822",
+    "estimated_duration": 52929,
+    "started_at": "2025-09-07T07:01:02.616532",
+    "comment": "Extra data: line 1 column 398 (char 397)\ncontent={\"title\": \"海鮮と夏野菜のビーフンサラダ\", \"image_prompt\": \"冷たく締めた米粉ビーフンを中心に、鮮やかな夏野菜を彩り良く盛り付けた一皿。さやいんげんはシャキッと、オクラは輪切りの粘りと緑、アスパラガスは斜め切りで歯ごたえを残し、ズッキーニは薄いリボン状に。冷やしたとうもろこしの粒と細切りたけのこ、軽く茹でたもやしと薄くスライスした生玉ねぎがアクセント。ごま豆腐は一口大に切って丸みを添え、刻んだ昆布とわかめを散らして旨味の層を作る。たこの吸盤食感、うなぎの照りとホタテの甘みが混ざる海鮮ミックスを点在させ、最後にバターでふんわり和えた半熟風の卵をのせる。ドレッシングはカレー粉、ポン酢、マヨネーズを混ぜてとろりと光るソースにし、上から薄く回しかけてごまや刻みねぎ、レモンのくし切りを添える。白い陶器の深皿に盛り、自然光で艶と色味を強調したクローズアップで撮影。\"}, \"comment\": \"色と食感のコントラストが楽しい一皿で、海の旨味と夏野菜の爽やかさが同居しています。カレー粉＋ポン酢＋マヨのドレッシングは個性的なのでかけすぎに注意して、味のバランスを見ながら調整してください。意外な組み合わせがクセになるため、初めての人は少量から試して“発見の笑い”を楽しんでください。\"}",
+    "finished_at": "2025-09-07T07:01:23.247067"
+}
