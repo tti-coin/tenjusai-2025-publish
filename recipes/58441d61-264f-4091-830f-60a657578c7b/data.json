@@ -1,0 +1,27 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ]
+    ],
+    "job_id": "58441d61-264f-4091-830f-60a657578c7b",
+    "created_at": "2025-09-07T02:39:25.639061",
+    "estimated_duration": 48083,
+    "started_at": "2025-09-07T02:39:25.640639",
+    "title": "レンジで温めた愛情ソース",
+    "comment": "電子レンジで“愛情”を温めるというユニークで心温まる発想が光ります。見た目はとてもフォトジェニックで、温かいソースが食卓にほっこりした雰囲気を与えます。密閉容器や金属をレンジに入れないなど安全面には注意してください、気持ちは確実に伝わるはずです。",
+    "image_prompt": "Photorealistic close-up of a small ceramic ramekin filled with glossy, warm amber sauce labeled \"Love\" on a rustic handwritten sticker; gentle steam rises in a distinct heart shape above the surface. The sauce surface has a silky sheen and visible tiny bubbles from microwaving, a silver spoon with a drip of sauce rests beside the ramekin on a well-worn wooden table, and a few microgreen sprigs and a lemon zest curl add fresh color. Soft golden-hour side lighting creates warm highlights and long gentle shadows, with a shallow depth of field and creamy bokeh that blurs a home microwave and a cozy kitchen in the background. High-detail, appetizing textures, rich warm color palette, 50mm lens feel, natural styling, inviting and comforting food photography composition.",
+    "finished_at": "2025-09-07T02:40:10.822643"
+}
