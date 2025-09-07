@@ -1,0 +1,79 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "f04ff263-84bc-4613-b664-0f51299dbe33",
+    "created_at": "2025-09-07T04:51:25.911177",
+    "estimated_duration": 46293,
+    "started_at": "2025-09-07T04:51:25.913377",
+    "title": "まぐろ手巻き寿司",
+    "comment": "砂糖を少し加えた酢飯がほんのり甘く、まぐろとの相性が意外に良い一品です。包むだけの手軽さで、家族や友人とのカジュアルな食事にぴったり。作りすぎると幸せが止まらないので量の調整だけはご注意を！",
+    "image_prompt": "深く艶のある海苔に、砂糖と酢で程よく光った寿司飯がふんわりと詰められ、その上に鮮やかな赤いまぐろの切り身がのった手巻き寿司のクローズアップ。木製のまな板の上に手で包む瞬間を捉え、粒立ちの良いご飯の一粒一粒、海苔のパリッとした縁、まぐろの繊細な脂の光沢がはっきり見える構図で。背景にはわさびと甘酢生姜を柔らかくぼかし、自然光が当たって温かみのある陰影を作る。高解像度で写実的、食欲をそそる質感と家庭的な手作り感を強調したフードフォトをイメージしてください。",
+    "finished_at": "2025-09-07T04:52:08.920674"
+}
