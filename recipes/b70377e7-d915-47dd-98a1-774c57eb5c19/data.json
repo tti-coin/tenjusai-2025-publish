@@ -1,0 +1,141 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "まで"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "が"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "より"
+            },
+            {
+                "type": "particle",
+                "value": "も"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ]
+    ],
+    "job_id": "b70377e7-d915-47dd-98a1-774c57eb5c19",
+    "created_at": "2025-09-07T02:16:15.795809",
+    "estimated_duration": 49174,
+    "started_at": "2025-09-07T02:16:15.798722",
+    "title": "愛情テリーヌ",
+    "comment": "すべてが「愛情」で構成されたユニークな一皿で、温かさととろける食感が想像力を刺激します。工程が抽象的でも、丁寧に繰り返すことで深みが出るというメッセージ性が面白いです。見た目も味も心も満たされそうですが、食べ過ぎは笑顔が止まらないかもしれません。",
+    "image_prompt": "温かくて瑞々しい『愛情』だけで作られたテリーヌの完成イメージ。薄いピンクと淡い金色の層が重なり、中心は蕩けるようにとろりと溶け出す。表面には照りのある愛情のグレーズが薄く塗られ、蒸気がふんわりと立ちのぼる様子を捉える。白い磁器のプレートに滑らかに盛り付けられ、周囲には小さな可食花とマイクログリーンがアクセント。ナイフでカットした断面が見えるアングルで、柔らかな質感と層の境目、光沢感を強調。暖色の自然光、浅い被写界深度でピントをテリーヌの先端に合わせた高解像度のクローズアップを想定。食べる前のワクワク感と家庭的な温もりが伝わるように描写すること。",
+    "finished_at": "2025-09-07T02:16:55.283363"
+}
