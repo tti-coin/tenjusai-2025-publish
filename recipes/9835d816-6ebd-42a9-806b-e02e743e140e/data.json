@@ -1,0 +1,99 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ]
+    ],
+    "job_id": "9835d816-6ebd-42a9-806b-e02e743e140e",
+    "created_at": "2025-09-07T05:53:11.852533",
+    "estimated_duration": 46919,
+    "started_at": "2025-09-07T05:53:11.854819",
+    "title": "フルーツプレート（生クリーム添え）",
+    "comment": "色とりどりの果物が生クリームに映えて、見た目も味も華やかな一皿になります。リンゴとパイナップルをすりおろすことでソースのようなとろみと爽やかな酸味が加わるので、食べる直前にかけるのがおすすめです。食べるときは果物のジューシーさでフォークが止まらなくなる危険性あり、でもそれは良い危険です！",
+    "image_prompt": "白い丸皿に美しく盛り付けられたフルーツプレート。中央に薄くスライスした緑のメロンが扇状に並び、その隙間や周囲に艶のあるマスカットがゴロゴロと散らされている。桃の薄切りはふんわりと重なり、すりおろしたリンゴとパイナップルがソースのように全体にやさしくかかっている。上からはふんわりとした生クリームがたっぷりとかかり、果汁が光るジューシーな質感と鮮やかな色彩が際立つ。自然光で柔らかく照らされた高解像度のクローズアップ、浅い被写界深度で背景を美しくぼかし、食欲をそそるプロのフードフォト風に仕上げる。",
+    "finished_at": "2025-09-07T05:54:00.517617"
+}
