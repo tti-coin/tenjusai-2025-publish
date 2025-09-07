@@ -1,0 +1,121 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "2a89344e-c9ac-4cef-a356-412ae10b2686",
+    "created_at": "2025-09-07T06:22:13.296050",
+    "estimated_duration": 48888,
+    "started_at": "2025-09-07T06:22:13.298737",
+    "title": "ケチャップオムライス",
+    "comment": "ピーマンとにんじんの彩りが効いた家庭的なオムライスで、ケチャップの甘酸っぱさがご飯にしっかり馴染んでいます。卵はふんわり半熟に仕上げると見た目も味も格段にアップするので火加減に注意してください。最後のケチャップは愛情たっぷりにどうぞ—かけすぎると未来の自分が甘酸っぱく驚きます。",
+    "image_prompt": "柔らかな半熟の薄焼き卵でケチャップライスを包んだ家庭的なオムライス。中は細かく切ったピーマン、にんじん、玉ねぎを香ばしく炒め、ご飯とトマトケチャップでほんのり赤く色づいたご飯がぎっしり詰まっている。表面は艶のある黄金色で、上からハートや波状にケチャップを愛情たっぷりにかけ、包みを軽く切った断面から湯気が立ち上る瞬間をとらえる。白いプレートに盛り、パセリと黒胡椒をほんの少し振り、木のテーブルと柔らかな自然光で温かく家庭的に見せるクローズアップ写真。浅い被写界深度で質感と色味を強調し、食欲をそそる一枚に。",
+    "finished_at": "2025-09-07T06:22:48.536030"
+}
