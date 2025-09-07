@@ -1,0 +1,133 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たけのこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "の"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "6334e629-3be4-4710-b9cb-196818b7dbd4",
+    "created_at": "2025-09-07T01:59:33.814512",
+    "estimated_duration": 48154,
+    "started_at": "2025-09-07T01:59:33.817340",
+    "title": "たけのことうなぎの愛情握り",
+    "comment": "個性的な素材の組み合わせが目を引く一皿で、見た目のインパクトが抜群です。ですが「腐った牛乳の生クリーム」は視覚的演出として扱い、実際に作る際は必ず新鮮なクリームや代替の発酵風味素材を使ってください。愛情で握る工程を想像すると、奇抜なのにどこかほっこりするユニークな一品になるでしょう、笑",
+    "image_prompt": "握り寿司風の一皿をリアルに描写。小さめに俵状に握った白い酢飯の上に薄くスライスして軽く炙ったたけのこをのせ、その上に艶やかに照りが出た蒲焼き風のうなぎを斜めにかける。さつまいもは滑らかなペースト状にして刷毛で表面に薄く塗り、刻んだピーマンは鮮やかな緑のソースとして細く流し注いで色味とシャキッとした食感を演出。アクセントに赤い輪切りのとうがらしを散らし、ぽってりとした乳白色の生クリームはやや黄色がかった熟成風のトーンでアクセントを添える（演出としての“腐敗感”は控えめに）。木製の長皿に並べ、暖かい側光で艶と陰影を強調し、浅い被写界深度で手前の握りにフォーカス、背景は柔らかくボケる。テクスチャーの対比（シャキッとしたピーマン、ねっとりしたさつまいも、ふっくらしたうなぎ）と鮮やかな色合いが食欲をそそるスタイリングで描いてください。",
+    "finished_at": "2025-09-07T02:00:34.243657"
+}
