@@ -1,0 +1,127 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ]
+    ],
+    "job_id": "c4d00095-b1f3-40fe-a115-c5b98b46b2b7",
+    "created_at": "2025-09-07T03:35:29.278581",
+    "estimated_duration": 45347,
+    "started_at": "2025-09-07T03:35:29.281275",
+    "title": "すりおろし豚のピリ辛豆腐煮",
+    "comment": "すりおろしにした豚肉が滑らかで繊細な食感を生み、豆腐の柔らかさとよく合います。にんにくと唐辛子で力強い香りとピリ辛のアクセントが効いていてご飯がすすむ一品です。豆腐は煮すぎると崩れやすいので、優しく扱ってくださいね—豆腐が“崩壊”する前に火を止めましょう！",
+    "image_prompt": "やわらかく煮えた白い豆腐を大きめに切って、うすく澄んだ香ばしい煮汁にやさしく並べた一皿。表面にふっくらとしたすりおろし豚の小さな粒がこんがりと焼き色を帯び、すりおろしにんにくとすりおろしとうがらしが所々に赤いアクセントを添えている。青ねぎの細かい小口切りが全体に散らされ、湯気が立ち上る瞬間を捉えたクローズアップ。木のテーブルに置かれた深めの陶器の鉢、箸が寄り添い、自然光が煮汁の表面に艶を作っている。食欲をそそる質感と温かさ、ピリ辛とにんにくの香りが伝わるように、細部の粒感、照り、蒸気を強調して描写してください。",
+    "finished_at": "2025-09-07T03:36:06.047005"
+}
