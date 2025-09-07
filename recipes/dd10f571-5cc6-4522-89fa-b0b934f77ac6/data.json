@@ -1,0 +1,107 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            },
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "dd10f571-5cc6-4522-89fa-b0b934f77ac6",
+    "created_at": "2025-09-07T06:38:27.697005",
+    "estimated_duration": 47711,
+    "started_at": "2025-09-07T06:38:27.699482",
+    "title": "ゴーヤとうなぎのアバンギャルドプレート",
+    "comment": "ユニークな素材感の対比が光る、まるでアートのような一皿です。ゴーヤの苦味とうなぎのこってりした旨味、揚げズッキーニと焼きキャベツの香ばしさが組み合わさり、視覚的なインパクトも抜群で思わず笑ってしまいます。ただし腐った牛乳は食品安全上危険なので、実際に作るなら必ず安全な代替（発酵乳や濃厚クリーム）を使ってください。",
+    "image_prompt": "大皿に盛られたアバンギャルドな一皿。香ばしく焼いたキャベツの葉が土台に敷かれ、カリッと揚げたズッキーニの輪切りが彩りを添える。中央には半分に割ったゴーヤの鮮やかな緑と種芯が見え、すりおろされたうなぎの濃厚なペーストが艶のあるソース状にあしらわれている。溶けて柔らかく連なるパスタの断片がソースに絡み、巨大なダチョウの卵の半熟黄身が堂々と上に乗る。仕上げにとろりと注がれた、凝乳したような質感の腐った牛乳の表現的なラインがアーティスティックな模様を描き、温かい自然光が艶と陰影を強調している。木のテーブルの上に黒い陶器の皿、シンプルなカトラリー、粗めに挽かれた胡椒がアクセントになっている様子を細部までリアルに描写してください。",
+    "finished_at": "2025-09-07T06:39:19.287847"
+}
