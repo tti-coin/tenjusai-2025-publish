@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "9210c28d-0fba-4509-b064-be19e4a5c009",
+    "created_at": "2025-09-07T02:31:02.686399",
+    "estimated_duration": 53733,
+    "started_at": "2025-09-07T02:31:02.689131",
+    "title": "りんごなしミックスフルーツの冷製マッシュ",
+    "comment": "果物をそのままつぶして混ぜただけのシンプルさが逆に魅力で、色合いがとても華やかです。りんごが抜けているのにここまでフルーティーなのはまさに果物たちのチームワークの勝利、りんごはきっと嫉妬しています。冷やして食べると口当たりが優しく、スプーンが止まらなくなる注意報が出ます。",
+    "image_prompt": "冷たく冷やしたガラスの深めのボウルに盛られたミックスフルーツのマッシュ。バナナのやわらかな黄色、潰したいちごの鮮やかな赤、みかん・オレンジの温かいオレンジ色、ぶどうとブルーベリーの紫と紺、マスカットとメロンの淡い緑、そして桃の淡いピンクが混ざり合い、所々に果肉の小片や種の粒が見える。全体はつぶして混ぜたペースト状でありながら、時折残る果肉の食感が感じられる。表面には果汁の光沢と小さな水滴、ボウルの外側には冷気でできた結露があり、スプーンが差し込まれた瞬間の滑らかな糸を引く断面も描写。木のテーブルの上、柔らかい自然光で色彩が引き立ち、背景は淡いボケで料理にフォーカス。画面の端に「りんごなし」と小さな黒板かラベルがさりげなく映り込み、ヘルシーで手作り感のある夏らしいデザートとして美味しそうに見えるように。",
+    "finished_at": "2025-09-07T02:31:53.372286"
+}
