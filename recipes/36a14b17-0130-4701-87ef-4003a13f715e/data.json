@@ -1,0 +1,73 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きゅうり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ]
+    ],
+    "job_id": "36a14b17-0130-4701-87ef-4003a13f715e",
+    "created_at": "2025-09-07T02:44:10.464607",
+    "estimated_duration": 46377,
+    "started_at": "2025-09-07T02:44:10.466839",
+    "title": "酢たっぷりのつぶしきゅうり",
+    "comment": "驚くほど潔いレシピで、きゅうりのフレッシュさが酢によってシャープに引き立ちます。酢をたっぷり使うことで酸味がしっかり効き、暑い日にぴったりの爽快さが楽しめます。見た目は大胆ですが潔さが美学、覚悟して一口どうぞ！",
+    "image_prompt": "粗くつぶしたきゅうりが透明な酢にたっぷり浸かっている完成イメージ。薄緑色のきゅうりの断面や繊維が瑞々しく見え、酢の液面には小さな気泡と光の反射がきらめく。木の小鉢に盛られ、酢が器の縁近くまで注がれている様子を接写で捉え、液体の艶と野菜の質感を強調する。箸先がきゅうりをつまみ上げようとする一瞬や、酢が少し滴る動きも描写して臨場感を出す。背景は明るい木目テーブルとやわらかな自然光で爽やかさを演出し、高解像度で食欲をそそるリアルな質感を重視する。",
+    "finished_at": "2025-09-07T02:45:16.717948"
+}
