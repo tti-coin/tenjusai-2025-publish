@@ -1,0 +1,157 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "きくらげ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "2db4c1c8-4d4b-4a6f-a1cd-1517c9325b45",
+    "created_at": "2025-09-07T02:01:54.769587",
+    "estimated_duration": 52890,
+    "started_at": "2025-09-07T02:01:54.772617",
+    "title": "発酵ミルクと鶏の混ぜもちプレート",
+    "comment": "大胆な組み合わせが目を引き、もちの弾力とアボカドのクリーミーさ、鰹節の香ばしさがユニークに混ざる一皿です。注意：『腐った牛乳』は食中毒のリスクがあるため食用不可で、安全に楽しむには発酵ヨーグルトやバターミルク、カッテージチーズなどの代替を強くおすすめします。最後に“愛情”を盛り付けるアイデアは写真映え抜群で、ユーモアと温かさが伝わる仕上がりになります。",
+    "image_prompt": "温かい木製テーブルの上に置かれた素朴な陶器のワンプレート料理を45度のクローズアップで撮影。白っぽく凝固した腐った牛乳のような塊がソース状に広がり、その周りに香ばしく切られた鶏肉の一口大の断面、電子レンジでふっくら膨らんだもちの艶、薄く斜めに切った長ねぎの緑と白、かつおぶしの薄い茶色いフレークがふわりとかかっている。コチュジャンの鮮やかな赤いペーストが一部にアクセントとして塗られ、アボカドのクリーミーな緑の扇切りが寄り添い、きくらげの深い黒茶色の裂片と、粗く潰したしめじの小さな粒が散らされている。中央には“愛情”を象ったハート状のソースドリズル。柔らかい自然光、浅い被写界深度で質感を強調し、蒸気と光沢で食材の湿度感とテクスチャーをリアルに描く。細部のテクスチャー、色のコントラスト、暖かく親しみやすい雰囲気を重視して美味しそうに見せる。",
+    "finished_at": "2025-09-07T02:02:51.901411"
+}
