@@ -1,0 +1,107 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "1e244325-930c-4803-a3f1-c8219577f0d5",
+    "created_at": "2025-09-07T05:51:04.415100",
+    "estimated_duration": 46954,
+    "started_at": "2025-09-07T05:51:04.417776",
+    "title": "はちみつマヨ揚げパンと焼きチーズのトマト添え",
+    "comment": "揚げパンのサクサク感に、焼きチーズのとろけるコクとはちみつの優しい甘み、マヨネーズとごまの香ばしさが合わさって意外と幸福感のある一皿になります。トマトの酸味が全体を引き締め、見た目も色鮮やかで「愛情を注いだ」感が伝わる盛り付けです。油で揚げる工程と甘塩っぱい組み合わせには注意が必要ですが、失敗しても笑い飛ばせる楽しさが魅力です。",
+    "image_prompt": "Close-up of a rustic plated dish featuring several pieces of golden, crispy fried bread topped with melted, slightly charred grilled cheese. Fresh, ripe tomato slices arranged beside the bread provide bright red contrast. Thick glossy honey is generously drizzled over the bread and cheese, catching warm light, while creamy mayonnaise is added in small dollops and streaks for visual contrast. Toasted sesame seeds are scattered over the top and around the plate for texture and nutty color flecks. Steam rises subtly from the hot cheese, with fine cheese strings stretching as a piece is lifted. Shot in warm natural window light on a wooden table, shallow depth of field, high-resolution food photography style, appetizing and mouthwatering composition.",
+    "finished_at": "2025-09-07T05:51:45.510381"
+}
