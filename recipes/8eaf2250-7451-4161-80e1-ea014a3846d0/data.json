@@ -1,0 +1,193 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もやし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "油"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "8eaf2250-7451-4161-80e1-ea014a3846d0",
+    "created_at": "2025-09-07T02:03:52.028193",
+    "estimated_duration": 53313,
+    "started_at": "2025-09-07T02:03:52.031346",
+    "title": "にんにく醤油 豚もやしラーメン",
+    "comment": "にんにくと醤油の香ばしさがしっかり効いた、豪快で食べ応えのある一杯です。にんにくは焦がさないように注意すると香りが引き立ちます。もやしとキャベツのシャキシャキ食感が豚肉の旨みとよく合い、箸が止まらなくなるでしょう。",
+    "image_prompt": "熱々の白い陶器の丼に盛られた中華麺のクローズアップ。麺の上にはこんがり焼かれた豚肉のスライスが数枚、茹でたもやしがふんわりと重なり、香ばしく炒めたキャベツと薄切りのにんにくが添えられている。温めた醤油と油を注いで艶が出た琥珀色のソースが麺に絡み、湯気が立ちのぼる瞬間を捉える。にんにくの薄い焼き目と豚肉の焦げ目が食欲をそそり、キャベツの淡い緑ともやしの白がコントラストを作る。木製のテーブル上で柔らかい自然光、浅い被写界深度で背景をぼかし、質感（麺のコシ、豚肉のジューシーさ、野菜のシャキッと感）が伝わる美味しそうな一枚。",
+    "finished_at": "2025-09-07T02:04:36.013268"
+}
