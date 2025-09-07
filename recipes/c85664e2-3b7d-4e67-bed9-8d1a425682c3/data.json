@@ -1,0 +1,81 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "c85664e2-3b7d-4e67-bed9-8d1a425682c3",
+    "created_at": "2025-09-07T06:08:10.170558",
+    "estimated_duration": 51404,
+    "started_at": "2025-09-07T06:08:10.172788",
+    "title": "のりとかつおぶしの卵かけご飯",
+    "comment": "シンプルながら旨味の重ね技が光る、朝にぴったりの一杯です。調理は簡単で、ほんの数分でほっとする味わいが楽しめます。生卵を使うため新鮮なものを選んで手早く混ぜるのが安全・美味のコツですよ。",
+    "image_prompt": "湯気が立ち上る小ぶりの漆器のご飯茶碗に、ふっくらと盛られた白ごはんの上に割られた生卵がのり、濃厚なオレンジ色の黄身が艶やかに光っている。そこへ醤油がまばらに滴り、黒緑の細切り海苔が散らされ、薄く踊るかつお節がふわりと載っている様子。木製の箸が器の縁に添えられ、柔らかな朝の自然光が斜めから当たり、湯気と共に黄身のとろみと醤油の反射を際立たせる。クローズアップで shallow depth of field の高解像度、食欲をそそるリアルなフードフォトスタイルで表現する。",
+    "finished_at": "2025-09-07T06:08:47.211871"
+}
