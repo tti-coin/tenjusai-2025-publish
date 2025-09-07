@@ -1,0 +1,153 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ]
+    ],
+    "job_id": "7bc96341-f80e-46e2-b805-f25ea7bcb758",
+    "created_at": "2025-09-07T01:56:13.201318",
+    "estimated_duration": 45181,
+    "started_at": "2025-09-07T01:56:13.204531",
+    "title": "トマトとベーコンのベリー・パンケーキ",
+    "comment": "甘酸っぱいベリーとトマトの赤が目を引く、遊び心あふれる一皿です。ベーコンと玉ねぎの香ばしさがパンケーキに深みを与えるので、塩気と甘みのバランスを楽しんでください。ブルーベリーが二度登場するので、ブルーベリー好きは大満足、驚きと笑いのある味わいをどうぞ！",
+    "image_prompt": "金色に焼き上がった厚めのパンケーキが中央に重なり、上から湯むきして潰したトマトの赤いソースがとろりとかかっている。生のトマトの輪切りが一枚そっと添えられ、鮮やかな緑のピーマンの薄切りがアクセントに。刻んで香ばしく炒めたベーコンと飴色になった玉ねぎがパンケーキの脇に盛られ、表面のカリッとした質感が伝わる。ブルーベリーとラズベリーが混ざったフレッシュなベリーがたっぷり散らされ、ところどころ果汁がにじんで艶やか。木製のプレート、柔らかい自然光、浅い被写界深度で背景はぼかし、温かく家庭的で少し遊び心のある一皿を美味しそうに表現してください。",
+    "finished_at": "2025-09-07T01:57:06.549080"
+}
