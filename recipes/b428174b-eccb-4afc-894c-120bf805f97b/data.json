@@ -1,0 +1,195 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "味噌"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ]
+    ],
+    "job_id": "b428174b-eccb-4afc-894c-120bf805f97b",
+    "created_at": "2025-09-07T05:47:51.213422",
+    "estimated_duration": 47036,
+    "started_at": "2025-09-07T05:47:51.216954",
+    "title": "ビーフジャーキーとたらこの和洋ミックス",
+    "comment": "大胆な和洋アレンジで、旨味と甘味、食感のコントラストが楽しめる一皿です。たらことジャーキー、納豆など塩味と香ばしさが強い素材の組合せはクセになる個性派で、遊び心を感じさせます。味が濃くなりがちなので、素材の鮮度と辛味の量に注意してバランスを取りつつ、笑顔で挑戦してみてください。",
+    "image_prompt": "大皿に並べられた和洋折衷の一皿。薄く裂いたビーフジャーキーの上に鮮やかなオレンジ色のたらこをたっぷりと載せ、別のジャーキーには艶のある白いマヨネーズを絞ってアクセントを添える。角切りのまぐろは蜂蜜とはちみつの照り、コチュジャンの赤いソースとクリーミーなマヨネーズで和えられ、光沢のあるペーストが食欲をそそる。青紫のしそ葉は味噌と塩を衣にして香ばしく揚げ、パリッとした食感が全体にコントラストを与える。ラズベリー、マンゴー、いちごのフレッシュな果実は小さな山にして彩りと甘酸っぱさを加え、赤と黄の鮮やかな色味が皿全体を引き締める。別に盛られた納豆には細かく刻んだビーフジャーキーが混ざり、粘りと香ばしさが同居する。牛肉の一切れには唐辛子が軽く振られ、ピリッとした赤い粒が視覚的アクセントになる。陶器の楕円プレート、木製のテーブル、柔らかいサイドライトで撮影されたクローズアップ。艶やかなソース感、パリッとした揚げ物の質感、果実のジューシーさが伝わる美味しそうな描写で。",
+    "finished_at": "2025-09-07T05:48:39.757934"
+}
