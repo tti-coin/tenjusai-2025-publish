@@ -1,0 +1,115 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "bcaf35f5-9ea6-4333-8249-798e823b783a",
+    "created_at": "2025-09-07T06:17:44.479458",
+    "estimated_duration": 50630,
+    "started_at": "2025-09-07T06:17:44.482351",
+    "title": "はちみつカレー風味チキンとキャベツのサラダ",
+    "comment": "はちみつの甘みとはちみつ入りカレーソースのスパイシーさが好相性で、甘辛い照りが食欲をそそります。シャキシャキのキャベツとジューシーな鶏肉の食感コントラストが楽しい一皿です。ソースの塩分と酸味のバランスには注意を、愛情は多めにどうぞ（増やしてもカロリーは測定不能）。",
+    "image_prompt": "皿の中央に黄金色に香ばしく焼き上げられた鶏肉を厚めにスライスして並べ、表面には照りのあるはちみつ入りカレーソースがとろりと絡んでいる。脇にはキャベツの千切りがしゃっきりと山盛りになり、炒めた玉ねぎの軽いカラメル色とトマトの赤いロースト片が彩りを添える。ドレッシングは酢と砂糖、オリーブオイルで艶を出し、全体に回しかけられている。小口切りの香草（パセリやコリアンダー）と白ごまが散らされ、温かい鶏肉の湯気とキャベツの冷たい食感の対比が伝わるクローズアップ。自然光で柔らかく照らされた高解像度のフードフォト、木製のテーブルと簡素な白い陶器の皿でナチュラルかつ食欲をそそる構図。",
+    "finished_at": "2025-09-07T06:18:27.210696"
+}
