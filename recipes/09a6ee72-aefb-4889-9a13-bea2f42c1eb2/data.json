@@ -1,0 +1,105 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "09a6ee72-aefb-4889-9a13-bea2f42c1eb2",
+    "created_at": "2025-09-07T04:54:01.543841",
+    "estimated_duration": 44306,
+    "started_at": "2025-09-07T04:54:01.546770",
+    "title": "のりのせ親子丼",
+    "comment": "醤油と砂糖で煮た卵と鶏肉がご飯にしっかり染みて、シンプルながら満足感のある一品です。卵は火を通しすぎると固くなるので、とろとろ食感を狙って弱火で手早く煮るのがコツです。最後にのせる海苔が香りとパリッとした食感を加えて、和の幸福感が倍増します（箸が止まりません）。",
+    "image_prompt": "温かい和風の丼に盛られた親子丼のクローズアップ写真。ふっくらと盛られた白米の上に、醤油と砂糖で甘辛く煮たとろとろの卵が黄金色に輝き、ほどよくほぐれた鶏肉の一口大の身が混ざっている。薄切り玉ねぎが透き通るように柔らかく煮えており、煮汁が艶っぽく卵とご飯に絡んでいる。表面の卵は半熟でトロッとした質感が伝わり、湯気が立ち上る瞬間を捉えた一枚。天面には細く裂いた艶やかな濃緑の焼き海苔がふんわりとかかり、刻みねぎや少量の紅しょうががアクセントに添えられている。和風の陶器の丼、木目のテーブル、柔らかな自然光で温かみを表現し、浅い被写界深度と高解像度で食欲をそそる質感と色彩を強調する。",
+    "finished_at": "2025-09-07T04:54:49.144510"
+}
