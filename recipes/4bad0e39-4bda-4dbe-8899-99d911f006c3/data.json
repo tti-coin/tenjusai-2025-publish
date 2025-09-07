@@ -1,0 +1,27 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "4bad0e39-4bda-4dbe-8899-99d911f006c3",
+    "created_at": "2025-09-07T05:35:12.858376",
+    "estimated_duration": 49708,
+    "started_at": "2025-09-07T05:35:12.860579",
+    "title": "スライスしたゆで卵",
+    "comment": "非常にシンプルながら卵の質がはっきり出る一品です。包丁の切り方で見た目と食感が変わるので、ちょっとした職人気分が味わえます。黄身の輝きに思わず笑顔になる、卵好きにはたまらない一皿です。",
+    "image_prompt": "A close-up, highly detailed, appetizing photograph of a sliced hard-boiled egg arranged fan-like on a small rustic ceramic plate. The egg whites are smooth and glossy, the yolks are rich, creamy golden with a slightly soft center visible where sliced, showing delicate texture and inviting creaminess. Lightly sprinkled with flaky sea salt and freshly cracked black pepper, topped with finely chopped chives and a tiny drizzle of extra virgin olive oil for sheen. Shot in warm natural window light with a shallow depth of field, soft bokeh background of a wooden table and linen napkin, 45-degree angle composition, macro lens-level detail, vibrant natural colors, realistic food photography style, mouth-watering, minimal props, crisp focus on the egg slices and pleasing soft shadows for an elegant, homey presentation.",
+    "finished_at": "2025-09-07T05:35:57.637302"
+}
