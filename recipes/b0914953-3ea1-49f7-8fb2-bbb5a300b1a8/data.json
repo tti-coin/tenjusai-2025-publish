@@ -1,0 +1,139 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ]
+    ],
+    "job_id": "b0914953-3ea1-49f7-8fb2-bbb5a300b1a8",
+    "created_at": "2025-09-07T05:25:01.402076",
+    "estimated_duration": 45900,
+    "started_at": "2025-09-07T05:25:01.404964",
+    "title": "フルーツクリームさつまいもプレート",
+    "comment": "さつまいものホクホク感と砂糖・バターのコクで素朴な甘さが楽しめます。冷たい生クリームといちご・みかん・りんご・さくらんぼの酸味がアクセントになり、味のバランスが良い一皿です。最後の「愛情をレンジでチンする」は遊び心たっぷりなので、電子レンジは短時間で生クリームが溶けないように気をつけて（心はたっぷりチンして）。",
+    "image_prompt": "温かく煮たさつまいもを厚めの輪切りまたは半分にカットして皿に並べ、砂糖で軽くキャラメリゼして溶けたバターがとろりとかかる様子。中央にふんわり盛った生クリームが雪のようにのり、瑞々しいいちごのスライス、みかんの房、薄切りのりんご、艶やかなさくらんぼを彩りよく散らす。蒸気がほんのり立ち上る温かさと、冷たいクリームやジューシーなフルーツの対比が感じられるクローズアップ。白い陶器のプレート、木製テーブル、柔らかい自然光、浅い被写界深度で背景はぼかし、質感と光沢、バターの艶、クリームの柔らかさ、果実の鮮やかな赤とオレンジが際立つ美味しそうな一皿を描写してください。",
+    "finished_at": "2025-09-07T05:25:52.941587"
+}
