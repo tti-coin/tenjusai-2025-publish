@@ -1,0 +1,119 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "c603f507-6015-48ee-b549-6e5a2f44d7ce",
+    "created_at": "2025-09-07T02:43:52.295864",
+    "estimated_duration": 46377,
+    "started_at": "2025-09-07T02:43:52.298847",
+    "title": "さつまいもフライと牛肉の蒸しパンサンド",
+    "comment": "さつまいもの甘みとカリッとした食感が、つぶした牛肉のジューシーさとよく合い、蒸しパンが全体を優しくまとめます。にんにく入りのケチャップマヨが味にコクを加え、手軽なのに満足感の高い一品です。揚げ物と蒸しパンは温度差で扱いに注意を—熱々で頬張るとソースが飛びやすいので服や顔への飛散に気をつけてください（少しの注意でおいしさは倍増します）。",
+    "image_prompt": "蒸しパンで包んだ熱々のサンドをクローズアップ。ふんわり白い蒸しパンを半分に割ると、中にはカリッと揚がった黄金色のさつまいもフライが並び、シャキッとした緑のレタス、粗くつぶしてこんがり焼いたジューシーな牛肉が層になっている。表面にはにんにく風味のケチャップとマヨネーズ、オリーブオイルを混ぜた艶やかな赤白のソースがたっぷり塗られ、ソースの照りと立ち上る蒸気が食欲をそそる。木製のプレートに載せ、温かみのある自然光で柔らかく陰影をつけた食卓のシーン。さつまいものホクホク感、レタスのシャキシャキ感、牛肉の焦げ目とジューシーさがはっきり見えるように、質感と光沢、油の艶を強調して描写してください。",
+    "finished_at": "2025-09-07T02:44:45.216493"
+}
