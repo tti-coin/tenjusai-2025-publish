@@ -1,0 +1,135 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みりん"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "eb39388d-34c4-4aa9-a941-f7fc793e2f05",
+    "created_at": "2025-09-07T02:14:59.072316",
+    "estimated_duration": 49479,
+    "started_at": "2025-09-07T02:14:59.074980",
+    "title": "親子丼",
+    "comment": "家庭の王道、ふんわり卵と甘辛い鶏の旨味がご飯に染みた親子丼の完成です。玉ねぎの甘みとみりんの照りが食欲を刺激して、思わずお箸が飛んで行きそうになるほどの魅力がありますよ。卵は半熟でとろっと仕上げるのがコツなので、火加減を見ながら手早く仕上げるとさらに美味しくなります。",
+    "image_prompt": "白い深めの陶器の丼に盛られた熱々の親子丼。ふっくらとした白ごはんの上に、しょうゆ・砂糖・みりんで照りよく煮た鶏肉と飴色に透き通った玉ねぎがたっぷり乗り、卵がとろっと半熟で全体に絡んでいる。煮汁がご飯に染み込みつややかに光り、湯気が立ちのぼる様子を強調。刻んだ青ねぎが散らされ、卵の滑らかな質感と鶏肉のほろほろした繊維が見えるように、やや寄った45度のアングルで撮影。木目のテーブル上、柔らかい自然光で温かみのある色味、浅い被写界深度で背景をぼかし家庭的で食欲をそそる雰囲気を演出。",
+    "finished_at": "2025-09-07T02:15:46.980904"
+}
