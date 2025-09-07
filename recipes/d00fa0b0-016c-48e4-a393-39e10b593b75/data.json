@@ -1,0 +1,117 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "d00fa0b0-016c-48e4-a393-39e10b593b75",
+    "created_at": "2025-09-07T01:43:12.445981",
+    "estimated_duration": 49878,
+    "started_at": "2025-09-07T01:43:12.448622",
+    "title": "ラムと枝豆のライスボウル",
+    "comment": "ラムの香ばしさと枝豆のほくほく感がご飯にぴったり合います。塩こしょうだけのシンプル味なので、焼き加減で風味が大きく変わる点に注意してください（焦げる前に皿に移す技を会得しよう）。レタスとにんじんのシャキシャキ食感がアクセントになり、見た目も元気になる一品です。",
+    "image_prompt": "白い深めの器に盛られた蒸した白ご飯の上に、香ばしく焼き色がついたラム肉の薄切りを大胆にのせる。ラムには粗挽きの黒こしょうと白い塩の粒が見え、焼き面には照りと軽い焦げ目がついている。横にはシャキッとしたレタスの千切り、鮮やかな緑の枝豆、オレンジの細切りにんじんを混ぜたサラダが彩りよく盛られ、野菜の瑞々しい質感とカラフルな対比が食欲をそそる。湯気が立ち上るご飯、ラムの肉汁の艶、サラダのフレッシュさが伝わるように、自然光で柔らかく照らされた上から45度のクローズアップ構図。背景は温かみのある木目のテーブルでシンプルに、家庭的で美味しそうな一皿を強調してください。",
+    "finished_at": "2025-09-07T01:43:53.886124"
+}
