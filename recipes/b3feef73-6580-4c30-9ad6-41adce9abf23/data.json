@@ -1,0 +1,161 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "じゃがいも"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ]
+    ],
+    "job_id": "b3feef73-6580-4c30-9ad6-41adce9abf23",
+    "created_at": "2025-09-07T06:02:11.905865",
+    "estimated_duration": 54642,
+    "started_at": "2025-09-07T06:02:11.908905",
+    "title": "ベジ＆フルーツのミックスソテー",
+    "comment": "野菜と果物、乳製品と発酵食品が一皿で楽しめる意外性のあるレシピで、色彩と食感のコントラストが楽しいです。牛乳ベースのガーリックソースとソーセージの旨味が全体をまとめ、フルーツの爽やかさがいいアクセントになります。納豆と豆腐をすりおろしたペーストは驚きのコクを生み出すので、辛味の量は調整して遊び心を大切にどうぞ。",
+    "image_prompt": "大きめのフライパンで色とりどりの野菜とフルーツが一体になった一皿をクローズアップで。薄茶色に香ばしく焼き色のついたキャベツ、鮮やかな緑のオクラ、つやのある紫のなす、ほっくりしたじゃがいも、しめじのきのこらしい褐色が混ざり合い、そこにちぎったりんごの淡い赤、バナナの黄、アボカドのクリーミーな緑がアクセントとして散らばる。別で牛乳とにんにくの香りが立つクリーミーなソースにこんがり焼いたソーセージの輪切りが溶け込んで、全体をなめらかにまとめる。仕上げに納豆と豆腐、かつおぶし、唐辛子をすりおろして作った粘りのあるペーストを中央にのせ、削り節のフレークと刻みネギ、白ごまを散らした。温かい湯気、艶のあるソース、木製テーブルと自然光で家庭的かつ食欲をそそる構図に。食感のコントラストと彩りが豊かな、少し不思議で魅力的な料理の完成図。",
+    "finished_at": "2025-09-07T06:03:05.767548"
+}
