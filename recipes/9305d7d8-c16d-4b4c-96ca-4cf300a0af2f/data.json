@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "あゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "かつおぶし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "9305d7d8-c16d-4b4c-96ca-4cf300a0af2f",
+    "created_at": "2025-09-07T05:15:28.150199",
+    "estimated_duration": 47198,
+    "started_at": "2025-09-07T05:15:28.151416",
+    "title": "焼き魚とチーズの和風シーフードごはん",
+    "comment": "焼きごはんにチーズとぽん酢、かつお節を合わせるというユニークな組み合わせが新鮮で、和と洋の旨味が同時に楽しめます。まぐろを生で使うなら鮮度は最優先、焼き魚と混ぜる前に別添えで提供するのがおすすめです。チーズとぽん酢は酸味で分離しやすいので、食べる直前に軽く混ぜるとふんわり美味しく仕上がります。",
+    "image_prompt": "香ばしく焼き目の付いたごはんの塊を中心に、頭と尾を残してこんがり焼かれた鮎（あゆ）を堂々と添えた和風シーフードプレート。横には鮮やかな赤身のまぐろの薄切りが並び、香ばしく焼いたあじの身が彩りを加える。ごはんにはチーズがとろりと混ざり込み、ぽん酢が艶のある液体となって全体に軽くかかっている。かつお節がふわりと舞い、青じそや刻みネギ、レモンのくし切りがアクセント。木製の皿に盛り付け、湯気が立ち上る温かさと油の照り、焦げ目の質感を強調したクローズアップのフォトリアルな一枚。自然光で柔らかい影、浅い被写界深度、高解像度で料理のテクスチャーと艶を際立たせて。",
+    "finished_at": "2025-09-07T05:16:34.222084"
+}
