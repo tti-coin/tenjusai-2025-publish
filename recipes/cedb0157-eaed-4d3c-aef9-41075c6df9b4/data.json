@@ -1,0 +1,97 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "たら"
+            },
+            {
+                "type": "ingredient",
+                "value": "たい"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "cedb0157-eaed-4d3c-aef9-41075c6df9b4",
+    "created_at": "2025-09-07T05:04:01.741617",
+    "estimated_duration": 43728,
+    "started_at": "2025-09-07T05:04:01.743993",
+    "title": "海鮮握り盛り合わせ",
+    "comment": "酢飯のほのかな酸味と多彩なネタが一皿で楽しめる豪華な握り盛り合わせです。ネタごとに味わいが異なるので、食べる順番を工夫すると旨味のコントラストが楽しいですよ。あまりにも豪華すぎて写真を撮りすぎると実食が後回しになるので、ほどほどに撮影して美味しく召し上がれ！",
+    "image_prompt": "木製の長方形の寿司板に酢飯を握った12貫の握り寿司が美しく並べられているクローズアップ。まぐろは濃い赤、さけはオレンジ、たらは透き通るような白、たいは淡いピンク、さば・あじは銀色の光沢、さんまは濃い青灰、たこは白地に紫縁、いかは乳白色、ほたては厚みのあるクリーム色、えびは淡いピンク、かには繊毛状の赤みと白のコントラスト。各ネタには薄く光る照り、シャリには酢の艶があり、ネタとシャリの間にわさびの緑が覗く。脇にたっぷりのガリと大葉、醤油の小皿、和風の麻布と竹の巻き簾を背景に、柔らかな自然光が斜めから当たり質感を際立たせる。被写界深度の浅いマクロ風で、前方の数貫にピントを合わせ背景はやわらかくぼける。高解像度・フォトリアルで食欲をそそる一枚。",
+    "finished_at": "2025-09-07T05:04:58.160606"
+}
