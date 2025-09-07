@@ -1,0 +1,107 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーナッツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ]
+    ],
+    "job_id": "11685515-7572-40fe-a5c0-deb0d8d771e3",
+    "created_at": "2025-09-07T02:45:20.717141",
+    "estimated_duration": 48953,
+    "started_at": "2025-09-07T02:45:20.719671",
+    "title": "はちみつピーナッツ豆腐のクリーム煮",
+    "comment": "生クリームのまろやかさとはちみつピーナッツの香ばしいコントラストが新鮮で、豆腐の優しい食感とよく合います。愛情を“盛る”というユーモアが料理に温かさを添え、見た目も心もほっこりします。豆腐は煮すぎると崩れやすいので火加減は優しく、甘さはお好みで調整してください。",
+    "image_prompt": "温かい陶器の浅いボウルに盛られた一皿。滑らかな生クリームと砂糖で作った淡いクリーム色のソースがとろりと豆腐の上に絡み、所々に湯気が立ち上る。絹ごし豆腐は一口大の角切りで艶があり、上にははちみつで照りを出した飴色のローストピーナッツがたっぷり散らされている。ソースの表面にははちみつでハート模様を描いた繊細なドリズルと、砕いたピーナッツの粗いテクスチャー、仕上げに軽く散らした海塩の結晶と緑のマイクログリーンがアクセント。木のスプーンが寄せられ、暖かな自然光がかかった家庭的でほっとする雰囲気。クローズアップ、浅い被写界深度、高解像度で艶と質感を強調。",
+    "finished_at": "2025-09-07T02:46:04.647542"
+}
