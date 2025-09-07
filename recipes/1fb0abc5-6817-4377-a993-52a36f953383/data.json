@@ -1,0 +1,129 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ハム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "わかめ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆板醤"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ]
+    ],
+    "job_id": "1fb0abc5-6817-4377-a993-52a36f953383",
+    "created_at": "2025-09-07T02:25:46.342643",
+    "estimated_duration": 47716,
+    "started_at": "2025-09-07T02:25:46.345202",
+    "title": "まぐろとハムの海藻中華麺",
+    "comment": "海の恵みのまぐろと保存の利くハムという意外なコンビネーションが、新鮮な海藻と合わさって旨味の層を作ります。豆板醤がピリッと香りを引き立て、塩しょうゆスープに深みを与えて食欲をそそります。見た目はちょっと冒険ですが、一口ごとに驚きと満足がやってくる“食べる実験”のような一杯です。",
+    "image_prompt": "大きめの白い陶器の丼に盛られた、湯気の上がる中華麺のクローズアップ。つやつやと光る細めの中華麺が美しく盛られ、淡い塩しょうゆベースの澄んだスープに豆板醤の赤い渦が溶け込んでいる。中央に新鮮なまぐろの赤身ブロックを数切れ、薄くスライスしたハムを扇状に並べ、その周りに黒々としたのりの板と緑色のわかめ、細切りのこんぶを重ねる。輪切りの赤とうがらしと小口切りの青ねぎが鮮やかなアクセントになり、表面には少量のごま油と白ごまが散らされている。湯気と共にスパイシーな香りが立ち上り、箸で麺を持ち上げる瞬間を切り取った45度のアングル、浅い被写界深度で背景を柔らかくぼかし、温かく食欲をそそる雰囲気を強調。色彩は赤、緑、黒、淡い琥珀色のスープが調和し、和洋折衷のユニークな一杯として美味しそうに見えるようディテールを豊かに描写する。",
+    "finished_at": "2025-09-07T02:26:43.055263"
+}
