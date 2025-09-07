@@ -1,0 +1,111 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たい"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ]
+    ],
+    "job_id": "f5ca1395-c2e1-4152-8d20-7e4505dd8000",
+    "created_at": "2025-09-07T02:33:48.062199",
+    "estimated_duration": 52006,
+    "started_at": "2025-09-07T02:33:48.064568",
+    "title": "のりソース冷製鯛のブレッドライス",
+    "comment": "のりを溶かしたソースが鯛の淡白さに深いうま味をプラスする、海の香りあふれる一皿です。揚げえのきのカリカリ感とちぎったパンのざっくり感が楽しい食感のコントラストを生みます。とうがらしの量とごはんを注ぐタイミングに注意すれば、見た目も味も驚きのあるユニークな料理になります。",
+    "image_prompt": "冷たく引き締めた薄切りの鯛の切り身を白い浅い皿の中央に扇状に並べ、その上に艶のある溶かした緑のりソースをとろりとかける。赤いちぎったとうがらしがアクセントに散りばめられ、黄金色にカリッと揚がったえのきだけが上から軽やかに乗る。煮てしんなりとした紫蘇の葉は光沢のある緑色のリボン状に添えられ、ふんわりと注がれた白ごはんは所々に米粒の艶を残す。粗くちぎったパン片が周囲に散らされ、食感の対比を示す。背景は木製のテーブル、暖かい自然光が斜めから差し込み、浅い被写界深度で手前の具材にピント、全体に食欲をそそる彩りと湿り気のある光沢を強調する。",
+    "finished_at": "2025-09-07T02:34:36.193571"
+}
