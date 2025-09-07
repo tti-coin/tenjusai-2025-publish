@@ -1,0 +1,57 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ]
+    ],
+    "job_id": "20fe44f4-44f1-4c0b-9b20-120c3f9262c2",
+    "created_at": "2025-09-07T03:01:49.122481",
+    "estimated_duration": 50866,
+    "started_at": "2025-09-07T03:01:49.124499",
+    "title": "ごまハニートースト",
+    "comment": "ごまの香ばしさとはちみつの優しい甘さがシンプルに合わさって素朴に美味しい一品です。愛情をかけるという一手間が見た目と味の両方に効いて、食べる人の心もほっこり温めます。カロリーは愛情で帳消し……とは言えないので、食べ過ぎには気をつけてくださいね。",
+    "image_prompt": "A photorealistic close-up of a single slice of toasted bread on a rustic wooden plate, golden-brown crust and soft crumb visible. Generous honey brushed across the surface, glistening and slightly pooled along the edges, with a honey dipper caught mid-drizzle forming a delicate heart-shaped stream to symbolize 愛情. Evenly sprinkled black and white sesame seeds scattered on top, some toasted and shiny, creating contrast and texture. Warm morning light with shallow depth of field, gentle steam rising, cozy kitchen background with a linen napkin and vintage butter knife, high detail on crumb, sesame, and honey reflectivity, mouthwatering and appetizing, high resolution, natural colors, soft bokeh.",
+    "finished_at": "2025-09-07T03:02:36.608308"
+}
