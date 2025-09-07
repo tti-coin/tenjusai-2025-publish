@@ -1,0 +1,109 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "f2336083-1b38-4abe-9802-1de6e76c6438",
+    "created_at": "2025-09-07T03:38:41.219528",
+    "estimated_duration": 45022,
+    "started_at": "2025-09-07T03:38:41.222101",
+    "title": "とうもろこしと海鮮のマヨチリパスタ",
+    "comment": "プリッとしたえびと甘いとうもろこしがマヨネーズのまろやかさと相性抜群で、食感と風味のバランスが楽しい一皿です。唐辛子がピリッとアクセントを添えるので、辛さはお好みで調整すると良いでしょう。海鮮は火を通しすぎないのがコツなので、えびとほたては手早く仕上げて“踊る”食感を楽しんでくださいね。",
+    "image_prompt": "温かいパスタの上に黄金色のとうもろこし粒がたっぷりのり、プリッとした殻を剥いたえびと厚みのあるほたて貝柱が散らされた一皿をクローズアップで。マヨネーズベースのクリーミーなソースが光を受けてつやつやと絡み、赤い唐辛子の輪切りが鮮やかなアクセントになっている。アルデンテに茹でたスパゲッティに湯気が立ち、刻みパセリとレモン薄切りが添えられ、黒胡椒が軽く振られている様子。自然光の柔らかいライティングで、浅い被写界深度により手前の具材にピントが合い、背景は温かい木のテーブルで家庭的な温もりを演出。食欲をそそる照りと色彩、海鮮の瑞々しさとコーンの甘さが視覚的に伝わる美味しそうな一枚に。",
+    "finished_at": "2025-09-07T03:39:20.826956"
+}
