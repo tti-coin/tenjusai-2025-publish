@@ -1,0 +1,121 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ]
+    ],
+    "job_id": "e7c6dae4-5a84-4ce4-96e4-b313cde40916",
+    "created_at": "2025-09-07T04:13:32.732456",
+    "estimated_duration": 43689,
+    "started_at": "2025-09-07T04:13:32.735014",
+    "title": "ガーリックグリル野菜とすりおろし牛肉",
+    "comment": "にんにくたっぷりのガーリック風味が野菜の甘みを引き立てる、香ばしく力強い一皿です。すりおろし牛肉が食感とビジュアルに面白さを加え、見た目のインパクトも抜群。注意点としてはにんにくの量で印象が大きく変わることと、もし生に近い状態のすりおろし牛肉を使うなら鮮度と衛生管理をしっかり行ってください（にんにくの余波で会話がタフになる可能性あり）。",
+    "image_prompt": "香ばしくグリルされた家庭的な一皿。半分に切ってしっかり焼き目がついたトマト、輪切りや粒で表情を出した香ばしいトウモロコシ、ねっとりととろける焼き茄子のスライス、飴色に炒めた玉ねぎとローストしたにんにくが混ざり合い、オリーブオイルと塩胡椒、ハーブでシーズニングされた様子。隣には細かくすりおろされた牛肉の小山が控えめに盛られ、瑞々しい赤みと繊維の表情が見える。白い陶器の深皿に盛り、上から粗挽き黒胡椒とパセリの緑を散らし、オリーブオイルの艶とバルサミコの照りをほんの少しだけ垂らしてコントラストを作る。温かい自然光の下、クローズアップで撮影、食欲をそそる焦げ目とジューシーさを強調した構図で。",
+    "finished_at": "2025-09-07T04:14:23.899392"
+}
