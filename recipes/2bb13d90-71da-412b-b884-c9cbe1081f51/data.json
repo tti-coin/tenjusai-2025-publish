@@ -1,0 +1,217 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鴨肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "アスパラガス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "こまつな"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            }
+        ]
+    ],
+    "job_id": "2bb13d90-71da-412b-b884-c9cbe1081f51",
+    "created_at": "2025-09-07T04:27:26.800928",
+    "estimated_duration": 44834,
+    "started_at": "2025-09-07T04:27:26.804297",
+    "title": "ゴーヤとアスパラの冷製ミックスサラダ（冷凍鴨とフォー添え）",
+    "comment": "大胆な素材使いで見た目のインパクトは抜群、まるで食べる現代アートのような一皿です。蒸したマヨネーズや冷凍鴨などユニークな処理がアクセントになり、一口ごとに驚きが続きます（良い意味で）。調理の際は冷凍鴨の扱いや加熱の具合に気を付けて、安全に美味しく仕上げてくださいね、友達のリアクションは保証します！",
+    "image_prompt": "白い大皿に盛られたカラフルでややワイルドな一皿。中央に氷で冷やした透き通るフォーの白い麺をやや崩した山にし、その周囲に半分に割ったゴーヤの緑の半月、レンジでしんなりさせたキャベツの淡い黄緑、手で握って形を整えたような厚みのあるアスパラの束を配置。割いた牛肉は赤みの残る薄切り風に、冷凍した鴨肉は薄くスライスして表面にうっすら霜が残る演出で添える。蒸してとろりとした艶のあるマヨネーズソースを細く絞り、温めたごまを香ばしく振りかける。うずら卵を握って丸く形を整えたものを散らし、レタス、こまつな、ピーマン、オクラ、ズッキーニ、えだまめをランダムに配置して多彩な色と食感を演出。全体に軽くオリーブオイルを回しかけ、木製のテーブル上で自然光を浴びるクローズアップ。シャープな質感としっとりした艶、温冷のコントラストが伝わる描写で、見た瞬間に食べたくなるような美味しそうな完成イメージを強調。",
+    "finished_at": "2025-09-07T04:28:14.485470"
+}
