@@ -1,0 +1,155 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "8cf07611-baeb-49ab-8cf4-95e148d08e52",
+    "created_at": "2025-09-07T04:51:51.798118",
+    "estimated_duration": 46293,
+    "started_at": "2025-09-07T04:51:51.800808",
+    "title": "ソーセージとスクランブルエッグ（ケチャップ添え）",
+    "comment": "ソーセージの香ばしい焼き目とふんわり卵のコントラストが食欲をそそる、王道の朝ごはんです。卵は火を弱めにして手早く混ぜるとふわとろに仕上がるので、焦らずフライパンの前でダンスする気持ちで調理してください。ケチャップは味のアクセントになる一方でかけすぎると卵の繊細さが負けるので、少量ずつかけて味を調整しましょう。",
+    "image_prompt": "高解像度でフォトリアリスティックな料理写真。白い丸皿に、こんがり焼き色がついた輪切りのソーセージが並び、その隣にふんわりとした半熟寄りのスクランブルエッグが盛られている。卵はクリーミーで黄金色、表面に小さな気泡と光沢があり、ソーセージの縁はカリッと香ばしい焦げ目が見える。全体に粗挽き胡椒と少量の刻みパセリが散らされ、上から鮮やかな赤いケチャップが美しく線を描くようにかかっている。湯気が立ち上り、朝の柔らかい自然光が斜めから当たって陰影を作り、木のテーブルとナチュラルなランチョンマットを背景に置かれている。浅い被写界深度で手前の料理にピントを合わせ、質感と色味が引き立つように。食欲をそそる温かさと家庭的な雰囲気を強調する構図で、プロ仕様の料理写真として魅力的に見えるように描写してください。",
+    "finished_at": "2025-09-07T04:52:29.793547"
+}
