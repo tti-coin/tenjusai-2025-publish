@@ -1,0 +1,113 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "むす"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "62ce4bf6-46c8-4885-b919-dd3b0c4a198d",
+    "created_at": "2025-09-07T03:27:48.853311",
+    "estimated_duration": 46217,
+    "started_at": "2025-09-07T03:27:48.856104",
+    "title": "うなぎのせ焼きごはん",
+    "comment": "ごはんを一度焼いて香ばしさを出し、うなぎの照りと合わせる発想がユニークで食欲をそそります。うなぎのタレは焦げやすいので火加減に注意し、仕上げに温め直して照りを出すのがコツです。何度も盛り付ける“念入りさ”が伝わり、食べる前から愛情を感じる一皿になります（食べ過ぎ注意）。",
+    "image_prompt": "香ばしく焼き目のついたごはんの塊に、照りのある蒲焼き風うなぎの切り身を大胆にのせた一品。表面は艶やかなタレでコーティングされ、香ばしい焦げ目と湯気が立ち上る様子が見える。横には刻みネギと白ごま、少量の山椒粉が振られ、木製の器か漆器に盛られている。柔らかな照明でごはんの粒やうなぎの照り、タレの粘りと蒸気の質感を強調したクローズアップで、温かく食欲をそそる和風の食卓シーンを描写する。背景はぼかして家庭的な雰囲気を残し、自然光で艶と影を生かした写実的なスタイル。",
+    "finished_at": "2025-09-07T03:28:31.022830"
+}
