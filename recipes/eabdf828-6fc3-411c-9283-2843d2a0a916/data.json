@@ -1,0 +1,113 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "eabdf828-6fc3-411c-9283-2843d2a0a916",
+    "created_at": "2025-09-07T02:16:10.687948",
+    "estimated_duration": 49174,
+    "started_at": "2025-09-07T02:16:10.690673",
+    "title": "ベーコンと卵のシンプルカルボナーラ",
+    "comment": "材料が少なく手早く作れるのに満足感は抜群で、卵がパスタ全体をまろやかにまとめるのが魅力です。火加減とタイミングが命なので、卵を加えるときは熱々のパスタに素早く混ぜてスクランブルにならないよう注意してください。ベーコンの香ばしさがアクセントになり、朝食にも夜食にも合う愛されメニューで、キッチンで思わずにんまりしてしまう一品です。",
+    "image_prompt": "茹でたスパゲッティに温かい卵が絡んでとろりと光る一皿。細めのパスタ麺が艶やかに束になり、半熟気味の卵がクリーミーに全体をコーティングしている様子をクローズアップで。角切りにしてカリッと焼かれたベーコンが散りばめられ、表面の香ばしい焦げ目と肉のジューシーなテクスチャーが際立つ。白い深皿に盛られ、フォークで麺を巻いた瞬間の湯気と光沢を強調。温かい自然光で柔らかく照らされ、背景は木のテーブルとごく薄いぼかしで家庭的な雰囲気。卵の黄味の鮮やかな色とベーコンの褐色、麺のクリーミーな艶感を中心に写す。観る人がすぐに一口食べたくなるような質感と温度感を重視した描写。",
+    "finished_at": "2025-09-07T02:17:02.859731"
+}
