@@ -1,0 +1,135 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ライチ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "塗る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ]
+    ],
+    "job_id": "0102351f-27ce-4225-b1bc-06056381c9d1",
+    "created_at": "2025-09-07T02:55:03.764109",
+    "estimated_duration": 51302,
+    "started_at": "2025-09-07T02:55:03.767095",
+    "title": "フルーツミックスのホットフライ",
+    "comment": "色とりどりのフルーツがとろけ合う、見た目も楽しいホットフライです。ドリアンのクリーミーな塗りものが大胆なアクセントになるので、香りが気になる方は控えめに塗るのがおすすめです（笑）。揚げてレンジで温めることで外はカリッと中はとろり、冷やしてすりおろした「愛情」の繊細な粉雪が全体をまとめます。",
+    "image_prompt": "色とりどりのフルーツを大胆に揚げて温めた一皿。溶かしたデコポン、ライチ、ラズベリー、もも、キウイ、なし、メロン、ぶどう、いちごの濃厚で艶のあるソースが、器の中央でとろりと光りながら果実片に絡んでいる。割ったパイナップルの半身が豪快に盛られ、焼き目と蒸気が立ち上る様子が見える。マスカットとさくらんぼ、そして特徴的なドリアンのクリーミーなスプレッドが小さなスプーンで添えられ、濃厚な香りと滑らかな質感の対比を作る。冷やしてすりおろした「愛情」は細かい粉雪のように上から振りかけられ、ピンクと白のフェザーのように見える。全体は外側がきつね色にカリッと焼け、中はとろりとした果汁があふれる質感。温かな木のテーブル、柔らかい自然光、シャロウフォーカスで前景を引き立てた高解像度のクローズアップ写真を想定。食欲をそそる艶、色彩のコントラスト、蒸気とキャラメリゼのきらめきを強調してください。",
+    "finished_at": "2025-09-07T02:55:57.280309"
+}
