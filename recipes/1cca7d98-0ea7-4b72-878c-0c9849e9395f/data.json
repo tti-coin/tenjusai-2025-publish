@@ -1,0 +1,141 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "青ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ]
+    ],
+    "job_id": "1cca7d98-0ea7-4b72-878c-0c9849e9395f",
+    "created_at": "2025-09-07T02:18:37.350226",
+    "estimated_duration": 47437,
+    "started_at": "2025-09-07T02:18:37.353002",
+    "title": "ガーリックしそ風味のえびフライ包み",
+    "comment": "にんにくとしその爽やかな風味がえびフライのコクを引き立てる一品です。揚げた芽キャベツの香ばしさとシャキシャキのキャベツが食感のアクセントになって魅力的です。包むときは熱々のえびで生地が破れないよう注意してください、美味しさのためなら手が少し汚れるのはご愛嬌ですね！",
+    "image_prompt": "薄めの小麦粉生地を薄く焼いたクレープに、すりおろしたにんにくと長ねぎ、刻んだトマト、唐辛子、しその葉、塩こしょうを混ぜた鮮やかなソースを薄く塗り、サクサクに揚げた黄金色のえびフライを中央に並べる。たっぷりの千切りキャベツとレタスを巻き込み、上から小口切りの青ねぎを散らし、横に香ばしく揚がった芽キャベツを添える。しその葉の緑、唐辛子の赤味、揚げ物の黄金色が映えるように自然光で撮影し、ふんわり立ちのぼる湯気と食感が伝わる大きめのクローズアップ。木製のプレートにのせ、レモンくし切りと粗びき黒胡椒、少量のオリーブオイルの艶を加えて、鮮明で高解像度、暖かいトーンの美味しそうな食べ物写真をイメージしてください。",
+    "finished_at": "2025-09-07T02:19:20.476444"
+}
