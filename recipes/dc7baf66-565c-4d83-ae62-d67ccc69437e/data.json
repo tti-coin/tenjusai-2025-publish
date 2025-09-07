@@ -1,0 +1,191 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "particle",
+                "value": "へ"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "dc7baf66-565c-4d83-ae62-d67ccc69437e",
+    "created_at": "2025-09-07T01:28:20.210278",
+    "estimated_duration": 48715,
+    "started_at": "2025-09-07T01:28:20.214237",
+    "title": "フルーツと肉のカレークリームライス",
+    "comment": "大胆な組み合わせがユニークで、甘味とスパイスのコントラストが楽しめます。バナナとマスカットのフルーティーさはカレーと生クリームによく合い、意外に調和しますが、辛さと甘さのバランスには注意してください。愛情たっぷりに仕上げれば、話題になること間違いなしの遊び心あふれる一皿です。",
+    "image_prompt": "A photorealistic, high-resolution plated dish: a warm mound of steamed rice dusted generously with golden curry powder, topped with tender slices of microwave-steamed chicken and chilled thinly sliced pork artfully fanned at the side. Around the rice are caramelized onion-wrapped sweet potato pieces with a slightly glazed surface, grated banana turned into a pale creamy ribbon, and a cluster of glossy green muscat grapes for contrast. A silky sauce of melted butter and fresh cream is drizzled over and pooling slightly, with bright red chili flakes and a light sprinkle of curry powder for heat and color. Shot at a 45-degree angle with shallow depth of field, warm natural lighting, vivid colors, detailed textures (rice grains, glossy grapes, creamy sauce), appetizing steam and a rustic ceramic plate.",
+    "finished_at": "2025-09-07T01:29:05.986026"
+}
