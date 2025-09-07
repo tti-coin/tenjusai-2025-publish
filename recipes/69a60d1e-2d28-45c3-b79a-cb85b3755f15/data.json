@@ -1,0 +1,107 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ドリアン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "マンゴー"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "まで"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "69a60d1e-2d28-45c3-b79a-cb85b3755f15",
+    "created_at": "2025-09-07T02:57:52.890324",
+    "estimated_duration": 53112,
+    "started_at": "2025-09-07T02:57:52.892749",
+    "title": "ドリアンの手握りフルーツタルト",
+    "comment": "クリーミーなドリアンと瑞々しいフルーツが一度に楽しめる、思い切ったアイデアが光る一品です。小麦粉で生地をまとめて手で仕上げる素朴さは家庭的で親しみやすく、色とりどりのトッピングが視覚的にも楽しいですね。ドリアンの香りは強烈なので、調理と保存は換気を忘れずに——驚きの美味しさに出会えるかも、という期待とともにお試しください（笑）。",
+    "image_prompt": "手で握って成形した素朴なフルーツタルトのクローズアップ。薄く粉をまぶした小麦粉生地が手の跡を残し、中央にはクリーミーで濃厚なドリアンの果肉がたっぷり。周囲にはバナナの薄切りと半分に切ったいちご、みかんの房が鮮やかに並び、その上に艶のあるぶどうとマスカット、ブルーベリー、マンゴーのオレンジ色スライス、キウイの緑、薄切りの梨（なし）が層状にのせられている。表面に軽いグレーズをかけて光沢を出し、粉が散った木製のボードの上に置かれ、手元が写り込む臨場感。自然光の温かいハイライトと柔らかな影、浅い被写界深度で質感を強調した高解像度の美味しそうなフードフォト風に描写してください。",
+    "finished_at": "2025-09-07T02:58:43.333956"
+}
