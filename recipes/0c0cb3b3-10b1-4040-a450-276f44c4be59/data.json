@@ -1,0 +1,121 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "アボカド"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "0c0cb3b3-10b1-4040-a450-276f44c4be59",
+    "created_at": "2025-09-07T05:13:27.200301",
+    "estimated_duration": 46565,
+    "started_at": "2025-09-07T05:13:27.202807",
+    "title": "トマトとアボカド、サーモンと桃のチーズサラダ",
+    "comment": "トマトの酸味と桃の甘みがサーモンとチーズのコクを引き立て、色のコントラストがとても華やかな一皿です。生のサーモンを使う場合は鮮度と衛生に注意して、安全な切り方で調理してください。最後に愛情をたっぷり盛れば味がぐっと良くなるはず、写真を撮る前にペロリといかないようご注意を（笑）。",
+    "image_prompt": "白い丸皿に美しく盛り付けられた一皿。瑞々しい赤いトマトは薄切りで扇状に並べられ、クリーミーなアボカドは薄くスライスして滑らかな緑の層を作る。光沢のあるサーモンは短冊状に切られ、鮮やかなオレンジ色が食欲をそそる。黄色がかった桃は薄切りにして甘い彩りを添え、風味のあるチーズは小さな角切りまたは薄く削って散らす。オリーブオイルとレモンのドレッシングが全体に軽く掛かり、粗挽き黒胡椒とフレッシュなバジルの葉、エディブルフラワーでアクセント。木製テーブルの上、自然光の差し込む45度の近接アングルで撮影、鮮度と艶を強調したシャープなピント、温かみのある背景で彩りとテクスチャーのコントラストが際立つ美味しそうな完成イメージ。",
+    "finished_at": "2025-09-07T05:14:14.599165"
+}
