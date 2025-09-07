@@ -1,0 +1,63 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "グレープフルーツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "パパイヤ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷やす"
+            }
+        ]
+    ],
+    "job_id": "fb9344db-5b3d-4a2e-9fc5-81f7d65c6f2b",
+    "created_at": "2025-09-07T03:18:18.206495",
+    "estimated_duration": 48157,
+    "started_at": "2025-09-07T03:18:18.208531",
+    "title": "冷やしフルーツヨーグルトサラダ",
+    "comment": "冷やした柑橘とトロピカルフルーツにヨーグルトを合わせることで、酸味と甘みのコントラストが爽やかで食欲をそそります。色合いも華やかで見た目のインパクトが強く、朝食やデザートにぴったりの一品です。バナナの変色には注意してくださいね、時間差で食べれば味は保証しますし、見た目のために速攻で写真を撮るのを忘れずに！（笑）",
+    "image_prompt": "A chilled, vibrant fruit and yogurt bowl featuring sliced grapefruit segments, banana rounds, creamy plain yogurt swirls, bright orange wedges, juicy pineapple chunks, peeled dekopon (mandarin) slices, thin lemon zest, tender peach slices, papaya cubes and scattered blueberries. The fruits glisten with cold condensation and light droplets, arranged artfully in a shallow white ceramic bowl on a rustic wooden table. Soft natural side daylight, shallow depth of field, warm summer mood, high-detail photorealistic close-up showing yogurt texture, gentle spoon marks, vivid saturated colors and strong contrasts between citrus, tropical and berry hues, inviting and refreshing composition ideal for appetizing food photography.",
+    "finished_at": "2025-09-07T03:19:08.279141"
+}
