@@ -1,0 +1,193 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "そうめん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パパイヤ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "冷凍する"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ]
+    ],
+    "job_id": "c7f8dbce-10e1-4d9d-9928-db71300923b3",
+    "created_at": "2025-09-07T05:43:49.685997",
+    "estimated_duration": 48084,
+    "started_at": "2025-09-07T05:43:49.689013",
+    "title": "しそ香る生ハムパパイヤ混沌ボウル",
+    "comment": "素材のコントラストが大胆で、甘いパパイヤと塩気のある生ハム、しその香りが効いた個性的な一皿です。納豆の蒸し過ぎやレンジでの加熱時間には注意して、食感が崩れないように調整すると良いでしょう。うずら卵とチーズに砂糖を加える冒険は面白いので、まずは少量で味見をしてから量を決めることをおすすめします。",
+    "image_prompt": "白い深めの陶器のボウルに盛られた一皿をクローズアップ。細かくちぎったそうめんが皿底にふんわりと敷かれ、その上に蒸して光沢を帯びた納豆のねばりがところどころに絡む。生ハムは大きめに切って青じそで愛情深く包み、ひらりと波打つ薄ピンクの層を作る。冷凍して表面に霜がついたパパイヤの角切りは透明感のあるオレンジ色で、氷のような冷たさとシャリッとした質感を演出。芽キャベツはレンジで柔らかくなり半分にカットされ、鮮やかな緑がアクセントになる。うずら卵とチーズに砂糖を合わせた小さなクリーミーなポーションが所々にのり、微細な砂糖粒が光っている。ごまは粗くちぎられたように散らされ、全体に香ばしさを添える。温かい蒸気と冷たいパパイヤのコントラスト、ねばり・もち感・シャリ感・しっとり感が共存する様子を、柔らかい自然光で鮮やかな色彩と質感を強調して描写してください。",
+    "finished_at": "2025-09-07T05:44:46.450231"
+}
