@@ -1,0 +1,137 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "のり"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ]
+    ],
+    "job_id": "bdfdfefd-5d12-4d74-ad52-32e898e8abee",
+    "created_at": "2025-09-07T04:35:24.594373",
+    "estimated_duration": 46078,
+    "started_at": "2025-09-07T04:35:24.596925",
+    "title": "鶏玉のり丼",
+    "comment": "シンプルな手順ながら、焼いた鶏肉の香ばしさとふんわり卵、のりの風味がごはんをしっかり支える満足感の高い一品です。玉ねぎは薄めに切って程よく透き通るまで炒め、卵は焦がさないように火加減に注意すると味が格段に上がります。作り方は直球で頼もしいので、初心者でも“丼の勇者”になれる一皿です。",
+    "image_prompt": "湯気が立ち上る深めの陶器の丼に盛られた白ごはんの上に、こんがりと焼き色のついた鶏肉のスライスが並び、鶏肉の隙間には薄く透き通った炒め玉ねぎがふんわりと添えられている。上からはやわらかくとろけるように仕上げた卵が大きめの塊や糸状にほぐれて層を作り、手でちぎった黒いのりが散らされて全体のコントラストを引き締めている。自然光に照らされて素材の艶と質感が際立ち、湯気、照り、卵のふんわり感、海苔のざっくりした質感が伝わるように中くらいのクローズアップで撮影された和風丼の完成イメージ。",
+    "finished_at": "2025-09-07T04:36:12.747338"
+}
