@@ -1,0 +1,141 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "ingredient",
+                "value": "うどん"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "ingredient",
+                "value": "そば"
+            },
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "ingredient",
+                "value": "きしめん"
+            },
+            {
+                "type": "ingredient",
+                "value": "オートミール"
+            },
+            {
+                "type": "ingredient",
+                "value": "米粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "ingredient",
+                "value": "もち"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "ingredient",
+                "value": "ダチョウの卵"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "腐った牛乳"
+            },
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "ingredient",
+                "value": "ピーマン"
+            }
+        ]
+    ],
+    "job_id": "995c3d8c-1a02-4b3d-b1e1-e820ac217202",
+    "created_at": "2025-09-07T01:34:31.338862",
+    "estimated_duration": 46575,
+    "started_at": "2025-09-07T01:34:31.341528",
+    "title": "キャベツとブロッコリーのフルーツミックスボウル",
+    "comment": "見た目のコントラストが楽しく、野菜のほくほく感とフルーツの甘酸っぱさが同時に楽しめる驚きの一皿です。具材のバリエーションが豊富なので、好きな主食を一つに絞れば家庭でも再現しやすいですよ（全部入れるとお祭り気分！）。ただしラベルの通り「腐った牛乳」は食品衛生上危険なので、演出以外では使用せず安全な代替品に置き換えてください。",
+    "image_prompt": "白い大皿に盛られた奇抜でカラフルなフュージョン料理。湯気の上がる柔らかな茹でキャベツとブロッコリーの房が皿の半分を占め、その隣には鮮やかな赤いいちごの薄切りと熟したバナナの輪切りが艶やかに並ぶ。皿の周囲は小さな区画に分かれ、それぞれに白米、薄くオリーブオイルを纏ったパスタ、湯気の立つうどん、焼き色のついたパンのスライス、そば、フォー、きしめん、オートミール、もち、米粉や小麦粉で作った小さなピースが並ぶ。中央には半熟の卵とウズラの卵の黄身がとろりと覗き、チーズの薄い削りと生クリームの淡いソースが全体に軽く垂らされている。プレートの端には小瓶が置かれ、ラベル付きで“腐った牛乳”と書かれたプロップがシュールなアクセントになっている（あくまで視覚要素）。自然光の柔らかいライティング、浅い被写界深度、上45度のアングルで撮影された美味しそうで少し不思議な料理写真、暖色系の木製テーブル背景で温かみを出す。",
+    "finished_at": "2025-09-07T01:35:20.069054"
+}
