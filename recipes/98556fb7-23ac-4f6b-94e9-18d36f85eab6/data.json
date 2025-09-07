@@ -1,0 +1,153 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "振る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さつまいも"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛乳"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "味噌"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もち"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ]
+    ],
+    "job_id": "98556fb7-23ac-4f6b-94e9-18d36f85eab6",
+    "created_at": "2025-09-07T05:28:07.069859",
+    "estimated_duration": 50544,
+    "started_at": "2025-09-07T05:28:07.072785",
+    "title": "和風もちポタージュ ベーコンごま添え",
+    "comment": "甘いさつまいものやさしい甘みと牛乳のまろやかさに、ベーコンと炒め味噌の香ばしさがアクセントになっていて、驚きのバランスが楽しめます。ごまとすりおろし昆布、ズッキーニの緑の斑点が風味と食感のコントラストを添え、見た目も食欲をそそります。ただし味噌や昆布の塩分は強くなりやすく、レンジで温めたソースや溶けた餅は非常に熱いので、味の加減と火傷対策は忘れずに — 食べるときは“もち”ょっと注意！",
+    "image_prompt": "クリーミーでとろみのある黄金色のさつまいもポタージュを主役にした一皿。牛乳でまろやかにのばされたスープ表面に溶けてとろりと伸びる白い餅のリボンが絡み、上には香ばしく焼き上げたカリカリのベーコン片が散らされている。たっぷりの白ごまが全体に振られ、すりおろした昆布の細かな緑黒の粒が旨味のアクセントを加える。ズッキーニのすりおろしがフレッシュな緑の斑点を作り、炒めた味噌のこんがりとしたこげ色の点々が深い香ばしさを演出。しょうゆのつやがところどころに見え、電子レンジで温められたとろみのあるソースが光を反射して食欲をそそる。和風の素朴な陶器の器に盛り、湯気が立ち上るクローズアップショットで質感と光沢を強調し、木のトレーと箸を添えた温かみのあるテーブルシーン。フォトリアリスティック、浅い被写界深度、自然光で柔らかく照らされた美味しそうな仕上がりを想定。",
+    "finished_at": "2025-09-07T05:29:01.575894"
+}
