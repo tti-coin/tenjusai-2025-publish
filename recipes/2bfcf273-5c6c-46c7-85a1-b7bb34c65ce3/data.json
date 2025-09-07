@@ -1,0 +1,123 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "割る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ]
+    ],
+    "job_id": "2bfcf273-5c6c-46c7-85a1-b7bb34c65ce3",
+    "created_at": "2025-09-07T04:10:35.636922",
+    "estimated_duration": 44257,
+    "started_at": "2025-09-07T04:10:35.638334",
+    "title": "焼き卵のせごはん",
+    "comment": "見た目はシンプルでも、焼き卵の香ばしさとソースの照りがごはんにしっかり合わさる満足感のある一品です。卵は好みの火加減で調整するとさらにおいしく、ソースの量は少しずつ試すとベストバランスになります。愛情を“溶かす”演出は写真映えもして楽しいですが、食べる前に少し混ぜるのを忘れずに。",
+    "image_prompt": "白い陶器の丼に盛られた炊きたてのごはんの上に、ふちがこんがり焼けて中央は半熟にとどめた焼き卵がのっている。卵の艶やかな黄金色の黄身が温かく輝き、白身は香ばしく焼き目がついている。濃いめのソースがとろりとかかり照りを作り、ソースの艶とごはんの粒の白さがコントラストを生む。湯気が立ち上り、その中にやわらかなハート型の蒸気表現で「愛情を溶かす」演出を加える。柔らかな自然光で撮られた浅い被写界深度のクローズアップ、木製の箸を添えて家庭的で温かい雰囲気を強調した美味しそうなビジュアル。",
+    "finished_at": "2025-09-07T04:11:19.955170"
+}
