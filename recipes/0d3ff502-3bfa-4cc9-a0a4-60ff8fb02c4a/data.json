@@ -1,0 +1,131 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ハム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "なっとう"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "温める"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "そうめん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ]
+    ],
+    "job_id": "0d3ff502-3bfa-4cc9-a0a4-60ff8fb02c4a",
+    "created_at": "2025-09-07T03:19:59.540180",
+    "estimated_duration": 47934,
+    "started_at": "2025-09-07T03:19:59.542997",
+    "title": "ミックスグリルパン＋納豆おにぎりと切りそうめん",
+    "comment": "大胆なタンパク質の集合体で、見た目のインパクトは抜群です。焼き魚の脂やうなぎの照りがパンと組み合わさって意外な美味しさを生み出します。納豆おにぎりは温めて握ると粘りが増すので、熱さに気を付けてくださいね、手をヤケドしないように！",
+    "image_prompt": "焼き色の付いたパンの上にハム、生ハム風の薄切り、ソーセージの輪切り、そして脂が照る焼きさば・焼きさけ・さんま・蒲焼きうなぎのフィレを豪快に並べたワンプレート。パンの端はカリッと焦げ目が付き、魚は焼き目と照りが美味しそうに光る。隣には湯気の立った温かい納豆を乗せて軽く握ったおにぎりがあり、納豆の糸とごはん粒の艶が見える。さらに短く切ったそうめんを小鉢に盛り、刻みねぎと白ごま、海苔の細切りを散らして彩りを添える。木目のプレートと和風の布を敷いた背景、自然光の柔らかい斜め光で温かさを表現、クローズアップで質感と照り、湯気が感じられる高解像度の食欲をそそる描写。",
+    "finished_at": "2025-09-07T03:20:45.029562"
+}
