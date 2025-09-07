@@ -1,0 +1,101 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "より"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "へ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ]
+    ],
+    "job_id": "b5f3381f-8866-4f2d-bff3-15ac9ce46de2",
+    "created_at": "2025-09-07T06:16:57.860197",
+    "estimated_duration": 50965,
+    "started_at": "2025-09-07T06:16:57.862604",
+    "title": "ごま尽くしの包み",
+    "comment": "徹底したごま尽くしで、香ばしさとコクが前面に出る潔い一品です。手順通りに炒って包めば、外は香ばしく中はねっとりした食感のコントラストが楽しめます。ただしごまアレルギーの方は要注意、ごまの海に溺れる覚悟で召し上がれ！",
+    "image_prompt": "白ごまと黒ごまをふんだんに使ったごま尽くしの一皿。軽く焙煎して黄金色に輝く白ごまの粒と深い艶の黒ごまが混ざり合い、外側を薄いごまの膜で丁寧に包んだ小さな丸い包みが数個、木目の平皿に並んでいる。ひとつを割ると、中にはより淡い色の剥きごまがしっとりと詰まり、ねっとりとしたごまペーストが顔を出す。表面にはごま油の薄い照りとローストしたごまの焦げ目が散らされ、細かなごまの粒が光を受けてザクッとした質感を伝える。暖かい自然光の下、45度の角度で撮影したクローズアップ写真を想定し、浅い被写界深度で外側のカリッとした層と内側のしっとりした層の対比が際立つ、食欲をそそるプロフェッショナルなフードフォトを目指す。",
+    "finished_at": "2025-09-07T06:17:52.040116"
+}
