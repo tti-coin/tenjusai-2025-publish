@@ -1,0 +1,131 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "フォー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソース"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ケチャップ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "コチュジャン"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "豆板醤"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バルサミコ酢"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "むく"
+            }
+        ]
+    ],
+    "job_id": "d603a2a0-c134-4465-8919-c1130f2b45bc",
+    "created_at": "2025-09-07T02:18:08.551552",
+    "estimated_duration": 47437,
+    "started_at": "2025-09-07T02:18:08.554189",
+    "title": "ごちゃまぜソースのフォー炒め",
+    "comment": "調味料を大胆に重ねることで、想像以上に複雑でパンチのある旨味が生まれます。焦げや塩辛さに注意して中火でじっくり焼くと甘みと香ばしさが引き立ちます。見た目はかなり攻めてますが、一口食べればクセになる可能性大—冒険心を持って召し上がれ！",
+    "image_prompt": "浅い鉄鍋で切ったフォー麺をこんがりと焼き、ケチャップの鮮やかな赤、コチュジャンと豆板醤の深い朱、味噌と醤油の濃厚な茶色、マヨネーズのクリーミーな白、バルサミコの艶が混ざり合って光沢のある照りを放つ一皿。ソースはキャラメリゼされた砂糖の甘みと酢の酸味がバランスを作り、所々に焼き色とカリッとした焦げ目がついている。傍らには剥いたばかりの薄緑のキャベツの葉をざっくり盛り付け、刻みネギと白ごまを散らし、少量のごま油の艶と湯気が立ち上る温かい家庭的な雰囲気。木製テーブルの上に置かれた鉄鍋のクローズアップで、暖色系の自然光が食材の質感とソースの複雑な色合いを引き立てる描写を重視してください。",
+    "finished_at": "2025-09-07T02:19:04.030414"
+}
