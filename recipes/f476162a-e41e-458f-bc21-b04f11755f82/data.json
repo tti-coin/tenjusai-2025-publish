@@ -1,0 +1,145 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "小麦粉"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "キウイ"
+            },
+            {
+                "type": "ingredient",
+                "value": "さくらんぼ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "f476162a-e41e-458f-bc21-b04f11755f82",
+    "created_at": "2025-09-07T04:48:17.985750",
+    "estimated_duration": 47924,
+    "started_at": "2025-09-07T04:48:17.988102",
+    "title": "フルーツ焼きケーキ",
+    "comment": "色鮮やかなフルーツがたっぷりで見た目のインパクト大、パーティーでも注目を浴びます。材料もシンプルで焼きたての香りとクリームの組み合わせが最高に美味しいです。最後に「愛情」で仕上げるのは最高の隠し味、食べる人がにっこりすること間違いなしです。",
+    "image_prompt": "しっとりと焼き上げられた丸い焼きケーキのクローズアップ。表面は黄金色でバターの艶があり、中心に盛られた白い生クリームがふんわりとした山を作る。周囲に薄くスライスしたりんご、半分に切ったいちご、皮をむいたみかんやオレンジの房、デコポンの鮮やかなオレンジ、紫と緑のぶどうとマスカットの房、輪切りのキウイ、赤いさくらんぼ、点在するブルーベリーとラズベリーを色とりどりに並べ、全体に粉砂糖を軽く振る。クリームの一部はハート形に絞って“愛情”が伝わる演出にし、切り分けた断面にはきめ細かなクラムが見える。温かい木目のテーブル、柔らかい自然光、浅い被写界深度で背景をぼかし、高解像度・美味しそうに見えるリアルなフードフォトを目指す。",
+    "finished_at": "2025-09-07T04:49:04.723543"
+}
