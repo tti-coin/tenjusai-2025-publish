@@ -1,0 +1,99 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "はくさい"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "particle",
+                "value": "から"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ]
+    ],
+    "job_id": "b56ccd52-bce6-4f88-995b-2a85a12212d2",
+    "created_at": "2025-09-07T02:28:02.959945",
+    "estimated_duration": 50526,
+    "started_at": "2025-09-07T02:28:02.962093",
+    "title": "ゆで白菜とキャベツのフルーツがけ",
+    "comment": "生のキャベツとゆでた白菜の食感のコントラストが楽しく、フルーツの甘酸っぱさがアクセントになって魅力的です。白菜は長時間ゆでると崩れやすいので、柔らかさは好みに合わせて調整すると良いでしょう。みかんが二回登場する勢いのあるレシピですが、果汁で水っぽくなりやすいので食べる直前にかけるのがコツです。",
+    "image_prompt": "白い丸皿に盛られた料理のクローズアップ。手前に粗めに刻んだ生のキャベツ、奥側に湯気が立つ柔らかくゆでた白菜の葉を重ね、その上に色とりどりのカットフルーツ（みかん、いちご、りんご、パイナップル）が山のように散らされ、果汁が艶やかに皿に垂れている。光沢のある果肉の質感、白菜のしんなり感と生キャベツのシャキッとした繊維が対比する様子を強調。自然光の柔らかいサイドライティングで温かみのある色調、浅い被写界深度で前ボケ・後ボケを作りつつ、テーブルは木目のあるナチュラルな質感、背景はぼかしたキッチンの雰囲気。高解像度で食欲をそそるリアリスティックなフードフォトスタイル。",
+    "finished_at": "2025-09-07T02:29:20.039949"
+}
