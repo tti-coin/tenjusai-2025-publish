@@ -1,0 +1,211 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "デコポン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "efaf4929-6f72-434c-b4c4-2e9aa06a7875",
+    "created_at": "2025-09-07T05:05:50.798340",
+    "estimated_duration": 45673,
+    "started_at": "2025-09-07T05:05:50.801940",
+    "title": "デコポン香るクリーミービーフ豆腐丼",
+    "comment": "柑橘の明るさと濃厚なクリームチーズソースのコントラストが面白く、焼き豆腐と牛肉の食感差も楽しめます。ポン酢の酸味がコッテリをすっきりまとめるので塩分と酸味のバランスに注意してください。にんじんはピューレにして滑らかに、デコポンは果皮ごと香りを生かすと“愛情”が視覚的にも効きますよ、ハートのヨーグルトで可愛さ増し増しです。",
+    "image_prompt": "白い深めの陶器の丼に盛られた温かい一皿。艶のあるご飯の上に香ばしく焼き色のついた薄切り牛肉がふんわり重なり、横にはこんがり焼いた豆腐の角切りが並ぶ。牛肉と豆腐の間に、滑らかに溶かしたにんじんピューレがリボン状に添えられ、その上からとろりとした生クリームとチーズとバターのクリーミーソースが光を受けて艶やかにかかる。器の縁にはすりおろしたデコポンの鮮やかなオレンジ色の果肉と皮の微細なゼストが散らされ、刻んだ長ねぎがちぎったような無造作な美しさでトッピングされている。ポン酢がアクセントとして筋状に垂らされ、艶のあるソースの合間に酸味が香る。最後にヨーグルトがハート型の小さなディップのように可愛く盛り付けられ、湯気が立ち上る温かい雰囲気、木製のテーブル、柔らかい自然光の下で接写気味に撮影された高解像度の美味しそうな食べ物写真を想像してください。",
+    "finished_at": "2025-09-07T05:06:36.572908"
+}
