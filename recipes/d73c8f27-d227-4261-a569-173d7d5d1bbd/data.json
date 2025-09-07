@@ -1,0 +1,169 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "まぐろ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たら"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たい"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さば"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "あじ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "さんま"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "あゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "うなぎ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たらこ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "たこ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "かに"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "溶かす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "バナナ"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ]
+    ],
+    "job_id": "d73c8f27-d227-4261-a569-173d7d5d1bbd",
+    "created_at": "2025-09-07T06:19:24.979364",
+    "estimated_duration": 49894,
+    "started_at": "2025-09-07T06:19:24.981631",
+    "title": "シーフードメルトとおろしフルーツの盛り合わせ",
+    "comment": "まぐろやさけ、たらなど海のスターたちを全部溶かした大胆なアイデアで、味の海流が一皿に押し寄せる面白さがあります。りんご・なし・バナナのすりおろしが甘酸っぱさでアクセントをつけ、意外とフルーティーな後味になる可能性があるので驚きと笑いのある一皿です。とはいえ生ものの扱いとアレルギー・加熱の有無には十分注意して、パーティーで出すなら『説明のある勇者向けメニュー』として振る舞うのをおすすめします。",
+    "image_prompt": "大皿に艶やかに広がる“溶けた”シーフードペーストを中心に、まぐろの深い赤、さけの淡いオレンジ、たらやほたての白、たらこやうなぎの濃い色味が混ざり合ったマーブル模様を強調。ところどころに赤いえびや甲殻類の殻の断片、タコやイカの輪切りがテクスチャーとして残り、カニの爪や貝殻の飾りを添える。隣にすりおろしたりんご・なし・バナナの淡いクリーム色の山を盛り、柑橘の皮を細く削ったものとミントやディルの小さな葉で爽やかさを演出。表面にオリーブオイルの薄い光沢とごく軽い湯気、背景は木のテーブルと暖かい自然光、浅い被写界深度で接写し、高解像度・美味しそうに見える料理写真スタイルで。",
+    "finished_at": "2025-09-07T06:20:16.396873"
+}
