@@ -1,0 +1,103 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ヨーグルト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "9bd3f608-c589-4ad2-b254-8052f3e56283",
+    "created_at": "2025-09-07T04:53:35.924256",
+    "estimated_duration": 44738,
+    "started_at": "2025-09-07T04:53:35.926750",
+    "title": "桃とマスカットのクリーミーデザート",
+    "comment": "生クリームとチーズ、ヨーグルトの組み合わせでコクと爽やかさが両立した贅沢な味わいになります。生クリームはしっかり泡立てて重ねると見た目も食感も映えるので丁寧に仕上げてください。盛り付けは「もももも…」とリズム良く大胆に並べると楽しく、美味しさも伝わります。",
+    "image_prompt": "透明なガラスのボウルに淡いアイボリー色のクリーミーなベース（生クリームとクリームチーズとヨーグルトを砂糖でやさしく合わせたもの）をなめらかに盛り、上面にふんわりと白いホイップクリームをたっぷりのせる。ホイップの周りに瑞々しい黄桃の薄切りを扇状に並べ、鮮やかなグリーンのマスカットを粒ごとまたは半分に切って光沢よく散らす。軽く粉砂糖をふり、はちみつを艶よく垂らしたりミントの小枝を添えてコントラストを加える。木のテーブルに置き、柔らかい自然光が側面から差し込む45度のアングル、浅い被写界深度で背景をやわらかくボケさせた高解像度のフォトリアルなフード写真。質感（とろりとしたクリーム、ふわふわのホイップ、みずみずしい果実）の対比を強調すること。",
+    "finished_at": "2025-09-07T04:54:20.270137"
+}
