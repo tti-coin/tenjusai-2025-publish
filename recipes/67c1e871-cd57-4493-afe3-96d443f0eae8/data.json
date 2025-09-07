@@ -1,0 +1,155 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "オクラ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "ゴーヤ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまねぎ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ながいも"
+            },
+            {
+                "type": "ingredient",
+                "value": "まいたけ"
+            },
+            {
+                "type": "ingredient",
+                "value": "かぼちゃ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "和える"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ポン酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "ごま油"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豆腐"
+            },
+            {
+                "type": "ingredient",
+                "value": "わかめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "こんぶ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "とうがらし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ]
+    ],
+    "job_id": "67c1e871-cd57-4493-afe3-96d443f0eae8",
+    "created_at": "2025-09-07T07:03:08.997967",
+    "estimated_duration": 52545,
+    "started_at": "2025-09-07T07:03:09.000724",
+    "title": "蒸し野菜とビーフンの和風チーズサラダ",
+    "comment": "色と食感のコントラストが楽しい一皿で、蒸し野菜の甘みとかぼちゃのコク、青菜のほろ苦さが絶妙に調和しています。チーズバターと昆布・わかめの旨味が深みを出し、ポン酢ごま油のドレッシングが全体を引き締めます。長いもや豆腐の食感は優しく、唐辛子のピリッとしたアクセントで最後まで飽きさせません（野菜会議が開かれているような味わいです）。",
+    "image_prompt": "蒸したオクラ、レタス、ゴーヤの鮮やかな緑、ほくほくのかぼちゃのオレンジ、まいたけの淡い茶色、薄くスライスした長いもとたまねぎの白、ぷるんとしたビーフンが混ざり合った和風サラダを、深めの和皿に美しく盛り付ける。崩した豆腐と柔らかな若布・細切り昆布をふんわりのせ、溶けたチーズとバターが所々に光るクリーミーなソース状の塊をアクセントに添える。ポン酢・ごま油・酢のドレッシングが全体に薄く艶を与え、輪切りの赤とうがらしと白ごま、刻み青ねぎを散らして辛味と香ばしさをプラス。湯気が立ち上る温感と冷たい豆腐のコントラスト、自然光の柔らかい陰影で質感を強調したクローズアップ、食欲をそそる艶と細部のディテールを重視して撮影された一枚。",
+    "finished_at": "2025-09-07T07:03:56.720411"
+}
