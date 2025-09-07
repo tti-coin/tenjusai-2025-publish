@@ -1,0 +1,125 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブロッコリー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "羊肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "まいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "えのき"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しいたけ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しめじ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "バルサミコ酢"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ]
+    ],
+    "job_id": "66664eba-3db9-4ff3-931c-b0012b81fc48",
+    "created_at": "2025-09-07T02:34:15.635569",
+    "estimated_duration": 51263,
+    "started_at": "2025-09-07T02:34:15.638438",
+    "title": "ラムのバルサミック茸と彩り蒸し野菜プレート",
+    "comment": "バルサミコの甘酸っぱさがキノコとラムの旨味をうまく引き立てる、豪華で満足感の高い一皿です。蒸し野菜は彩りと食感のコントラストを生み、ヘルシーさも同時に楽しめます。ラムをほぐす瞬間の幸福感は保証付き、ソースを舐めすぎないように注意しましょう（と言いつつついつい舐めるんですよね）。",
+    "image_prompt": "温かく豪華な一皿、中心にほろほろと崩れるように煮込まれたラムの塊を配置し、濃厚で照りのあるバルサミコソースが表面に艶を与えている様子を描写。ラムの横には香ばしく炒められたまいたけ、えのき、しいたけ、しめじが艶やかに絡み合い、バルサミコの深い茶色の照りがきらめく。別に蒸して鮮やかな緑を保った芽キャベツ、ズッキーニ、ブロッコリーが湯気を立てて並び、対照的に真っ赤なスライストマトがフレッシュさと色味を加える。粒胡椒と刻んだパセリやミントの緑、オリーブオイルの淡い光沢が全体をまとめる。温かい木製テーブルの上に素朴な白い陶器のプレートで、浅い被写界深度と自然光を用い、蒸気とソースの艶を強調したクローズアップで撮影。高解像度、リアルで食欲をそそる構図。",
+    "finished_at": "2025-09-07T02:35:01.193129"
+}
