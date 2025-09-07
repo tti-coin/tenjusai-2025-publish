@@ -1,0 +1,153 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "米粉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "米粉"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "ロマネスコ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            },
+            {
+                "type": "operation",
+                "value": "レンジでチンする"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バター"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "もも"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "注ぐ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "df6eac74-cba6-469f-a96c-3e89b7951605",
+    "created_at": "2025-09-07T04:00:09.069209",
+    "estimated_duration": 44027,
+    "started_at": "2025-09-07T04:00:09.072117",
+    "title": "ロマネスコと米粉のプレート（なすとはちみつビーフジャーキー添え）",
+    "comment": "遊び心満点の組み合わせで見た目のインパクト大、色合いも鮮やかで写真映えします。電子レンジで加熱する際はビーフジャーキーや果物の過熱に注意してください、焦げや溶け出しを防ぎましょう。愛情を「注ぐ」演出はユーモアのある仕上げで、提供時に笑顔を誘うこと間違いなしです。",
+    "image_prompt": "薄く焼いた米粉の生地に刻んだロマネスコの緑色の小房が散りばめられた一皿をクローズアップで描写。外側はこんがりとした黄金色で、中心はふんわり。隣には電子レンジで温められた艶のあるはちみつがかったなすのスライスが重なり、その上に細かく裂いたビーフジャーキーが散らされている。別添えに、薄くスライスした桃と半分に切ったマスカットでバターの塊を包んだ小さな包みが置かれ、バターがわずかに溶け出している様子が見える。皿にははちみつベースの艶のあるソースをハート形に注ぎ、湿った湯気が立ちのぼる温かい雰囲気。木製のテーブルと白いセラミックの深皿、ナチュラルな側光で質感とツヤを強調し、食欲をそそる高解像度で描写してください。",
+    "finished_at": "2025-09-07T04:00:58.867618"
+}
