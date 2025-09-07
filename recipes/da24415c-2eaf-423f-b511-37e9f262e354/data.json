@@ -1,0 +1,117 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "ingredient",
+                "value": "ベーコン"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "バルサミコ酢"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生クリーム"
+            },
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "うずら卵"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "メロン"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "da24415c-2eaf-423f-b511-37e9f262e354",
+    "created_at": "2025-09-07T02:16:41.611297",
+    "estimated_duration": 49174,
+    "started_at": "2025-09-07T02:16:41.613908",
+    "title": "ベーコン巻き揚げトマトのバルサミコプレート",
+    "comment": "しそとバルサミコの香りが揚げトマトとベーコンの旨味を引き立てる、職人技の組み合わせです。生クリームやクリームチーズ、フルーツの甘みが酸味の強いバルサミコと絶妙に調和して、驚くほどバランスの良い味わいになります。トマトは揚げすぎると破裂するので気をつけてくださいね、でも見た目はまるで食べられる小さな宝石です。",
+    "image_prompt": "黄金色に揚がったプチトマトを豚肉ベーコンでしっかり巻き、外はカリッと内部はジューシーに仕上げた一皿。刻んだ緑のしそを散らし、濃厚で艶のあるバルサミコ酢を細く流し掛けて光らせる。皿の片側には生クリームとクリームチーズを小さなポーションで盛り、半分に切ったとろりとしたうずら卵を添える。彩りに赤いイチゴ、黄緑のメロンの角切り、淡い紫のぶどうをバランスよく配置し、木製のテーブル上で柔らかい自然光に照らされたフォトジェニックなクローズアップ。高解像度、フォトリアリスティック、浅い被写界深度で質感と艶を強調する描写。",
+    "finished_at": "2025-09-07T02:17:18.577992"
+}
