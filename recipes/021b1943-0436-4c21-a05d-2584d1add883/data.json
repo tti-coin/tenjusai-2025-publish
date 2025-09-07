@@ -1,0 +1,157 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "蒸す"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "ingredient",
+                "value": "レモン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "レタス"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "つぶす"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            },
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "混ぜる"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "包む"
+            }
+        ]
+    ],
+    "job_id": "021b1943-0436-4c21-a05d-2584d1add883",
+    "created_at": "2025-09-07T02:59:11.610325",
+    "estimated_duration": 51399,
+    "started_at": "2025-09-07T02:59:11.613666",
+    "title": "蒸しパン包みビーフオムレツ レモンマヨ添え",
+    "comment": "蒸しパンのふわふわとつぶした牛肉卵のほっこり感が合わさって、意外にクセになる一品です — 見た目は家庭的、味は職人芸（自称）！ レモン風味マヨとしょうゆ砂糖の照りが甘辛爽やかに効いて、食欲をそそります。 しょうゆの塩気と砂糖の量は調整し、牛肉はしっかり火を通しつつ蒸しパンがずぶ濡れにならないよう注意してくださいね。",
+    "image_prompt": "ふんわり蒸された白いパンに厚めの具材がたっぷり詰まった完成図。断面は湯気が立ち上り、つぶして混ぜた牛肉とすりおろした卵を焼いて作った黄金色のオムレツが中心にあり、シャキッとした緑のレタスがアクセントにのっている。表面には照りのあるしょうゆと砂糖の甘辛いグレーズが艶やかに垂れ、上からはレモン風味のマヨネーズが薄く螺旋状に掛かっている。蒸しパンの白と卵の黄金、レタスの鮮やかな緑、グレーズの深い琥珀色がコントラストを成し、ジューシーな肉の繊維やふわふわのパン質感、艶のあるソースの光沢感がはっきり分かるように描写。木製のボードに置き、横にレモンスライスと小さなソース入れを添え、柔らかい自然光で温かみのある食欲をそそる演出を加える。",
+    "finished_at": "2025-09-07T02:59:57.690040"
+}
