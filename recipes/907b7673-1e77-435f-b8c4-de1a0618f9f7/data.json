@@ -1,0 +1,205 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほたて"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "マヨネーズ"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "さけ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "チーズ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ビーフン"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "パイナップル"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ちぎる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鶏肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "揚げる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "鴨肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "すりおろす"
+            }
+        ]
+    ],
+    "job_id": "907b7673-1e77-435f-b8c4-de1a0618f9f7",
+    "created_at": "2025-09-07T03:34:45.662728",
+    "estimated_duration": 45347,
+    "started_at": "2025-09-07T03:34:45.666145",
+    "title": "ほたてと海老のマヨ焼き盛り合わせ",
+    "comment": "マヨネーズを焼いて香ばしい焦げ目を付けるアイデアが食欲をそそります。揚げ物が多いので油の温度管理と塩分に気を付ければ味のバランスが良くなります。パイナップルやレモンの酸味が重たい一皿を爽やかにしてくれるので、意外と楽しく食べられます。",
+    "image_prompt": "A large rustic ceramic platter showcasing broiled scallops topped with golden-browned mayonnaise and a glossy soy drizzle, each scallop slightly caramelized and glistening; crispy golden tempura shrimp placed artfully on a dollop of creamy mayo; a deep-fried salmon fillet with a crunchy mahogany crust; torn, double-fried chicken pieces with irregular crispy edges; a wedge of baked, bubbling melted cheese with light char marks; fine stir-fried rice vermicelli (beehoon) forming a delicate nest beneath the proteins; bright yellow pineapple wedges and a lemon wedge for contrast; a small mound of grated duck meat presented as a soft, pinkish garnish; garnished with chopped green herbs and microgreens, scattered sesame seeds, and a light drizzle of soy for gloss; warm steam, high-detail close-up, shallow depth of field, natural studio lighting that emphasizes golden textures, glossy sauces and melting cheese, vibrant appetizing colors, cinematic food photography feel.",
+    "finished_at": "2025-09-07T03:35:31.740407"
+}
