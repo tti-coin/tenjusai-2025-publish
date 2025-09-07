@@ -1,0 +1,39 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "ingredient",
+                "value": "牛肉"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "ingredient",
+                "value": "とうもろこし"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ]
+    ],
+    "job_id": "f5655233-6bf9-4f25-a6b5-42d77fa35438",
+    "created_at": "2025-09-07T05:07:18.814483",
+    "estimated_duration": 45519,
+    "started_at": "2025-09-07T05:07:18.816475",
+    "title": "牛肉と焼きとうもろこしのライスボウル",
+    "comment": "シンプルながら香ばしい焼きとうもろこしとジューシーな牛肉の組み合わせが魅力です。とうもろこしはほどよく焦げ目をつけると甘みが引き立ちますが、焦がし過ぎないように注意してください。ごはんには少量のバターやタレを混ぜるとさらに味がまとまり、箸が止まらなくなるかもしれませんよ。",
+    "image_prompt": "A steaming rice bowl topped with thinly sliced grilled beef and charred sweet corn kernels, artfully arranged in a rustic wooden bowl. The beef shows glossy glaze and clear grill marks, glistening with savory juices; the corn has golden-brown char and a buttery sheen. Garnish includes finely chopped scallions, toasted sesame seeds, a small pat of melting butter, and a wedge of lime or lemon on the side. Capture warm natural light, visible steam rising from the rice, shallow depth of field, high-resolution photorealistic texture, close-up composition that emphasizes the contrast between tender beef, crunchy charred corn, and fluffy rice. Include subtle sauce drips, a pair of wooden chopsticks resting on the bowl rim, and a soft rustic table background for an inviting, homey atmosphere.",
+    "finished_at": "2025-09-07T05:08:08.938677"
+}
