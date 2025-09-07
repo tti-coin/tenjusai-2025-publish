@@ -1,0 +1,101 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ズッキーニ"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "ingredient",
+                "value": "にんじん"
+            },
+            {
+                "type": "ingredient",
+                "value": "しそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "芽キャベツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "えだまめ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ほうれん草"
+            },
+            {
+                "type": "ingredient",
+                "value": "サニーレタス"
+            },
+            {
+                "type": "ingredient",
+                "value": "ラズベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "いちご"
+            },
+            {
+                "type": "ingredient",
+                "value": "みかん"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "ぶどう"
+            },
+            {
+                "type": "ingredient",
+                "value": "マスカット"
+            },
+            {
+                "type": "ingredient",
+                "value": "ブルーベリー"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            }
+        ]
+    ],
+    "job_id": "e6b5a936-370f-4d24-a493-0ee51a5d619a",
+    "created_at": "2025-09-07T06:55:20.853703",
+    "estimated_duration": 50941,
+    "started_at": "2025-09-07T06:55:20.856138",
+    "title": "芽キャベツとしそのズッキーニフルーツサラダ",
+    "comment": "色彩豊かで見た目から元気が出るサラダです。芽キャベツのほろ苦さとベリー類や柑橘の甘酸っぱさが楽しいコントラストを生み、しそが爽やかにまとめます。果物の甘みが強いのでドレッシングは軽めにして、食べる直前に混ぜるとシャキッと美味しく仕上がります。",
+    "image_prompt": "色鮮やかな一皿、中央に軽くローストした芽キャベツの半割りと薄くスライスしたズッキーニのリボンを配し、その周りにしその葉を散らす。トマトの角切り、にんじんのリボン、茹でたえだまめ、ほうれん草とサニーレタスの若葉を重ね、ラズベリー、いちごのスライス、ブルーベリー、ぶどう、マスカット、みかんやオレンジの房、薄切りりんごをランダムに散らして果実感を強調する。軽く照りのあるシトラス系のしそドレッシングが全体を包み、オリーブオイルの光沢とレモンの汁が葉や果実に反射している。ナチュラルウッドのボウルに盛り、自然光の下で浅い被写界深度、背景はぼかしてサラダの色と質感を際立たせる。",
+    "finished_at": "2025-09-07T06:56:39.764836"
+}
