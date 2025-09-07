@@ -1,0 +1,133 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "りんご"
+            },
+            {
+                "type": "ingredient",
+                "value": "オレンジ"
+            },
+            {
+                "type": "ingredient",
+                "value": "グレープフルーツ"
+            },
+            {
+                "type": "ingredient",
+                "value": "なし"
+            },
+            {
+                "type": "ingredient",
+                "value": "洋なし"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "生ハム"
+            },
+            {
+                "type": "ingredient",
+                "value": "ソーセージ"
+            },
+            {
+                "type": "ingredient",
+                "value": "ビーフジャーキー"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "握る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "かける"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "ingredient",
+                "value": "パン"
+            },
+            {
+                "type": "ingredient",
+                "value": "うどん"
+            },
+            {
+                "type": "ingredient",
+                "value": "パスタ"
+            },
+            {
+                "type": "ingredient",
+                "value": "そば"
+            },
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "ingredient",
+                "value": "みそ"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "ingredient",
+                "value": "酢"
+            },
+            {
+                "type": "ingredient",
+                "value": "はちみつ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "盛り付ける"
+            }
+        ]
+    ],
+    "job_id": "3b17540d-dd89-4c3f-a12b-f67db5eaa984",
+    "created_at": "2025-09-07T02:27:56.373327",
+    "estimated_duration": 50526,
+    "started_at": "2025-09-07T02:27:56.375799",
+    "title": "フルーツと生ハムの卵盛りプレート",
+    "comment": "果物の爽やかな酸味と生ハム類の塩気がユニークに響く、冒険心あふれる一皿です。卵は新鮮なものを使って半熟にするのがポイント、ドキドキする味の融合を楽しんでください。炭水化物と調味料が多彩なので盛り付けバランスに注意すると見た目も味もさらに良くなります。",
+    "image_prompt": "大きめの木製テーブルの上に置かれた丸い白い大皿。りんご、オレンジ、グレープフルーツ、和梨と洋梨を薄く扇状にスライスして瑞々しく並べ、中央には生ハム、薄切りソーセージ、細切りビーフジャーキーをくるくると巻いて一塊に形作る。上から半熟のとろりとした卵黄がのっていて、黄身がほんのり光を受けて輝く。皿の周囲にはごはんを小さな山にしたもの、厚切りパンのスライス、くるっと巻いたうどんとパスタ、ざるそば風の束、中華麺の小さな束をランダムに配置。醤油の艶、味噌のペースト状の塗り、砂糖の粒の光沢、酢の透明な滴、はちみつのとろみがそれぞれの素材にさっとかかり、ミントやパセリの小さな葉、白ごま、粗挽き黒胡椒で仕上げる。暖かい自然光、浅めの被写界深度でディテールを際立たせ、色彩のコントラストと食感の対比が伝わるように。美味しそうで奇抜なフェスティブプレートとして映える描写を重視。",
+    "finished_at": "2025-09-07T02:29:00.531263"
+}
