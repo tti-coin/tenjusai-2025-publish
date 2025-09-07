@@ -1,0 +1,135 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "トマト"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "なす"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "焼く"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "にんにく"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "えび"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "いか"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "ごはん"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "炒める"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "塩"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "こしょう"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "オリーブオイル"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "カレー粉"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "味付けする"
+            }
+        ]
+    ],
+    "job_id": "8963bf03-12a1-4bc0-a44a-22d938902f3e",
+    "created_at": "2025-09-07T02:10:15.688935",
+    "estimated_duration": 49284,
+    "started_at": "2025-09-07T02:10:15.691677",
+    "title": "シーフードと野菜のカレー炒飯",
+    "comment": "トマトの酸味となすの香ばしさが、にんにくとオリーブオイルの香りでシーフードの旨味と見事に調和する、カレー風味の食欲そそるチャーハンです。えびといかは炒めすぎると硬くなるので短時間で火を通し、塩加減は最後に調整するのがコツです。器に盛れば海の幸と夏野菜が仲良く並んだ“海の夏祭り”のような一皿で、思わず写真を撮りたくなる楽しさがあります。",
+    "image_prompt": "焼き目のついたトマトのくし切りとなすの香ばしい輪切りがごはんの上に彩りよく並び、薄切りにしたにんにくのうっすら焦げた跡が見えるカレー風味のチャーハン。ぷりっとしたえびと白いイカの輪切りがごはんに混ざり、オリーブオイルの艶とカレー粉の黄金色が全体にまとわりつく。塩とこしょうで程よく調整され、粒立ちの良いごはんの一粒一粒にスパイスが絡んでいるのがわかる。刻みパセリとレモンのくし切りを添え、温かい湯気が立ち上る陶器の器に盛られた一皿を、柔らかい自然光で45度の角度からクローズアップした、美味しそうで温かみのある写真を想定。",
+    "finished_at": "2025-09-07T02:11:06.897990"
+}
