@@ -1,0 +1,203 @@
+{
+    "status": "done",
+    "recipe": [
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "たまご"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "ゆでる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "豚肉"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "ingredient",
+                "value": "砂糖"
+            },
+            {
+                "type": "particle",
+                "value": "と"
+            },
+            {
+                "type": "ingredient",
+                "value": "しょうゆ"
+            },
+            {
+                "type": "particle",
+                "value": "で"
+            },
+            {
+                "type": "operation",
+                "value": "煮る"
+            }
+        ],
+        [
+            {
+                "type": "operation",
+                "value": "切る"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "中華麺"
+            },
+            {
+                "type": "particle",
+                "value": "に"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "長ねぎ"
+            },
+            {
+                "type": "particle",
+                "value": "を"
+            },
+            {
+                "type": "operation",
+                "value": "切る"
+            },
+            {
+                "type": "operation",
+                "value": "のせる"
+            }
+        ],
+        [
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            },
+            {
+                "type": "ingredient",
+                "value": "愛情"
+            }
+        ]
+    ],
+    "job_id": "1475c031-b14e-47f0-8959-b8f0fdfbb4de",
+    "created_at": "2025-09-07T05:45:48.446364",
+    "estimated_duration": 47858,
+    "started_at": "2025-09-07T05:45:48.449740",
+    "title": "煮豚と甘醤油味玉の中華麺",
+    "comment": "砂糖としょうゆで煮た豚と玉子の甘辛い味付けが中華麺にしっかりマッチしていて満足度が高い一皿です。長ねぎのシャキッとした食感がアクセントになり、見た目も色合いもきれいにまとまっています。最後の「愛情」をたっぷり注げば、味も気分もさらにランクアップするでしょう！",
+    "image_prompt": "温かい中華麺の丼をクローズアップで描写。ほどよく湯切りされた細めの中華麺の上に、砂糖としょうゆでじっくり煮て照りの出た煮豚の厚切りスライスが美しく並び、表面にツヤのある甘辛いタレが軽く絡んでいる。甘醤油で煮たゆで卵が半分に切られて黄身がしっとりと落ち着いて見え、白身には醤油のほのかな色むらがついている。上には細かく刻んだ長ねぎが鮮やかな緑のアクセントを添え、湯気が立ち上る温かさと家庭的な愛情を感じさせる。木製のテーブルに置かれ、箸が添えられた自然光の柔らかいライティングで、艶やかな質感と香ばしさが伝わるリアルな写真風イメージ。",
+    "finished_at": "2025-09-07T05:46:33.135374"
+}
